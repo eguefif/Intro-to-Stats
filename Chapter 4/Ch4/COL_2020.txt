@@ -1,0 +1,102 @@
+Country	Water-(0.33 liter bottle)	Bottle of Wine-(Mid-Range)	Eggs-(regular)--12	Loaf of Fresh Bread
+Albania	0.57	6.75	1.71	0.63
+Algeria	0.19	5.8	1.05	0.13
+Argentina	0.73	2.87	1.48	1.03
+Armenia	0.34	6.23	1.51	0.48
+Australia	1.96	10.3	3.09	1.92
+Austria	2.45	7.84	3.06	2.15
+Azerbaijan	0.21	4.7	1.23	0.28
+Bahrain	0.36	21.23	2.85	1.2
+Bangladesh	0.17	11.75	1.2	0.6
+Belarus	0.47	7.28	1.21	0.56
+Belgium	2.44	7.84	2.81	1.84
+Bolivia	0.7	5.78	1.49	1.21
+Bosnia And Herzegovina	0.78	4.57	1.64	0.62
+Brazil	0.54	5.72	1.25	1.13
+Bulgaria	0.6	5.14	1.79	0.63
+Canada	1.36	11.04	2.51	2.15
+Chile	0.92	5.2	2.34	1.13
+China	0.31	11.3	1.82	1.6
+Colombia	0.55	8	1.4	0.83
+Costa Rica	1.39	12.09	2.81	1.64
+Croatia	1.54	5.91	2.74	1.06
+Cyprus	0.69	7.28	2.99	1.75
+Czech Republic	0.98	5.04	1.78	1.01
+Denmark	2.76	9.02	3.63	2.69
+Dominican Republic	0.57	7.72	1.46	1.48
+Ecuador	0.54	10	1.67	1.49
+Egypt	0.22	9.29	1.12	0.63
+Estonia	1.53	8.96	1.73	0.9
+Finland	1.8	13.44	2.25	2.26
+France	1.84	7.84	3.32	1.6
+Georgia	0.31	4.91	1.39	0.35
+Germany	2.25	5.59	2.15	1.5
+Greece	0.56	6.72	3.43	0.99
+Guatemala	0.78	7.77	1.9	1.73
+Honduras	0.76	8.09	1.94	1.65
+Hong Kong	1.01	16.06	3.62	2.07
+Hungary	0.81	3.89	1.65	0.73
+Iceland	1.9	18.12	4.94	2.88
+India	0.19	7.88	0.86	0.44
+Indonesia	0.29	19.36	1.41	1.11
+Iran	0.32	1.16	1.67	0.6
+Iraq	0.23	12.54	1.71	0.87
+Ireland	1.6	11.2	3.03	1.64
+Israel	2.03	11.59	3.66	2.12
+Italy	1.15	5.6	3.08	1.78
+Jamaica	0.73	11.73	2.52	2.22
+Japan	0.98	12.16	2.2	1.88
+Jordan	0.37	21.86	1.69	0.42
+Kazakhstan	0.38	6.18	1.05	0.33
+Kenya	0.52	9.41	1.73	0.52
+Kosovo %28Disputed Territory%29	0.6	4.2	1.23	0.44
+Kuwait	0.48	3.25	1.95	0.92
+Latvia	0.83	6.72	1.96	0.98
+Lebanon	0.59	10	3.5	0.99
+Lithuania	1.32	6.72	1.68	1.02
+Malaysia	0.32	15.21	1.25	0.79
+Malta	1.3	6.72	2.77	1.29
+Mexico	0.51	6.65	1.32	1.35
+Montenegro	1.16	4.48	1.65	0.63
+Morocco	0.36	7.72	1.25	0.63
+Nepal	0.21	5.73	1.31	0.5
+Netherlands	2.22	6.71	2.68	1.34
+New Zealand	1.9	9.65	3.36	1.58
+Nigeria	0.24	4.52	1.29	0.89
+North Macedonia	0.82	4.54	1.51	0.49
+Norway	2.72	15.6	4.04	2.88
+Oman	0.31	17.67	2.55	1.12
+Pakistan	0.21	2.69	0.72	0.4
+Palestine	0.61	11.59	2.81	0.69
+Panama	1.05	8	2.07	2
+Paraguay	0.5	5.93	1.64	0.56
+Peru	0.53	8.5	1.63	1.48
+Philippines	0.38	7.01	1.74	1.16
+Poland	0.87	5.52	1.96	0.77
+Portugal	1.06	4.48	1.93	1.22
+Qatar	0.37	32.96	2.79	1.51
+Romania	1.02	4.62	2.23	0.64
+Russia	0.45	5.75	1.1	0.51
+Saudi Arabia	0.23	2.13	2.14	0.81
+Serbia	0.86	4.18	1.44	0.46
+Singapore	1.01	21.5	2.15	1.73
+Slovakia	1.25	5.6	2.1	1.05
+Slovenia	1.66	6.72	2.48	1.32
+South Africa	0.62	4.04	1.76	0.8
+South Korea	0.75	13.11	2.61	2.46
+Spain	1.31	5.6	1.98	1.13
+Sri Lanka	0.25	10.16	1.25	0.41
+Sweden	1.86	9.81	3.01	2.41
+Switzerland	3.69	13.67	5.76	3
+Taiwan	0.68	15.21	2.26	1.83
+Thailand	0.35	19.37	1.64	1.26
+Trinidad And Tobago	0.74	17.72	3.2	1.9
+Tunisia	0.24	5.07	1	0.13
+Turkey	0.21	7.3	1.67	0.38
+Ukraine	0.38	3.73	1.07	0.48
+United Arab Emirates	0.39	13.61	2.73	1.23
+United Kingdom	1.21	8.67	2.38	1.24
+United States	1.54	12	2.36	2.71
+Uruguay	0.98	5.38	1.96	1.62
+Uzbekistan	0.27	2	1.07	0.2
+Vietnam	0.32	10.77	1.39	0.75

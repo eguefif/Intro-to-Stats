@@ -1,0 +1,450 @@
+Rank	City	Bread	Eggs 	Water(1.5l)
+1	"Oakland, CA, United States"	4.04	3.61	2.5
+2	"San Diego, CA, United States"	3.95	3.58	1.83
+3	"Berkeley, CA, United States"	3.91	4	1.9
+4	"Honolulu, HI, United States"	3.75	4.02	2.54
+5	"New York, NY, United States"	3.74	3.68	2.15
+6	"Los Angeles, CA, United States"	3.69	3.49	2.1
+7	"Irvine, CA, United States"	3.67	3.16	1.88
+8	"Seattle, WA, United States"	3.66	2.99	2.09
+9	"Long Beach, CA, United States"	3.59	3.1	1.85
+10	"Brooklyn, NY, United States"	3.5	3.24	2.39
+11	"Sacramento, CA, United States"	3.45	3.01	1.3
+12	"San Francisco, CA, United States"	3.42	3.6	2.04
+13	"Lausanne, Switzerland"	3.38	5.76	0.97
+14	"Washington, DC, United States"	3.37	2.71	1.55
+15	"Stavanger, Norway"	3.34	3.86	2.75
+16	"Portland, OR, United States"	3.31	3.13	2.12
+17	"Boston, MA, United States"	3.25	2.58	2.19
+18	"Pittsburgh, PA, United States"	3.24	1.95	2.25
+19	"Reykjavik, Iceland"	3.24	5.2	1.63
+20	"Zurich, Switzerland"	3.2	6.15	1.19
+21	"Miami, FL, United States"	3.16	3.08	2.13
+22	"Chicago, IL, United States"	3.14	2.27	2.5
+23	"Minneapolis, MN, United States"	3.14	2.23	1.73
+24	"Odense, Denmark"	3.13	3.65	1.06
+25	"Denver, CO, United States"	3.12	2.7	1.9
+26	"San Jose, CA, United States"	3.12	3.07	1.74
+27	"Trondheim, Norway"	3.12	4.54	2.04
+28	"Copenhagen, Denmark"	3.11	3.92	1.45
+29	"Aalborg, Denmark"	3.07	3.39	2.42
+30	"Philadelphia, PA, United States"	3.04	2.71	2.13
+31	"Geneva, Switzerland"	3.03	6.49	1.13
+32	"Basel, Switzerland"	3.02	6.11	0.99
+33	"Madison, WI, United States"	3.01	1.93	1.87
+34	"Reno, NV, United States"	2.98	2.6	1.8
+35	"Oslo, Norway"	2.98	3.9	1.67
+36	"Jacksonville, FL, United States"	2.94	2.6	1.54
+37	"Raleigh, NC, United States"	2.83	2.12	1.79
+38	"Omaha, NE, United States"	2.8	1.97	1.62
+39	"Atlanta, GA, United States"	2.78	2.4	1.8
+40	"Tampa, FL, United States"	2.73	2.54	2.23
+41	"Gothenburg, Sweden"	2.71	2.99	1.59
+42	"Orlando, FL, United States"	2.7	2.42	2.2
+43	"Asheville, NC, United States"	2.7	2.4	2.31
+44	"Tel Aviv-Yafo, Israel"	2.68	3.7	1.49
+45	"Lugano, Switzerland"	2.64	7.05	0.47
+46	"Columbus, OH, United States"	2.64	1.82	1.58
+47	"Tampere, Finland"	2.63	2.59	1.19
+48	"Montreal, Canada"	2.62	2.45	1.6
+49	"Espoo, Finland"	2.62	1.98	1.31
+50	"Phoenix, AZ, United States"	2.61	2.19	1.77
+51	"Helsinki, Finland"	2.6	2.55	1.63
+52	"Vancouver, Canada"	2.57	2.85	1.85
+53	"Baltimore, MD, United States"	2.57	2.58	1.27
+54	"Dallas, TX, United States"	2.57	2.05	1.47
+55	"Luxembourg, Luxembourg"	2.57	4.15	1.32
+56	"Detroit, MI, United States"	2.55	1.81	1.84
+57	"Memphis, TN, United States"	2.54	2.71	2
+58	"Arhus, Denmark"	2.53	3.29	1.4
+59	"Kaohsiung, Taiwan"	2.53	1.96	1.06
+60	"Colorado Springs, CO, United States"	2.51	2.69	1.76
+61	"Nashville, TN, United States"	2.5	1.52	2
+62	"San Antonio, TX, United States"	2.49	2.42	1.83
+63	"Sarasota, FL, United States"	2.47	2.94	2.25
+64	"Graz, Austria"	2.47	3.5	0.78
+65	"Halifax, Canada"	2.45	2.77	1.77
+66	"Victoria, Canada"	2.44	2.75	1.98
+67	"Cleveland, OH, United States"	2.44	1.72	2.2
+68	"Houston, TX, United States"	2.43	2.13	2.08
+69	"Kansas City, MO, United States"	2.43	2.1	1.79
+70	"Tulsa, OK, United States"	2.42	2.14	2.24
+71	"Seoul, South Korea"	2.41	2.98	1.21
+72	"Stockholm, Sweden"	2.38	3.18	1.94
+73	"Malmo, Sweden"	2.38	3.63	1.15
+74	"Salt Lake City, UT, United States"	2.37	1.94	2.11
+75	"Mississauga, Canada"	2.35	2.43	1.8
+76	"Boise, ID, United States"	2.35	1.94	1.52
+77	"Saint Louis, MO, United States"	2.32	1.94	2.44
+78	"Trieste, Italy"	2.31	3.7	0.49
+79	"San Juan, Puerto Rico"	2.29	2.84	1.5
+80	"Bologna, Italy"	2.29	3.74	0.5
+81	"Las Vegas, NV, United States"	2.28	2.09	1.28
+82	"Quebec City, Canada"	2.28	2.57	1.6
+83	"Tucson, AZ, United States"	2.27	2.18	1.47
+84	"Toronto, Canada"	2.25	2.57	1.52
+85	"Milan, Italy"	2.25	3.49	0.44
+86	"Austin, TX, United States"	2.2	2.34	1.52
+87	"Linz, Austria"	2.2	2.86	0.64
+88	"Ottawa, Canada"	2.19	2.38	1.34
+89	"Canberra, Australia"	2.18	3.47	1.72
+90	"Bergamo, Italy"	2.15	3.49	0.38
+91	"Buffalo, NY, United States"	2.13	1.59	1.26
+92	"Saskatoon, Canada"	2.08	2.32	2.31
+93	"Hong Kong, Hong Kong"	2.07	3.62	1.92
+94	"Dubrovnik, Croatia"	2.06	5.4	2.39
+95	"Cork, Ireland"	2.06	3.17	1.42
+96	"Hamilton, Canada"	2.05	2.32	1.85
+97	"Panama City, Panama"	2.04	2.18	1.51
+98	"Indianapolis, IN, United States"	2.04	1.47	1.61
+99	"Brisbane, Australia"	2.04	3.02	1.5
+100	"Melbourne, Australia"	2.03	3.36	1.51
+101	"Vienna, Austria"	2.01	2.86	0.68
+102	"Genoa, Italy"	2	4.12	0.56
+103	"Gold Coast, Australia"	1.99	2.87	1.2
+104	"Shanghai, China"	1.99	2.36	0.68
+105	"Nicosia, Cyprus"	1.98	3.25	1.01
+106	"Las Palmas de Gran Canaria, Spain"	1.98	2.74	0.9
+107	"Bern, Switzerland"	1.97	4.44	0.46
+108	"Edmonton, Canada"	1.97	2.54	1.64
+109	"Paris, France"	1.97	4.28	1.16
+110	"Stuttgart, Germany"	1.97	2.12	0.47
+111	"Calgary, Canada"	1.96	2.53	1.67
+112	"Sydney, Australia"	1.94	3.06	1.82
+113	"Kitchener, Canada"	1.92	2.4	1.03
+114	"Perth, Australia"	1.92	3.09	1.78
+115	"Rome, Italy"	1.89	3.53	0.55
+116	"Brussels, Belgium"	1.89	3.05	1.16
+117	"Winnipeg, Canada"	1.87	2.21	1.67
+118	"Tokyo, Japan"	1.86	2.34	1.16
+119	"Osaka, Japan"	1.85	2.31	1.17
+120	"Munich, Germany"	1.85	2.76	0.65
+121	"Brighton, United Kingdom"	1.85	3.03	1.56
+122	"Antwerp, Belgium"	1.84	2.06	0.95
+123	"London, Canada"	1.82	1.89	1.5
+124	"Shenzhen, China"	1.82	2.43	0.71
+125	"Auckland, New Zealand"	1.81	3.69	1.38
+126	"Hobart, Australia"	1.81	3.5	1.8
+127	"Taipei, Taiwan"	1.81	2.45	1.22
+128	"Montevideo, Uruguay"	1.79	2.04	1.08
+129	"Guayaquil, Ecuador"	1.79	1.66	1.12
+130	"Beijing, China"	1.79	1.83	0.68
+131	"Amsterdam, Netherlands"	1.79	3.43	1.09
+132	"Turin, Italy"	1.76	3.16	0.37
+133	"Red Deer, Canada"	1.76	2.64	2.12
+134	"Limassol, Cyprus"	1.74	3.25	0.79
+135	"Christchurch, New Zealand"	1.74	3.35	1.21
+136	"Florence, Italy"	1.74	3.55	0.43
+137	"Hamburg, Germany"	1.73	2.61	0.58
+138	"Singapore, Singapore"	1.73	2.15	1.25
+139	"Louisville, KY, United States"	1.72	1.71	1.8
+140	"Limerick, Ireland"	1.72	2.71	1.24
+141	"Marseille, France"	1.71	3.28	0.5
+142	"Guatemala City, Guatemala"	1.71	2.04	0.99
+143	"Nuremberg, Germany"	1.7	2.53	0.58
+144	"Haifa, Israel"	1.7	3.97	1.12
+145	"Wellington, New Zealand"	1.69	3.77	1.26
+146	"Port of Spain, Trinidad And Tobago"	1.68	3.19	1
+147	"Toulouse, France"	1.68	3.37	0.86
+148	"Adelaide, Australia"	1.68	2.86	1.44
+149	"Chengdu, China"	1.68	2.01	0.58
+150	"Phuket, Thailand"	1.67	1.86	0.5
+151	"Lille, France"	1.66	3.6	0.4
+152	"San Jose, Costa Rica"	1.65	2.92	2.37
+153	"Cambridge, United Kingdom"	1.65	3.02	1.48
+154	"Freiburg im Breisgau, Germany"	1.65	2.07	0.47
+155	"Dublin, Ireland"	1.64	3.23	1.71
+156	"Galway, Ireland"	1.63	3.4	1.29
+157	"Sliema, Malta"	1.63	3.24	0.91
+158	"Jerusalem, Israel"	1.62	3.74	1.72
+159	"Lima, Peru"	1.59	1.8	0.89
+160	"Aachen, Germany"	1.55	2.06	0.42
+161	"Cologne, Germany"	1.55	2.28	0.54
+162	"Santo Domingo, Dominican Republic"	1.55	1.65	0.97
+163	"Reading, United Kingdom"	1.54	2.73	0.84
+164	"Bali, Indonesia"	1.54	1.72	0.45
+165	"Quito, Ecuador"	1.52	1.84	1.06
+166	"Phnom Penh, Cambodia"	1.52	1.58	0.69
+167	"Doha, Qatar"	1.52	2.66	0.56
+168	"Cancun, Mexico"	1.51	1.24	0.62
+169	"Berlin, Germany"	1.5	2.26	0.64
+170	"Zaragoza (Saragossa), Spain"	1.49	2.04	0.92
+171	"Dresden, Germany"	1.48	2.2	0.42
+172	"Heidelberg, Germany"	1.48	2.06	0.46
+173	"Barcelona, Spain"	1.46	2.01	0.78
+174	"Montpellier, France"	1.46	3.22	0.53
+175	"Bristol, United Kingdom"	1.46	2.26	1.34
+176	"Tijuana, Mexico"	1.45	1.29	0.73
+177	"Monterrey, Mexico"	1.44	1.69	0.78
+178	"Mannheim, Germany"	1.44	2	0.42
+179	"Paramaribo, Suriname"	1.43	2.12	0.72
+180	"Karlsruhe, Germany"	1.43	2.11	0.38
+181	"Bremen, Germany"	1.42	2.02	0.42
+182	"Palma de Mallorca, Spain"	1.41	2.38	0.62
+183	"Dundee, United Kingdom"	1.41	2.63	1.6
+184	"Dusseldorf, Germany"	1.41	2.23	0.53
+185	"Porto, Portugal"	1.41	1.98	0.6
+186	"Rotterdam, Netherlands"	1.4	2.59	0.88
+187	"Mexico City, Mexico"	1.39	1.45	0.62
+188	"Guangzhou, China"	1.39	1.89	0.59
+189	"Abu Dhabi, United Arab Emirates"	1.38	2.83	0.65
+190	"Leipzig, Germany"	1.37	2.17	0.37
+191	"Queretaro, Mexico"	1.37	1.09	0.71
+192	"Bonn, Germany"	1.36	2.08	0.46
+193	"Ljubljana, Slovenia"	1.35	2.66	0.82
+194	"Bilbao, Spain"	1.35	2.48	0.61
+195	"Santiago, Chile"	1.35	2.55	1.11
+196	"Haarlem, Netherlands"	1.35	2.31	0.79
+197	"London, United Kingdom"	1.34	2.59	1.03
+198	"Southampton, United Kingdom"	1.34	2.37	1.4
+199	"Guadalajara, Mexico"	1.33	1.32	0.71
+200	"Lyon, France"	1.33	3.39	0.8
+201	"Belfast, United Kingdom"	1.33	2.27	1.09
+202	"Eindhoven, Netherlands"	1.33	3.15	0.94
+203	"Leiden, Netherlands"	1.33	2.66	0.8
+204	"Utrecht, Netherlands"	1.33	3	0.94
+205	"The Hague (Den Haag), Netherlands"	1.32	2.64	0.85
+206	"Cebu, Philippines"	1.32	1.71	0.61
+207	"Plymouth, United Kingdom"	1.32	2.28	1.09
+208	"Delft, Netherlands"	1.31	2.29	0.7
+209	"Dubai, United Arab Emirates"	1.3	2.81	0.66
+210	"Brasilia, Brazil"	1.3	1	0.59
+211	"Hanover, Germany"	1.29	2.04	0.37
+212	"Chiang Mai, Thailand"	1.29	1.55	0.67
+213	"Groningen, Netherlands"	1.29	2.58	0.98
+214	"Bandung, Indonesia"	1.29	1.44	0.49
+215	"Belo Horizonte, Brazil"	1.27	1.15	0.56
+216	"Manchester, United Kingdom"	1.27	2.75	1.43
+217	"Naples, Italy"	1.26	2.62	0.63
+218	"Frankfurt, Germany"	1.25	2.29	0.65
+219	"Leicester, United Kingdom"	1.25	2.51	1.31
+220	"Manila, Philippines"	1.25	1.81	0.77
+221	"Derby, United Kingdom"	1.24	2.45	0.92
+222	"Manama, Bahrain"	1.24	2.9	0.61
+223	"Bangkok, Thailand"	1.24	1.8	0.54
+224	"Nijmegen, Netherlands"	1.24	2.75	0.9
+225	"Palermo, Italy"	1.23	2.18	0.29
+226	"Maastricht, Netherlands"	1.22	2.66	0.81
+227	"Ad Dammam, Saudi Arabia"	1.22	1.86	0.57
+228	"Jakarta, Indonesia"	1.22	1.6	0.56
+229	"Buenos Aires, Argentina"	1.21	1.57	0.91
+230	"Pattaya, Thailand"	1.21	1.62	0.64
+231	"Al Ain, United Arab Emirates"	1.21	2.53	0.63
+232	"Rijeka, Croatia"	1.2	2.49	1.14
+233	"Sao Paulo, Brazil"	1.2	1.52	0.53
+234	"Exeter, United Kingdom"	1.2	2.84	1.35
+235	"Newcastle upon Tyne, United Kingdom"	1.2	2.23	0.98
+236	"Madrid, Spain"	1.19	2.33	0.86
+237	"La Paz, Bolivia"	1.19	1.54	1.11
+238	"Leeds, United Kingdom"	1.19	2.61	1.21
+239	"Kigali, Rwanda"	1.18	1.41	0.72
+240	"Liverpool, United Kingdom"	1.18	2.28	1.14
+241	"Muscat, Oman"	1.18	2.7	0.57
+242	"Bratislava, Slovakia"	1.17	2.21	0.72
+243	"Birmingham, United Kingdom"	1.17	2.38	1.07
+244	"Edinburgh, United Kingdom"	1.17	2.21	1.25
+245	"Lisbon, Portugal"	1.17	1.9	0.63
+246	"Curitiba, Brazil"	1.16	1.18	0.57
+247	"Essen, Germany"	1.16	2.12	0.33
+248	"Oxford, United Kingdom"	1.16	3.1	0.85
+249	"Catania, Italy"	1.16	2.05	0.69
+250	"Kaunas, Lithuania"	1.16	1.6	0.87
+251	"Merida, Mexico"	1.15	1.35	0.66
+252	"Coimbra, Portugal"	1.15	2.28	0.66
+253	"Harare, Zimbabwe"	1.15	2.41	1.68
+254	"Nottingham, United Kingdom"	1.13	2.67	1.09
+255	"Rio de Janeiro, Brazil"	1.12	1.29	0.51
+256	"Sheffield, United Kingdom"	1.12	2.3	1.28
+257	"Florianopolis, Brazil"	1.12	1.19	0.81
+258	"Prague, Czech Republic"	1.11	1.89	0.64
+259	"Campinas, Brazil"	1.11	1.54	0.47
+260	"Paphos, Cyprus"	1.11	2.73	0.7
+261	"Valletta, Malta"	1.1	2.96	1.11
+262	"Heraklion, Greece"	1.09	2.99	0.56
+263	"Vilnius, Lithuania"	1.08	1.86	0.76
+264	"Olomouc, Czech Republic"	1.07	1.63	0.57
+265	"Split, Croatia"	1.07	2.74	1.32
+266	"Glasgow, United Kingdom"	1.07	2.33	1.22
+267	"Barranquilla, Colombia"	1.07	1.19	0.99
+268	"Accra, Ghana"	1.07	2.13	0.5
+269	"Kuwait City, Kuwait"	1.07	2.1	0.55
+270	"Alicante, Spain"	1.06	1.97	0.62
+271	"Zagreb, Croatia"	1.04	2.47	1.06
+272	"Surabaya, Indonesia"	1.03	1.72	0.35
+273	"Malaga, Spain"	1.02	1.58	0.52
+274	"Thessaloniki, Greece"	1	3.88	0.91
+275	"Lagos, Nigeria"	1	1.46	0.43
+276	"Riga, Latvia"	1	2.01	0.72
+277	"Tallinn, Estonia"	0.98	1.83	0.79
+278	"Baghdad, Iraq"	0.98	1.7	0.51
+279	"Porto Alegre, Brazil"	0.97	1.19	0.63
+280	"Beirut, Lebanon"	0.97	3.73	0.78
+281	"Brno, Czech Republic"	0.96	1.82	0.57
+282	"Ostrava, Czech Republic"	0.95	1.51	0.48
+283	"Sharjah, United Arab Emirates"	0.94	2.6	0.6
+284	"Valencia, Spain"	0.93	1.86	0.43
+285	"Kosice, Slovakia"	0.93	2.04	0.61
+286	"Tartu, Estonia"	0.9	1.7	0.76
+287	"Recife, Brazil"	0.9	1.26	0.79
+288	"Salvador, Brazil"	0.9	1.15	0.53
+289	"Patras, Greece"	0.9	3.68	0.49
+290	"Penang, Malaysia"	0.9	1.29	0.45
+291	"Sibiu, Romania"	0.9	1.84	0.66
+292	"Casablanca, Morocco"	0.89	1.31	0.58
+293	"Athens, Greece"	0.89	3.36	0.96
+294	"Erbil (Irbil), Iraq"	0.89	1.48	0.7
+295	"Petaling Jaya, Malaysia"	0.88	1.41	0.48
+296	"Hanoi, Vietnam"	0.88	1.51	0.76
+297	"Seville (Sevilla), Spain"	0.86	2.02	0.64
+298	"Medellin, Colombia"	0.86	1.49	0.73
+299	"Budapest, Hungary"	0.85	1.77	0.38
+300	"Warsaw, Poland"	0.85	2.14	0.56
+301	"Krakow (Cracow), Poland"	0.84	2.11	0.49
+302	"Bogota, Colombia"	0.83	1.59	0.73
+303	"Johannesburg, South Africa"	0.83	1.77	0.96
+304	"Cali, Colombia"	0.82	1.53	0.67
+305	"Durban, South Africa"	0.82	1.64	0.94
+306	"Osijek, Croatia"	0.81	2.23	1.26
+307	"Pretoria, South Africa"	0.81	1.7	0.88
+308	"Wroclaw, Poland"	0.81	2.07	0.5
+309	"Riyadh, Saudi Arabia"	0.81	2.04	0.57
+310	"Kuala Lumpur, Malaysia"	0.8	1.32	0.55
+311	"Cape Town, South Africa"	0.8	1.83	0.91
+312	"Kampala, Uganda"	0.8	1.58	0.57
+313	"Addis Ababa, Ethiopia"	0.79	1.97	0.53
+314	"Gdansk, Poland"	0.79	2.31	0.52
+315	"Poznan, Poland"	0.79	2.03	0.46
+316	"Marrakech, Morocco"	0.77	1.27	0.66
+317	"Ho Chi Minh City, Vietnam"	0.77	1.39	0.53
+318	"Brasov, Romania"	0.77	2.07	0.55
+319	"Cluj-Napoca, Romania"	0.75	2.27	0.6
+320	"Szeged, Hungary"	0.74	1.72	0.41
+321	"Saint Petersburg, Russia"	0.73	1.21	0.62
+322	"Banja Luka, Bosnia And Herzegovina"	0.73	1.67	0.54
+323	"Klaipeda, Lithuania"	0.73	1.49	0.77
+324	"Johor Bahru, Malaysia"	0.72	1.32	0.46
+325	"Bucharest, Romania"	0.72	2.43	0.59
+326	"Timisoara, Romania"	0.72	2.29	0.54
+327	"Lodz, Poland"	0.71	1.84	0.49
+328	"Jeddah (Jiddah), Saudi Arabia"	0.71	2.38	0.59
+329	"Sofia, Bulgaria"	0.69	1.9	0.64
+330	"Cairo, Egypt"	0.69	1.08	0.32
+331	"Tirana, Albania"	0.69	1.75	0.49
+332	"Katowice, Poland"	0.68	1.7	0.41
+333	"Plovdiv, Bulgaria"	0.67	1.7	0.63
+334	"Gaborone, Botswana"	0.67	2.4	1.07
+335	"Szczecin, Poland"	0.66	1.58	0.46
+336	"Dhaka, Bangladesh"	0.65	1.23	0.32
+337	"Tehran, Iran"	0.65	1.64	0.4
+338	"Ulaanbaatar, Mongolia"	0.63	1.59	0.64
+339	"Debrecen, Hungary"	0.63	1.49	0.3
+340	"Oradea, Romania"	0.63	2.34	0.53
+341	"Moscow, Russia"	0.63	1.29	0.62
+342	"Varna, Bulgaria"	0.62	1.68	0.54
+343	"Rabat, Morocco"	0.62	1.26	0.6
+344	"Gdynia, Poland"	0.62	2.2	0.46
+345	"Iasi, Romania"	0.62	2.23	0.61
+346	"Kiev (Kyiv), Ukraine"	0.61	1.12	0.5
+347	"Dar es Salaam, Tanzania"	0.61	1.99	0.45
+348	"Podgorica, Montenegro"	0.6	1.72	0.77
+349	"Damascus, Syria"	0.6	1.65	0.53
+350	"Vladivostok, Russia"	0.59	1.43	0.72
+351	"Arad, Romania"	0.59	2.12	0.57
+352	"Minsk, Belarus"	0.59	1.27	0.61
+353	"Voronezh, Russia"	0.58	1.11	0.53
+354	"Sarajevo, Bosnia And Herzegovina"	0.58	1.68	0.6
+355	"Kaliningrad, Russia"	0.58	1.08	0.54
+356	"Rajkot, India"	0.58	1	0.35
+357	"Alexandria, Egypt"	0.57	1.13	0.32
+358	"Visakhapatnam, India"	0.57	0.81	0.4
+359	"Constanta, Romania"	0.56	2.45	0.67
+360	"Skopje, North Macedonia"	0.56	1.61	0.48
+361	"Nairobi, Kenya"	0.55	1.63	1.11
+362	"Ufa, Russia"	0.54	0.99	0.43
+363	"Asuncion, Paraguay"	0.54	1.62	0.63
+364	"Lviv, Ukraine"	0.54	1.16	0.48
+365	"Burgas, Bulgaria"	0.53	1.64	0.47
+366	"Ahmedabad, India"	0.53	0.93	0.4
+367	"Bangalore, India"	0.53	0.89	0.39
+368	"Hyderabad, India"	0.52	0.8	0.4
+369	"Surat, India"	0.52	0.99	0.43
+370	"Kochi, India"	0.51	0.85	0.35
+371	"Kathmandu, Nepal"	0.51	1.34	0.29
+372	"Kazan, Russia"	0.51	1.11	0.49
+373	"Novi Sad, Serbia"	0.5	1.43	0.52
+374	"Odessa (Odesa), Ukraine"	0.5	1.14	0.49
+375	"Vinnytsia, Ukraine"	0.5	1.05	0.5
+376	"Yerevan, Armenia"	0.5	1.54	0.47
+377	"Madurai, India"	0.5	0.79	0.37
+378	"Pristina, Kosovo (Disputed Territory)"	0.49	1.22	0.43
+379	"Zaporizhzhya, Ukraine"	0.49	1.19	0.51
+380	"Chittagong, Bangladesh"	0.49	1.18	0.36
+381	"Bhubaneswar, India"	0.49	0.84	0.35
+382	"Ternopil, Ukraine"	0.49	1.18	0.52
+383	"Guwahati, India"	0.49	0.95	0.4
+384	"Agadir, Morocco"	0.48	1.38	0.56
+385	"Bursa, Turkey"	0.48	1.83	0.33
+386	"Chandigarh, India"	0.48	0.98	0.46
+387	"Islamabad, Pakistan"	0.48	0.76	0.37
+388	"Belgrade, Serbia"	0.47	1.62	0.49
+389	"Thiruvananthapuram, India"	0.47	0.86	0.37
+390	"Sumy, Ukraine"	0.47	1.04	0.44
+391	"Tomsk, Russia"	0.47	0.93	0.44
+392	"Coimbatore, India"	0.47	0.79	0.39
+393	"Irkutsk, Russia"	0.47	1.1	0.58
+394	"Krasnodar, Russia"	0.47	1.01	0.47
+395	"Nizhny Novgorod, Russia"	0.47	1.07	0.51
+396	"Novosibirsk, Russia"	0.47	1.01	0.5
+397	"Colombo, Sri Lanka"	0.46	1.25	0.44
+398	"Noida, India"	0.46	0.91	0.38
+399	"Craiova, Romania"	0.46	2.33	0.61
+400	"Delhi, India"	0.46	0.94	0.38
+401	"Gurgaon, India"	0.46	1.02	0.39
+402	"Mumbai, India"	0.46	0.91	0.38
+403	"Saratov, Russia"	0.45	1.05	0.39
+404	"Dnipro, Ukraine"	0.45	1.05	0.43
+405	"Havana, Cuba"	0.45	0.53	0.93
+406	"Amman, Jordan"	0.45	1.79	0.55
+407	"Chennai, India"	0.45	0.81	0.39
+408	"Pune, India"	0.45	0.87	0.38
+409	"Krasnoyarsk, Russia"	0.45	1.11	0.61
+410	"Vadodara, India"	0.45	0.9	0.35
+411	"Samara, Russia"	0.44	1.05	0.44
+412	"Yekaterinburg, Russia"	0.44	0.95	0.46
+413	"Kharkiv, Ukraine"	0.44	0.98	0.46
+414	"Jaipur, India"	0.44	0.89	0.33
+415	"Ludhiana, India"	0.44	0.91	0.39
+416	"Chelyabinsk, Russia"	0.44	0.9	0.48
+417	"Rostov-na-donu, Russia"	0.44	1.03	0.5
+418	"Nis, Serbia"	0.43	1.34	0.53
+419	"Volgograd, Russia"	0.42	0.99	0.39
+420	"Navi Mumbai, India"	0.42	0.85	0.38
+421	"Antalya, Turkey"	0.42	1.86	0.26
+422	"Ghaziabad, India"	0.42	0.94	0.38
+423	"Lahore, Pakistan"	0.4	0.72	0.36
+424	"Goa, India"	0.4	0.85	0.33
+425	"Bhopal, India"	0.4	0.83	0.32
+426	"Astana (Nur-Sultan), Kazakhstan"	0.39	1.17	0.63
+427	"Perm, Russia"	0.39	1	0.59
+428	"Patna, India"	0.39	0.97	0.34
+429	"Izhevsk, Russia"	0.38	1.07	0.43
+430	"Istanbul, Turkey"	0.37	1.54	0.34
+431	"Karachi, Pakistan"	0.37	0.73	0.37
+432	"Indore, India"	0.37	0.91	0.38
+433	"Lucknow (Lakhnau), India"	0.37	0.86	0.39
+434	"Nagpur, India"	0.37	0.86	0.35
+435	"Izmir, Turkey"	0.36	1.76	0.33
+436	"Mykolaiv, Ukraine"	0.36	1.04	0.47
+437	"Chisinau, Moldova"	0.36	1.2	0.63
+438	"Mysore, India"	0.36	0.76	0.39
+439	"Thane, India"	0.36	0.8	0.33
+440	"Ankara, Turkey"	0.34	1.61	0.27
+441	"Tbilisi, Georgia"	0.34	1.39	0.4
+442	"Kolkata, India"	0.34	0.85	0.34
+443	"Vijayawada, India"	0.34	0.73	0.38
+444	"Bishkek, Kyrgyzstan"	0.31	1.22	0.41
+445	"Baku, Azerbaijan"	0.3	1.23	0.49
+446	"Almaty, Kazakhstan"	0.28	1.06	0.47
+447	"Tashkent, Uzbekistan"	0.22	1.1	0.27
+448	"Algiers, Algeria"	0.14	1.08	0.24
+449	"Tunis, Tunisia"	0.12	1.09	0.25

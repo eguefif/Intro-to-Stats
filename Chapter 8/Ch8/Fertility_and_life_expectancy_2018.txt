@@ -1,0 +1,199 @@
+Country Name	Country Code	Life Exp	Fertility
+Afghanistan	AFG	66.026	4.473
+Albania	ALB	80.167	1.617
+Algeria	DZA	77.938	3.023
+Angola	AGO	63.666	5.519
+Antigua and Barbuda	ATG	77.983	1.994
+Argentina	ARG	79.863	2.261
+Armenia	ARM	78.354	1.755
+Aruba	ABW	78.507	1.896
+Australia	AUS	84.9	1.74
+Austria	AUT	84.1	1.47
+Azerbaijan	AZE	75.336	1.73
+Bahamas	BHS	75.911	1.752
+Bahrain	BHR	78.285	1.987
+Bangladesh	BGD	74.291	2.036
+Barbados	BRB	80.392	1.619
+Belarus	BLR	79.4	1.448
+Belgium	BEL	83.9	1.62
+Belize	BLZ	77.666	2.307
+Benin	BEN	63.003	4.836
+Bermuda	BMU	85.57	1.6
+Bhutan	BTN	71.816	1.975
+Bolivia	BOL	74.209	2.73
+Bosnia and Herzegovina	BIH	79.72	1.265
+Botswana	BWA	72.049	2.874
+Brazil	BRA	79.362	1.73
+Brunei Darussalam	BRN	76.96	1.848
+Bulgaria	BGR	78.6	1.56
+Burkina Faso	BFA	61.863	5.189
+Burundi	BDI	63.031	5.41
+Cape Verde	CPV	76.007	2.274
+Cambodia	KHM	71.629	2.503
+Cameroon	CMR	60.192	4.572
+Canada	CAN	84.1	1.4988
+Central African Republic	CAF	54.991	4.721
+Chad	TCD	55.4	5.747
+Channel Islands	CHI	84.798	1.51
+Chile	CHL	82.381	1.649
+China	CHN	79.051	1.69
+Colombia	COL	79.859	1.807
+Comoros	COM	65.9	4.205
+Congo (Kinshasa)	COD	61.901	5.919
+Congo (Brazzaville)	COG	65.703	4.428
+Costa Rica	CRI	82.73	1.754
+Cote d'Ivoire	CIV	58.741	4.649
+Croatia	HRV	81.4	1.47
+Cuba	CUB	80.706	1.618
+Cyprus	CYP	82.913	1.329
+Czech Republic	CZE	82	1.71
+Denmark	DNK	82.9	1.73
+Djibouti	DJI	68.778	2.728
+Dominican Republic	DOM	77.196	2.346
+Ecuador	ECU	79.645	2.427
+Egypt	EGY	74.162	3.326
+El Salvador	SLV	77.635	2.039
+Equatorial Guinea	GNQ	59.587	4.513
+Eritrea	ERI	68.162	4.056
+Estonia	EST	82.7	1.67
+Swaziland	SWZ	63.968	2.99
+Ethiopia	ETH	68.165	4.247
+Faroe Islands	FRO	84.7	2.5
+Fiji	FJI	69.178	2.774
+Finland	FIN	84.5	1.41
+France	FRA	85.9	1.88
+French Polynesia	PYF	79.725	1.941
+Gabon	GAB	68.323	3.969
+"Gambia, The"	GMB	63.151	5.219
+Georgia	GEO	77.989	2.06
+Germany	DEU	83.3	1.57
+Ghana	GHA	64.852	3.87
+Greece	GRC	84.4	1.35
+Grenada	GRD	74.941	2.063
+Guam	GUM	83.365	2.313
+Guatemala	GTM	76.937	2.87
+Guinea	GIN	61.666	4.7
+Guinea-Bissau	GNB	59.913	4.476
+Guyana	GUY	72.972	2.462
+Haiti	HTI	65.832	2.935
+Honduras	HND	77.378	2.46
+Hong Kong	HKG	87.7	1.072
+Hungary	HUN	79.6	1.55
+Iceland	ISL	84.5	1.71
+India	IND	70.692	2.222
+Indonesia	IDN	73.748	2.311
+Iran	IRN	77.668	2.137
+Iraq	IRQ	72.486	3.672
+Ireland	IRL	84.1	1.75
+Israel	ISR	84.8	3.09
+Italy	ITA	85.6	1.29
+Jamaica	JAM	75.993	1.979
+Japan	JPN	87.32	1.42
+Jordan	JOR	76.175	2.761
+Kazakhstan	KAZ	77.19	2.84
+Kenya	KEN	68.684	3.492
+Kiribati	KIR	72.113	3.569
+"Korea, South"	PRK	75.549	1.904
+"Korea, North"	KOR	85.7	0.977
+Kosovo	XKX	74.5	2
+Kuwait	KWT	76.467	2.082
+Kyrgyzstan	KGZ	75.6	3.3
+Laos	LAO	69.417	2.667
+Latvia	LVA	79.7	1.6
+Lebanon	LBN	80.821	2.087
+Lesotho	LSO	56.954	3.141
+Liberia	LBR	65.114	4.315
+Libya	LBY	75.788	2.24
+Liechtenstein	LIE	85.5	1.58
+Lithuania	LTU	80.7	1.63
+Luxembourg	LUX	84.6	1.38
+Macao	MAC	87.051	1.217
+Madagascar	MDG	68.301	4.077
+Malawi	MWI	66.937	4.209
+Malaysia	MYS	78.167	2.001
+Maldives	MDV	80.499	1.87
+Mali	MLI	59.649	5.877
+Malta	MLT	84.6	1.23
+Mauritania	MRT	66.292	4.561
+Mauritius	MUS	77.72	1.41
+Mexico	MEX	77.844	2.129
+Micronesia	FSM	69.454	3.053
+Moldova	MDA	76.074	1.262
+Mongolia	MNG	73.961	2.895
+Montenegro	MNE	79.199	1.745
+Morocco	MAR	77.668	2.415
+Mozambique	MOZ	62.966	4.852
+Myanmar	MMR	69.874	2.154
+Namibia	NAM	66.18	3.396
+Nepal	NPL	71.9	1.917
+Netherlands	NLD	83.4	1.59
+New Caledonia	NCL	79.3	1.97
+New Zealand	NZL	83.6	1.71
+Nicaragua	NIC	77.77	2.404
+Niger	NER	63.212	6.913
+Nigeria	NGA	55.244	5.387
+North Macedonia	MKD	77.736	1.496
+Norway	NOR	84.5	1.56
+Oman	OMN	80.134	2.888
+Pakistan	PAK	68.109	3.51
+Panama	PAN	81.593	2.461
+Papua New Guinea	PNG	65.576	3.564
+Paraguay	PRY	76.25	2.429
+Peru	PER	79.28	2.254
+Philippines	PHL	75.387	2.576
+Poland	POL	81.7	1.46
+Portugal	PRT	84.5	1.42
+Puerto Rico	PRI	83.382	1.035
+Qatar	QAT	81.876	1.866
+Romania	ROU	79.2	1.76
+Russian Federation	RUS	77.81	1.57
+Rwanda	RWA	70.784	4.044
+Samoa	WSM	75.325	3.877
+Sao Tome and Principe	STP	72.583	4.321
+Saudi Arabia	SAU	76.615	2.319
+Senegal	SEN	69.627	4.625
+Serbia	SRB	78.4	1.49
+Seychelles	SYC	77.4	2.41
+Sierra Leone	SLE	55.106	4.263
+Singapore	SGP	85.4	1.14
+Slovakia	SVK	80.8	1.54
+Slovenia	SVN	84.4	1.6
+Solomon Islands	SLB	74.697	4.403
+Somalia	SOM	58.791	6.072
+South Africa	ZAF	67.398	2.405
+South Sudan	SSD	59.135	4.696
+Spain	ESP	86.3	1.26
+Sri Lanka	LKA	80.121	2.199
+Saint Lucia	LCA	77.434	1.436
+Saint Martin	MAF	83.2	1.81
+Saint Vincent and the Grenadines	VCT	75.007	1.891
+Sudan	SDN	66.947	4.407
+Suriname	SUR	74.937	2.418
+Sweden	SWE	84.3	1.76
+Switzerland	CHE	85.7	1.52
+Syrian Arab Republic	SYR	77.763	2.808
+Tajikistan	TJK	73.177	3.585
+Tanzania	TZA	66.824	4.892
+Thailand	THA	80.704	1.525
+Timor-Leste	TLS	71.376	4.023
+Togo	TGO	61.612	4.32
+Tonga	TON	72.763	3.556
+Trinidad and Tobago	TTO	76.092	1.725
+Tunisia	TUN	78.536	2.197
+Turkey	TUR	80.336	2.069
+Turkmenistan	TKM	71.584	2.786
+Uganda	UGA	65.173	4.955
+Ukraine	UKR	76.72	1.301
+United Arab Emirates	ARE	79.164	1.413
+United Kingdom	GBR	83.1	1.68
+United States	USA	81.1	1.7295
+Uruguay	URY	81.359	1.973
+Uzbekistan	UZB	73.676	2.419
+Vanuatu	VUT	71.99	3.782
+Venezuela	VEN	76.074	2.272
+Vietnam	VNM	79.442	2.049
+"Virgin Islands, U.S."	VIR	83	2.06
+West Bank and Gaza	PSE	75.595	3.643
+Yemen	YEM	67.795	3.792
+Zambia	ZMB	66.447	4.633
+Zimbabwe	ZWE	62.598	3.615

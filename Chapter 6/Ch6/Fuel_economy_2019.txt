@@ -1,0 +1,1263 @@
+Model.Year	Mfr	Division	Car.line	Class	CityMPG	HighwayMPG	CombinedMPG	Displacement	Cylinders	Transmission	Gears	CityCO2	HwyCO2	CombCO2
+2019	Honda	Acura	NSX	All Wheel Drive	21	22	21	3.5	6	Auto(AM-S9)	9	419	406	420
+2019	FCA US LLC	ALFA ROMEO	4C	"2-Wheel Drive, Rear"	24	34	28	1.8	4	Auto(AM6)	6	365	259	317
+2019	aston martin	Aston Martin Lagonda Ltd	Vantage V8	"2-Wheel Drive, Rear"	18	25	21	4.0	8	Auto(S8)	8	494	364	435
+2019	Volkswagen Group of	Audi	TT Roadster quattro	All Wheel Drive	23	31	26	2.0	4	Auto(AM-S7)	7	384	285	340
+2019	BMW	BMW	Z4 sDrive30i	"2-Wheel Drive, Rear"	25	32	28	2.0	4	Auto(S8)	8	355	278	321
+2019	Volkswagen Group of	Bugatti	Chiron	All Wheel Drive	9	14	11	8.0	16	Auto(AM-S7)	7	1010	632	840
+2019	General Motors	Chevrolet	CORVETTE	"2-Wheel Drive, Rear"	12	20	15	6.2	8	Auto(S8)	8	742	456	613
+2019	General Motors	Chevrolet	CORVETTE	"2-Wheel Drive, Rear"	15	25	18	6.2	8	Auto(S8)	8	599	357	490
+2019	General Motors	Chevrolet	CORVETTE	"2-Wheel Drive, Rear"	14	23	17	6.2	8	Auto(S8)	8	654	384	532
+2019	General Motors	Chevrolet	CORVETTE	"2-Wheel Drive, Rear"	13	19	15	6.2	8	Manual(M7)	7	691	472	592
+2019	General Motors	Chevrolet	CORVETTE	"2-Wheel Drive, Rear"	15	22	17	6.2	8	Manual(M7)	7	601	403	512
+2019	General Motors	Chevrolet	CORVETTE	"2-Wheel Drive, Rear"	16	25	19	6.2	8	Manual(M7)	7	555	355	465
+2019	Ferrari	"Ferrari North America, Inc."	488 gtb	"2-Wheel Drive, Rear"	16	22	18	3.9	8	Auto(AM7)	7	568	406	495
+2019	Ferrari	"Ferrari North America, Inc."	488 gtb	"2-Wheel Drive, Rear"	15	22	18	3.9	8	Auto(AM7)	7	580	405	501
+2019	Ferrari	"Ferrari North America, Inc."	488 Pista	"2-Wheel Drive, Rear"	15	20	17	3.9	8	Auto(AM7)	7	587	448	524
+2019	Ferrari	"Ferrari North America, Inc."	488 Pista Spider	"2-Wheel Drive, Rear"	15	19	17	3.9	8	Auto(AM7)	7	593	457	531
+2019	Ferrari	"Ferrari North America, Inc."	488 Spider	"2-Wheel Drive, Rear"	16	22	18	3.9	8	Auto(AM7)	7	568	406	495
+2019	Ferrari	"Ferrari North America, Inc."	488 Spider	"2-Wheel Drive, Rear"	15	22	18	3.9	8	Auto(AM7)	7	580	405	501
+2019	Ferrari	"Ferrari North America, Inc."	812 Superfast	"2-Wheel Drive, Rear"	12	16	13	6.5	12	Auto(AM7)	7	747	557	661
+2019	FCA US LLC	FIAT	124 Spider	"2-Wheel Drive, Rear"	25	36	29	1.4	4	Auto(A6)	6	348	245	302
+2019	FCA US LLC	FIAT	124 Spider	"2-Wheel Drive, Rear"	26	35	30	1.4	4	Manual(M6)	6	337	250	298
+2019	Ford Motor Company	Ford	FORD GT	"2-Wheel Drive, Rear"	11	18	14	3.5	6	Auto(AM7)	7	779	501	654
+2019	Jaguar Land Rover L	Jaguar	F-TYPE Convertible	"2-Wheel Drive, Rear"	23	30	26	2.0	4	Auto(S8)	8	386	296	346
+2019	Jaguar Land Rover L	Jaguar	F-TYPE Convertible	"2-Wheel Drive, Rear"	20	28	23	3.0	6	Auto(S8)	8	447	320	390
+2019	Jaguar Land Rover L	Jaguar	F-TYPE Convertible Manual	"2-Wheel Drive, Rear"	16	24	19	3.0	6	Manual(M6)	6	562	371	476
+2019	Jaguar Land Rover L	Jaguar	F-TYPE Coupe	"2-Wheel Drive, Rear"	23	30	26	2.0	4	Auto(S8)	8	386	296	346
+2019	Jaguar Land Rover L	Jaguar	F-TYPE Coupe	"2-Wheel Drive, Rear"	20	28	23	3.0	6	Auto(S8)	8	447	320	390
+2019	Jaguar Land Rover L	Jaguar	F-TYPE Coupe Manual	"2-Wheel Drive, Rear"	16	24	19	3.0	6	Manual(M6)	6	562	371	476
+2019	Jaguar Land Rover L	Jaguar	F-TYPE R AWD Convertible	All Wheel Drive	15	23	18	5.0	8	Auto(S8)	8	588	392	500
+2019	Jaguar Land Rover L	Jaguar	F-TYPE R AWD Coupe	All Wheel Drive	15	23	18	5.0	8	Auto(S8)	8	588	392	500
+2019	Jaguar Land Rover L	Jaguar	F-TYPE S AWD Convertible	All Wheel Drive	18	26	21	3.0	6	Auto(S8)	8	490	347	426
+2019	Jaguar Land Rover L	Jaguar	F-TYPE S AWD Coupe	All Wheel Drive	18	26	21	3.0	6	Auto(S8)	8	490	347	426
+2019	Jaguar Land Rover L	Jaguar	F-TYPE S Convertible	"2-Wheel Drive, Rear"	19	27	22	3.0	6	Auto(S8)	8	468	333	407
+2019	Jaguar Land Rover L	Jaguar	F-TYPE S Convertible Manual	"2-Wheel Drive, Rear"	15	24	18	3.0	6	Manual(M6)	6	574	376	485
+2019	Jaguar Land Rover L	Jaguar	F-TYPE S Coupe	"2-Wheel Drive, Rear"	19	27	22	3.0	6	Auto(S8)	8	468	333	407
+2019	Jaguar Land Rover L	Jaguar	F-TYPE S Coupe Manual	"2-Wheel Drive, Rear"	15	24	18	3.0	6	Manual(M6)	6	574	376	485
+2019	Jaguar Land Rover L	Jaguar	F-TYPE SVR AWD Convertible GEN2	All Wheel Drive	16	24	18	5.0	8	Auto(S8)	8	571	369	481
+2019	Jaguar Land Rover L	Jaguar	F-TYPE SVR AWD Coupe GEN2	All Wheel Drive	16	24	18	5.0	8	Auto(S8)	8	571	369	481
+2019	Volkswagen Group of	Lamborghini	Aventador Coupe	All Wheel Drive	9	15	11	6.5	12	Auto(AM-S7)	7	959	570	784
+2019	Volkswagen Group of	Lamborghini	Aventador Roadster	All Wheel Drive	9	15	11	6.5	12	Auto(AM-S7)	7	971	577	794
+2019	Volkswagen Group of	Lamborghini	Huracan	All Wheel Drive	13	18	15	5.2	10	Auto(AM-S7)	7	672	493	592
+2019	Volkswagen Group of	Lamborghini	Huracan 2WD	"2-Wheel Drive, Rear"	13	18	15	5.2	10	Auto(AM-S7)	7	663	489	585
+2019	Volkswagen Group of	Lamborghini	Huracan Spyder	All Wheel Drive	13	18	15	5.2	10	Auto(AM-S7)	7	672	493	592
+2019	Volkswagen Group of	Lamborghini	Huracan Spyder 2WD	"2-Wheel Drive, Rear"	13	18	15	5.2	10	Auto(AM-S7)	7	663	489	585
+2019	MAZDA	MAZDA	MX-5	"2-Wheel Drive, Rear"	26	35	30	2.0	4	Auto(S6)	6	339	251	299
+2019	MAZDA	MAZDA	MX-5	"2-Wheel Drive, Rear"	26	34	29	2.0	4	Manual(M6)	6	338	264	305
+2019	Mercedes-Benz	Mercedes-Benz	AMG GT (coupe)	"2-Wheel Drive, Rear"	16	22	18	4.0	8	Auto(AM7)	7	560	400	488
+2019	Mercedes-Benz	Mercedes-Benz	AMG GT (roadster)	"2-Wheel Drive, Rear"	16	22	18	4.0	8	Auto(AM7)	7	560	400	488
+2019	Mercedes-Benz	Mercedes-Benz	AMG GT C (coupe)	"2-Wheel Drive, Rear"	15	21	17	4.0	8	Auto(AM7)	7	572	426	506
+2019	Mercedes-Benz	Mercedes-Benz	AMG GT C (roadster)	"2-Wheel Drive, Rear"	15	21	17	4.0	8	Auto(AM7)	7	572	426	506
+2019	Mercedes-Benz	Mercedes-Benz	AMG GT R (coupe)	"2-Wheel Drive, Rear"	15	20	17	4.0	8	Auto(AM7)	7	594	443	526
+2019	Mercedes-Benz	Mercedes-Benz	AMG GT S (coupe)	"2-Wheel Drive, Rear"	16	22	18	4.0	8	Auto(AM7)	7	560	404	489
+2019	Mercedes-Benz	Mercedes-Benz	AMG SL 63	"2-Wheel Drive, Rear"	15	23	18	5.5	8	Auto(A7)	7	575	382	488
+2019	Mercedes-Benz	Mercedes-Benz	AMG SLC 43	"2-Wheel Drive, Rear"	20	29	23	3.0	6	Auto(A9)	9	445	307	383
+2019	Mercedes-Benz	Mercedes-Benz	SL 450	"2-Wheel Drive, Rear"	20	28	23	3.0	6	Auto(A9)	9	444	318	387
+2019	Mercedes-Benz	Mercedes-Benz	SL 550	"2-Wheel Drive, Rear"	17	25	20	4.7	8	Auto(A9)	9	506	348	435
+2019	Mercedes-Benz	Mercedes-Benz	SLC 300	"2-Wheel Drive, Rear"	23	32	27	2.0	4	Auto(A9)	9	376	273	330
+2019	Nissan	NISSAN	370Z	"2-Wheel Drive, Rear"	19	26	22	3.7	6	Auto(S7)	7	467	339	409
+2019	Nissan	NISSAN	370Z	"2-Wheel Drive, Rear"	17	26	20	3.7	6	Manual(M6)	6	524	348	445
+2019	Nissan	NISSAN	370Z Roadster	"2-Wheel Drive, Rear"	18	25	21	3.7	6	Auto(S7)	7	488	358	429
+2019	Porsche	Porsche	911 GT2 RS	"2-Wheel Drive, Rear"	15	21	17	3.8	6	Auto(AM-S7)	7	576	423	507
+2019	Porsche	Porsche	911 GT3	"2-Wheel Drive, Rear"	15	20	17	4.0	6	Auto(AM-S7)	7	591	437	522
+2019	Porsche	Porsche	911 GT3	"2-Wheel Drive, Rear"	13	21	16	4.0	6	Manual(M6)	6	677	431	566
+2019	Porsche	Porsche	911 GT3 RS	"2-Wheel Drive, Rear"	15	19	16	4.0	6	Auto(AM-S7)	7	603	460	539
+2019	Porsche	Porsche	911 GT3 Touring	"2-Wheel Drive, Rear"	14	21	17	4.0	6	Manual(M6)	6	632	422	538
+2019	Porsche	Porsche	911 Speedster	"2-Wheel Drive, Rear"	14	19	16	4.0	6	Manual(M6)	6	651	456	564
+2019	Porsche	Porsche	Boxster	"2-Wheel Drive, Rear"	22	29	25	2.0	4	Auto(AM-S7)	7	396	300	353
+2019	Porsche	Porsche	Boxster	"2-Wheel Drive, Rear"	21	28	24	2.0	4	Manual(M6)	6	415	312	369
+2019	Porsche	Porsche	Boxster GTS	"2-Wheel Drive, Rear"	20	26	22	2.5	4	Auto(AM-S7)	7	445	345	400
+2019	Porsche	Porsche	Boxster GTS	"2-Wheel Drive, Rear"	19	25	21	2.5	4	Manual(M6)	6	462	354	413
+2019	Porsche	Porsche	Boxster S	"2-Wheel Drive, Rear"	21	28	24	2.5	4	Auto(AM-S7)	7	416	317	372
+2019	Porsche	Porsche	Boxster S	"2-Wheel Drive, Rear"	20	26	22	2.5	4	Manual(M6)	6	453	338	401
+2019	Porsche	Porsche	Cayman	"2-Wheel Drive, Rear"	22	29	25	2.0	4	Auto(AM-S7)	7	396	300	353
+2019	Porsche	Porsche	Cayman	"2-Wheel Drive, Rear"	21	28	24	2.0	4	Manual(M6)	6	415	312	369
+2019	Porsche	Porsche	Cayman GTS	"2-Wheel Drive, Rear"	20	26	22	2.5	4	Auto(AM-S7)	7	445	345	400
+2019	Porsche	Porsche	Cayman GTS	"2-Wheel Drive, Rear"	19	25	21	2.5	4	Manual(M6)	6	462	354	413
+2019	Porsche	Porsche	Cayman S	"2-Wheel Drive, Rear"	21	28	24	2.5	4	Auto(AM-S7)	7	416	317	372
+2019	Porsche	Porsche	Cayman S	"2-Wheel Drive, Rear"	20	26	22	2.5	4	Manual(M6)	6	453	338	401
+2019	RUF	RUF Automobile GmbH	RUFTURBO12/CTR3/CTR2017	"2-Wheel Drive, Rear"	16	20	18	3.8	6	Manual(M7)	7	542	442	497
+2019	aston martin	Aston Martin Lagonda Ltd	DB11 V12	"2-Wheel Drive, Rear"	15	22	18	5.2	12	Auto(S8)	8	579	397	497
+2019	aston martin	Aston Martin Lagonda Ltd	DB11 V8	"2-Wheel Drive, Rear"	18	24	20	4.0	8	Auto(S8)	8	486	365	431
+2019	aston martin	Aston Martin Lagonda Ltd	DBS	"2-Wheel Drive, Rear"	14	22	17	5.2	12	Auto(S8)	8	618	404	522
+2019	aston martin	Aston Martin Lagonda Ltd	Vanquish S	"2-Wheel Drive, Rear"	13	21	16	6.0	12	Auto(S8)	8	659	428	555
+2019	Ferrari	"Ferrari North America, Inc."	GTC4Lusso	Part-time 4-Wheel Drive	12	17	13	6.3	12	Auto(AM7)	7	764	535	661
+2019	Ferrari	"Ferrari North America, Inc."	GTC4Lusso T	"2-Wheel Drive, Rear"	15	21	17	3.9	8	Auto(AM7)	7	609	420	524
+2019	Ferrari	"Ferrari North America, Inc."	Portofino	"2-Wheel Drive, Rear"	16	22	18	3.9	8	Auto(AM7)	7	560	394	485
+2019	FCA US LLC	FIAT	500	"2-Wheel Drive, Front"	24	32	27	1.4	4	Auto(A6)	6	365	279	326
+2019	FCA US LLC	FIAT	500	"2-Wheel Drive, Front"	28	33	30	1.4	4	Manual(M5)	5	323	269	299
+2019	FCA US LLC	FIAT	500 Abarth	"2-Wheel Drive, Front"	24	32	27	1.4	4	Auto(A6)	6	365	279	326
+2019	FCA US LLC	FIAT	500 Abarth	"2-Wheel Drive, Front"	28	33	30	1.4	4	Manual(M5)	5	323	269	299
+2019	BMW	Mini	COOPER CONVERTIBLE	"2-Wheel Drive, Front"	27	35	30	1.5	3	Auto(S6)	6	331	255	297
+2019	BMW	Mini	COOPER CONVERTIBLE	"2-Wheel Drive, Front"	28	37	31	1.5	3	Manual(M6)	6	318	238	282
+2019	BMW	Mini	COOPER S CONVERTIBLE	"2-Wheel Drive, Front"	25	33	28	2.0	4	Auto(S6)	6	351	270	315
+2019	BMW	Mini	COOPER S CONVERTIBLE	"2-Wheel Drive, Front"	23	32	26	2.0	4	Manual(M6)	6	389	275	338
+2019	BMW	Mini	JOHN COOPER WORKS CONVERTIBLE	"2-Wheel Drive, Front"	25	33	28	2.0	4	Auto(S6)	6	351	270	315
+2019	BMW	Mini	JOHN COOPER WORKS CONVERTIBLE	"2-Wheel Drive, Front"	22	31	25	2.0	4	Manual(M6)	6	401	287	350
+2019	Porsche	Porsche	911 Carrera	"2-Wheel Drive, Rear"	22	30	25	3.0	6	Auto(AM-S7)	7	400	301	355
+2019	Porsche	Porsche	911 Carrera	"2-Wheel Drive, Rear"	20	29	23	3.0	6	Manual(M7)	7	446	304	382
+2019	Porsche	Porsche	911 Carrera 4	4-Wheel Drive	22	28	24	3.0	6	Auto(AM-S7)	7	403	311	362
+2019	Porsche	Porsche	911 Carrera 4	4-Wheel Drive	20	28	23	3.0	6	Manual(M7)	7	453	312	389
+2019	Porsche	Porsche	911 Carrera 4 Cabriolet	4-Wheel Drive	21	28	24	3.0	6	Auto(AM-S7)	7	414	316	370
+2019	Porsche	Porsche	911 Carrera 4 Cabriolet	4-Wheel Drive	19	28	22	3.0	6	Manual(M7)	7	458	318	395
+2019	Porsche	Porsche	911 Carrera 4 GTS	4-Wheel Drive	20	26	22	3.0	6	Auto(AM-S7)	7	445	345	400
+2019	Porsche	Porsche	911 Carrera 4 GTS	4-Wheel Drive	18	26	21	3.0	6	Manual(M7)	7	479	334	414
+2019	Porsche	Porsche	911 Carrera 4 GTS Cabriolet	4-Wheel Drive	20	25	22	3.0	6	Auto(AM-S7)	7	446	349	402
+2019	Porsche	Porsche	911 Carrera 4 GTS Cabriolet	4-Wheel Drive	18	26	21	3.0	6	Manual(M7)	7	483	341	419
+2019	Porsche	Porsche	911 Carrera 4S	4-Wheel Drive	21	28	24	3.0	6	Auto(AM-S7)	7	417	320	373
+2019	Porsche	Porsche	911 Carrera 4S	4-Wheel Drive	20	28	23	3.0	6	Manual(M7)	7	452	317	392
+2019	Porsche	Porsche	911 Carrera 4S Cabriolet	4-Wheel Drive	21	28	24	3.0	6	Auto(AM-S7)	7	413	321	371
+2019	Porsche	Porsche	911 Carrera 4S Cabriolet	4-Wheel Drive	19	28	22	3.0	6	Manual(M7)	7	459	320	396
+2019	Porsche	Porsche	911 Carrera Cabriolet	"2-Wheel Drive, Rear"	22	28	24	3.0	6	Auto(AM-S7)	7	407	313	365
+2019	Porsche	Porsche	911 Carrera Cabriolet	"2-Wheel Drive, Rear"	20	29	23	3.0	6	Manual(M7)	7	452	310	388
+2019	Porsche	Porsche	911 Carrera GTS	"2-Wheel Drive, Rear"	20	26	23	3.0	6	Auto(AM-S7)	7	432	341	391
+2019	Porsche	Porsche	911 Carrera GTS	"2-Wheel Drive, Rear"	18	26	21	3.0	6	Manual(M7)	7	486	335	418
+2019	Porsche	Porsche	911 Carrera GTS Cabriolet	"2-Wheel Drive, Rear"	20	26	22	3.0	6	Auto(AM-S7)	7	445	346	400
+2019	Porsche	Porsche	911 Carrera GTS Cabriolet	"2-Wheel Drive, Rear"	18	26	21	3.0	6	Manual(M7)	7	478	337	415
+2019	Porsche	Porsche	911 Carrera S	"2-Wheel Drive, Rear"	22	28	24	3.0	6	Auto(AM-S7)	7	405	312	363
+2019	Porsche	Porsche	911 Carrera S	"2-Wheel Drive, Rear"	20	29	23	3.0	6	Manual(M7)	7	453	311	389
+2019	Porsche	Porsche	911 Carrera S Cabriolet	"2-Wheel Drive, Rear"	22	28	24	3.0	6	Auto(AM-S7)	7	409	315	367
+2019	Porsche	Porsche	911 Carrera S Cabriolet	"2-Wheel Drive, Rear"	20	28	23	3.0	6	Manual(M7)	7	453	315	391
+2019	Porsche	Porsche	911 Carrera T	"2-Wheel Drive, Rear"	20	26	22	3.0	6	Auto(AM-S7)	7	446	342	399
+2019	Porsche	Porsche	911 Carrera T	"2-Wheel Drive, Rear"	16	25	19	3.0	6	Manual(M7)	7	549	353	461
+2019	Porsche	Porsche	911 Targa 4	4-Wheel Drive	22	28	24	3.0	6	Auto(AM-S7)	7	409	315	367
+2019	Porsche	Porsche	911 Targa 4	4-Wheel Drive	19	28	22	3.0	6	Manual(M7)	7	458	318	395
+2019	Porsche	Porsche	911 Targa 4 GTS	4-Wheel Drive	20	26	22	3.0	6	Auto(AM-S7)	7	452	345	404
+2019	Porsche	Porsche	911 Targa 4 GTS	4-Wheel Drive	18	26	21	3.0	6	Manual(M7)	7	495	345	428
+2019	Porsche	Porsche	911 Targa 4S	4-Wheel Drive	21	27	24	3.0	6	Auto(AM-S7)	7	420	322	376
+2019	Porsche	Porsche	911 Targa 4S	4-Wheel Drive	19	28	22	3.0	6	Manual(M7)	7	459	320	396
+2019	Porsche	Porsche	911 Turbo	All Wheel Drive	19	24	21	3.8	6	Auto(AM-S7)	7	475	371	428
+2019	Porsche	Porsche	911 Turbo Cabriolet	All Wheel Drive	19	24	21	3.8	6	Auto(AM-S7)	7	476	373	430
+2019	Porsche	Porsche	911 Turbo S	All Wheel Drive	19	24	21	3.8	6	Auto(AM-S7)	7	475	371	428
+2019	Porsche	Porsche	911 Turbo S Cabriolet	All Wheel Drive	19	24	21	3.8	6	Auto(AM-S7)	7	476	373	430
+2019	Porsche	Porsche	911 Turbo S Exclusive Cabriolet	All Wheel Drive	16	22	18	3.8	6	Auto(AM-S7)	7	535	407	478
+2019	Subaru	Subaru	BRZ	"2-Wheel Drive, Rear"	24	33	27	2.0	4	Auto(S6)	6	365	270	322
+2019	Subaru	Subaru	BRZ	"2-Wheel Drive, Rear"	21	29	24	2.0	4	Manual(M6)	6	422	309	371
+2019	Toyota	TOYOTA	86	"2-Wheel Drive, Rear"	24	32	27	2.0	4	Auto(S6)	6	372	274	328
+2019	Toyota	TOYOTA	86	"2-Wheel Drive, Rear"	21	28	24	2.0	4	Manual(M6)	6	421	314	373
+2019	aston martin	Aston Martin Lagonda Ltd	Rapide S	"2-Wheel Drive, Rear"	14	21	17	6.0	12	Auto(S8)	8	631	413	533
+2019	Volkswagen Group of	Audi	A3	"2-Wheel Drive, Front"	26	35	29	2.0	4	Auto(AM-S7)	7	343	255	303
+2019	Volkswagen Group of	Audi	A3 Cabriolet	"2-Wheel Drive, Front"	26	35	29	2.0	4	Auto(AM-S7)	7	343	255	303
+2019	Volkswagen Group of	Audi	A3 Cabriolet quattro	All Wheel Drive	22	30	25	2.0	4	Auto(AM-S7)	7	402	298	355
+2019	Volkswagen Group of	Audi	A3 quattro	All Wheel Drive	22	30	25	2.0	4	Auto(AM-S7)	7	413	300	362
+2019	Volkswagen Group of	Audi	A5 Cabriolet quattro	All Wheel Drive	23	34	27	2.0	4	Auto(AM-S7)	7	379	266	328
+2019	Volkswagen Group of	Audi	A5 quattro	All Wheel Drive	23	34	27	2.0	4	Auto(AM-S7)	7	379	266	328
+2019	Volkswagen Group of	Audi	RS 3	All Wheel Drive	19	28	22	2.5	5	Auto(AM-S7)	7	465	315	397
+2019	Volkswagen Group of	Audi	RS 5	All Wheel Drive	18	27	21	2.9	6	Auto(S8)	8	500	326	422
+2019	Volkswagen Group of	Audi	S3	All Wheel Drive	22	29	25	2.0	4	Auto(AM-S7)	7	403	302	358
+2019	Volkswagen Group of	Audi	S5	All Wheel Drive	21	30	24	3.0	6	Auto(S8)	8	428	301	371
+2019	Volkswagen Group of	Audi	S5 Cabriolet	All Wheel Drive	21	29	24	3.0	6	Auto(S8)	8	432	309	377
+2019	Volkswagen Group of	Audi	TT Coupe quattro	All Wheel Drive	23	31	26	2.0	4	Auto(AM-S7)	7	384	285	340
+2019	Volkswagen Group of	Audi	TT RS	All Wheel Drive	20	28	23	2.5	5	Auto(AM-S7)	7	449	313	388
+2019	Volkswagen Group of	Audi	TTS Coupe	All Wheel Drive	23	29	25	2.0	4	Auto(AM-S7)	7	391	310	354
+2019	BMW	BMW	230i Convertible	"2-Wheel Drive, Rear"	23	33	27	2.0	4	Auto(S8)	8	383	272	333
+2019	BMW	BMW	230i Coupe	"2-Wheel Drive, Rear"	24	35	28	2.0	4	Auto(S8)	8	370	255	318
+2019	BMW	BMW	230i Coupe	"2-Wheel Drive, Rear"	21	32	25	2.0	4	Manual(M6)	6	422	275	356
+2019	BMW	BMW	230i xDrive Convertible	All Wheel Drive	23	33	27	2.0	4	Auto(S8)	8	381	270	331
+2019	BMW	BMW	230i xDrive Coupe	All Wheel Drive	24	33	27	2.0	4	Auto(S8)	8	374	268	326
+2019	BMW	BMW	430i Convertible	"2-Wheel Drive, Rear"	24	34	27	2.0	4	Auto(S8)	8	375	260	324
+2019	BMW	BMW	430i xDrive Convertible	All Wheel Drive	22	32	26	2.0	4	Auto(S8)	8	401	275	344
+2019	BMW	BMW	440i Convertible	"2-Wheel Drive, Rear"	21	29	24	3.0	6	Auto(S8)	8	427	303	371
+2019	BMW	BMW	440i xDrive Convertible	All Wheel Drive	20	29	23	3.0	6	Auto(S8)	8	445	307	383
+2019	BMW	BMW	M2 Competition	"2-Wheel Drive, Rear"	17	23	19	3.0	6	Auto(AM-S7)	7	535	390	470
+2019	BMW	BMW	M2 Competition	"2-Wheel Drive, Rear"	18	25	20	3.0	6	Manual(M6)	6	505	360	440
+2019	BMW	BMW	M240i Convertible	"2-Wheel Drive, Rear"	21	30	24	3.0	6	Auto(S8)	8	424	298	367
+2019	BMW	BMW	M240i Convertible	"2-Wheel Drive, Rear"	18	27	21	3.0	6	Manual(M6)	6	481	329	413
+2019	BMW	BMW	M240i Coupe	"2-Wheel Drive, Rear"	21	30	24	3.0	6	Auto(S8)	8	424	298	367
+2019	BMW	BMW	M240i Coupe	"2-Wheel Drive, Rear"	18	27	21	3.0	6	Manual(M6)	6	480	331	413
+2019	BMW	BMW	M240i Coupe M Performance	"2-Wheel Drive, Rear"	21	30	24	3.0	6	Auto(S8)	8	424	298	367
+2019	BMW	BMW	M240i Coupe M Performance	"2-Wheel Drive, Rear"	18	27	21	3.0	6	Manual(M6)	6	480	331	413
+2019	BMW	BMW	M240i xDrive Convertible	All Wheel Drive	21	30	24	3.0	6	Auto(S8)	8	426	296	368
+2019	BMW	BMW	M240i xDrive Coupe	All Wheel Drive	21	30	24	3.0	6	Auto(S8)	8	426	296	368
+2019	BMW	BMW	M240i xDrive Coupe M Performance	All Wheel Drive	21	30	24	3.0	6	Auto(S8)	8	426	296	368
+2019	BMW	BMW	M4 Convertible	"2-Wheel Drive, Rear"	16	22	19	3.0	6	Auto(AM-S7)	7	548	399	481
+2019	BMW	BMW	M4 Convertible	"2-Wheel Drive, Rear"	17	25	20	3.0	6	Manual(M6)	6	525	358	450
+2019	BMW	BMW	M4 Convertible Competition	"2-Wheel Drive, Rear"	16	22	19	3.0	6	Auto(AM-S7)	7	548	399	481
+2019	BMW	BMW	M4 Convertible Competition	"2-Wheel Drive, Rear"	17	25	20	3.0	6	Manual(M6)	6	525	358	450
+2019	BMW	BMW	M850i xDrive Convertible	All Wheel Drive	17	26	20	4.4	8	Auto(S8)	8	506	347	434
+2019	BMW	BMW	M850i xDrive Coupe	All Wheel Drive	18	25	20	4.4	8	Auto(S8)	8	502	348	433
+2019	General Motors	Buick	CASCADA	"2-Wheel Drive, Rear"	21	29	24	1.6	4	Auto(S6)	6	431	301	373
+2019	General Motors	Chevrolet	CAMARO	"2-Wheel Drive, Rear"	22	31	25	2.0	4	Auto(S8)	8	408	288	354
+2019	General Motors	Chevrolet	CAMARO	"2-Wheel Drive, Rear"	20	30	23	2.0	4	Manual(M6)	6	447	295	379
+2019	General Motors	Chevrolet	CAMARO	"2-Wheel Drive, Rear"	19	29	22	3.6	6	Auto(S8)	8	465	311	396
+2019	General Motors	Chevrolet	CAMARO	"2-Wheel Drive, Rear"	16	27	20	3.6	6	Manual(M6)	6	538	332	445
+2019	General Motors	Chevrolet	CAMARO	"2-Wheel Drive, Rear"	16	27	20	6.2	8	Auto(S10)	10	545	333	450
+2019	General Motors	Chevrolet	CAMARO	"2-Wheel Drive, Rear"	13	21	16	6.2	8	Auto(S10)	10	691	424	571
+2019	General Motors	Chevrolet	CAMARO	"2-Wheel Drive, Rear"	16	24	19	6.2	8	Manual(M6)	6	563	373	477
+2019	General Motors	Chevrolet	CAMARO	"2-Wheel Drive, Rear"	14	20	16	6.2	8	Manual(M6)	6	654	456	565
+2019	General Motors	Chevrolet	SPARK	"2-Wheel Drive, Front"	30	38	33	1.4	4	Auto(AV)	1	298	237	271
+2019	General Motors	Chevrolet	SPARK	"2-Wheel Drive, Front"	29	38	33	1.4	4	Manual(M5)	5	303	236	273
+2019	General Motors	Chevrolet	SPARK ACTIV	"2-Wheel Drive, Front"	30	37	33	1.4	4	Auto(AV)	1	298	240	271
+2019	General Motors	Chevrolet	SPARK ACTIV	"2-Wheel Drive, Front"	29	37	32	1.4	4	Manual(M5)	5	303	240	278
+2019	Ford Motor Company	Ford	Fiesta FWD	"2-Wheel Drive, Front"	27	37	31	1.6	4	Auto(AM-S6)	6	329	241	286
+2019	Ford Motor Company	Ford	Fiesta FWD	"2-Wheel Drive, Front"	27	35	30	1.6	4	Manual(M5)	5	327	254	294
+2019	Ford Motor Company	Ford	MUSTANG	"2-Wheel Drive, Rear"	21	32	25	2.3	4	Auto(S10)	10	423	274	355
+2019	Ford Motor Company	Ford	MUSTANG	"2-Wheel Drive, Rear"	21	31	25	2.3	4	Manual(M6)	6	416	289	359
+2019	Ford Motor Company	Ford	MUSTANG	"2-Wheel Drive, Rear"	16	25	19	5.0	8	Auto(S10)	10	570	349	471
+2019	Ford Motor Company	Ford	MUSTANG	"2-Wheel Drive, Rear"	15	24	18	5.0	8	Manual(M6)	6	585	367	490
+2019	Ford Motor Company	Ford	MUSTANG BULLITT	"2-Wheel Drive, Rear"	15	24	18	5.0	8	Manual(M6)	6	585	367	490
+2019	Ford Motor Company	Ford	MUSTANG CONVERTIBLE	"2-Wheel Drive, Rear"	20	28	23	2.3	4	Auto(S10)	10	449	317	389
+2019	Ford Motor Company	Ford	MUSTANG CONVERTIBLE	"2-Wheel Drive, Rear"	20	28	23	2.3	4	Manual(M6)	6	443	316	385
+2019	Ford Motor Company	Ford	MUSTANG CONVERTIBLE	"2-Wheel Drive, Rear"	15	24	18	5.0	8	Auto(S10)	10	585	377	491
+2019	Ford Motor Company	Ford	MUSTANG PERFORMANCE PACKAGE	"2-Wheel Drive, Rear"	20	28	23	2.3	4	Auto(S10)	10	444	318	386
+2019	Ford Motor Company	Ford	MUSTANG PERFORMANCE PACKAGE	"2-Wheel Drive, Rear"	20	27	23	2.3	4	Manual(M6)	6	443	328	385
+2019	Ford Motor Company	Ford	SHELBY GT350 MUSTANG	"2-Wheel Drive, Rear"	14	21	16	5.2	8	Manual(M6)	6	649	427	549
+2019	Nissan	INFINITI	Q60	"2-Wheel Drive, Rear"	22	30	25	2.0	4	Auto(S7)	7	398	298	353
+2019	Nissan	INFINITI	Q60	"2-Wheel Drive, Rear"	19	28	22	3.0	6	Auto(S7)	7	461	318	397
+2019	Nissan	INFINITI	Q60 AWD	All Wheel Drive	21	28	24	2.0	4	Auto(S7)	7	422	316	374
+2019	Nissan	INFINITI	Q60 AWD	All Wheel Drive	19	27	22	3.0	6	Auto(S7)	7	475	329	409
+2019	Nissan	INFINITI	Q60 AWD RED SPORT	All Wheel Drive	19	26	21	3.0	6	Auto(S7)	7	470	344	424
+2019	Nissan	INFINITI	Q60 RED SPORT	"2-Wheel Drive, Rear"	20	27	22	3.0	6	Auto(S7)	7	449	330	405
+2019	Toyota	LEXUS	LC 500	"2-Wheel Drive, Rear"	16	25	19	5.0	8	Auto(S10)	10	566	358	473
+2019	Toyota	LEXUS	LC 500h	"2-Wheel Drive, Rear"	27	35	30	3.5	6	Auto(AV-S10)	10	333	255	298
+2019	Toyota	LEXUS	RC 300	"2-Wheel Drive, Rear"	21	30	24	2.0	4	Auto(S8)	8	418	290	360
+2019	Toyota	LEXUS	RC 300 AWD	All Wheel Drive	18	24	21	3.5	6	Auto(S6)	6	492	369	436
+2019	Toyota	LEXUS	RC 350	"2-Wheel Drive, Rear"	20	28	23	3.5	6	Auto(S8)	8	447	316	388
+2019	Toyota	LEXUS	RC 350 AWD	All Wheel Drive	18	24	21	3.5	6	Auto(S6)	6	492	369	436
+2019	Toyota	LEXUS	RC F	"2-Wheel Drive, Rear"	16	25	19	5.0	8	Auto(S8)	8	552	353	465
+2019	Maserati	MASERATI	GRANTURISMO CONVERTIBLE	"2-Wheel Drive, Rear"	13	20	16	4.7	8	Auto(A6)	6	673	441	569
+2019	Mercedes-Benz	Mercedes-Benz	A 220	"2-Wheel Drive, Front"	24	35	28	2.0	4	Auto(A7)	7	364	252	313
+2019	Mercedes-Benz	Mercedes-Benz	A 220 4MATIC	4-Wheel Drive	24	34	28	2.0	4	Auto(A7)	7	372	265	324
+2019	Mercedes-Benz	Mercedes-Benz	AMG C 43 4MATIC (convertible)	4-Wheel Drive	18	25	21	3.0	6	Auto(A9)	9	483	351	423
+2019	Mercedes-Benz	Mercedes-Benz	AMG C 43 4MATIC (coupe)	4-Wheel Drive	19	27	22	3.0	6	Auto(A9)	9	475	333	411
+2019	Mercedes-Benz	Mercedes-Benz	AMG C 63 (convertible)	"2-Wheel Drive, Rear"	17	24	20	4.0	8	Auto(A9)	9	522	365	452
+2019	Mercedes-Benz	Mercedes-Benz	AMG C 63 (coupe)	"2-Wheel Drive, Rear"	17	26	20	4.0	8	Auto(A9)	9	524	347	444
+2019	Mercedes-Benz	Mercedes-Benz	AMG C 63 S (convertible)	"2-Wheel Drive, Rear"	17	24	20	4.0	8	Auto(A9)	9	522	365	452
+2019	Mercedes-Benz	Mercedes-Benz	AMG C 63 S (coupe)	"2-Wheel Drive, Rear"	17	26	20	4.0	8	Auto(A9)	9	524	347	444
+2019	Mercedes-Benz	Mercedes-Benz	AMG E53 4MATIC+ (Convertible)	4-Wheel Drive	20	26	23	3.0	6	Auto(A9)	9	438	342	394
+2019	Mercedes-Benz	Mercedes-Benz	AMG E53 4MATIC+ (Coupe)	4-Wheel Drive	21	28	23	3.0	6	Auto(A9)	9	428	322	381
+2019	Mercedes-Benz	Mercedes-Benz	AMG S 63 4MATIC (convertible)	4-Wheel Drive	15	24	18	4.0	8	Auto(A9)	9	596	368	493
+2019	Mercedes-Benz	Mercedes-Benz	AMG S 65 (convertible)	"2-Wheel Drive, Rear"	14	21	16	6.0	12	Auto(A7)	7	645	417	542
+2019	Mercedes-Benz	Mercedes-Benz	C 300 (convertible)	"2-Wheel Drive, Rear"	21	29	24	2.0	4	Auto(A9)	9	423	308	371
+2019	Mercedes-Benz	Mercedes-Benz	C 300 (Coupe)	"2-Wheel Drive, Rear"	22	31	25	2.0	4	Auto(A9)	9	412	290	357
+2019	Mercedes-Benz	Mercedes-Benz	C 300 4MATIC (convertible)	4-Wheel Drive	21	29	24	2.0	4	Auto(A9)	9	428	304	372
+2019	Mercedes-Benz	Mercedes-Benz	C 300 4MATIC (Coupe)	4-Wheel Drive	22	31	25	2.0	4	Auto(A9)	9	410	290	356
+2019	Mercedes-Benz	Mercedes-Benz	E 450 (convertible)	"2-Wheel Drive, Rear"	20	27	23	3.0	6	Auto(A9)	9	448	325	393
+2019	Mercedes-Benz	Mercedes-Benz	E 450 (coupe)	"2-Wheel Drive, Rear"	20	28	23	3.0	6	Auto(A9)	9	447	316	388
+2019	Mercedes-Benz	Mercedes-Benz	E 450 4MATIC (convertible)	4-Wheel Drive	19	26	22	3.0	6	Auto(A9)	9	464	339	408
+2019	Mercedes-Benz	Mercedes-Benz	E 450 4MATIC (coupe)	4-Wheel Drive	19	26	22	3.0	6	Auto(A9)	9	468	338	409
+2019	Mercedes-Benz	Mercedes-Benz	S 560 (convertible)	"2-Wheel Drive, Front"	17	26	20	4.0	8	Auto(A9)	9	519	342	439
+2019	BMW	Mini	COOPER HARDTOP 2 DOOR	"2-Wheel Drive, Front"	27	35	30	1.5	3	Auto(S6)	6	331	255	297
+2019	BMW	Mini	COOPER HARDTOP 2 DOOR	"2-Wheel Drive, Front"	28	38	32	1.5	3	Manual(M6)	6	321	234	282
+2019	BMW	Mini	COOPER HARDTOP 4 DOOR	"2-Wheel Drive, Front"	27	35	30	1.5	3	Auto(S6)	6	331	255	297
+2019	BMW	Mini	COOPER HARDTOP 4 DOOR	"2-Wheel Drive, Front"	28	37	31	1.5	3	Manual(M6)	6	318	238	282
+2019	BMW	Mini	COOPER S HARDTOP 2 DOOR	"2-Wheel Drive, Front"	25	32	28	2.0	4	Auto(S6)	6	351	274	316
+2019	BMW	Mini	COOPER S HARDTOP 2 DOOR	"2-Wheel Drive, Front"	23	32	26	2.0	4	Manual(M6)	6	389	275	338
+2019	BMW	Mini	COOPER S HARDTOP 4 DOOR	"2-Wheel Drive, Front"	25	32	28	2.0	4	Auto(S6)	6	351	274	316
+2019	BMW	Mini	COOPER S HARDTOP 4 DOOR	"2-Wheel Drive, Front"	23	32	26	2.0	4	Manual(M6)	6	389	275	338
+2019	BMW	Mini	JOHN COOPER WORKS HARDTOP	"2-Wheel Drive, Front"	25	32	28	2.0	4	Auto(S6)	6	351	274	316
+2019	BMW	Mini	JOHN COOPER WORKS HARDTOP	"2-Wheel Drive, Front"	23	32	26	2.0	4	Manual(M6)	6	389	275	338
+2019	Nissan	NISSAN	GT-R	All Wheel Drive	16	22	18	3.8	6	Auto(AM6)	6	553	403	493
+2019	Roush	"Roush Industries, Inc."	Roush Stage 3 Mustang	"2-Wheel Drive, Rear"	12	19	15	5.0	8	Auto(S10)	10	711	465	600
+2019	Roush	"Roush Industries, Inc."	Roush Stage 3 Mustang	"2-Wheel Drive, Rear"	13	20	15	5.0	8	Manual(M6)	6	683	433	570
+2019	Volkswagen Group of	Volkswagen	Beetle Convertible	"2-Wheel Drive, Front"	26	33	29	2.0	4	Auto(S6)	6	340	269	308
+2019	Honda	Acura	ILX	"2-Wheel Drive, Front"	24	34	28	2.4	4	Auto(AM-S8)	8	364	258	316
+2019	Honda	Acura	TLX AWD	All Wheel Drive	20	29	23	3.5	6	Auto(S9)	9	443	301	379
+2019	Honda	Acura	TLX AWD A-SPEC	All Wheel Drive	20	29	23	3.5	6	Auto(S9)	9	451	309	387
+2019	Honda	Acura	TLX FWD	"2-Wheel Drive, Front"	23	33	27	2.4	4	Auto(AM-S8)	8	380	268	330
+2019	Honda	Acura	TLX FWD	"2-Wheel Drive, Front"	20	31	24	3.5	6	Auto(S9)	9	449	286	376
+2019	Honda	Acura	TLX FWD A-SPEC	"2-Wheel Drive, Front"	23	32	26	2.4	4	Auto(AM-S8)	8	384	278	336
+2019	Honda	Acura	TLX FWD A-SPEC	"2-Wheel Drive, Front"	20	30	23	3.5	6	Auto(S9)	9	452	295	381
+2019	Volkswagen Group of	Audi	A4	"2-Wheel Drive, Front"	27	34	30	2.0	4	Auto(AM-S7)	7	321	258	292
+2019	Volkswagen Group of	Audi	A4 quattro	All Wheel Drive	23	34	27	2.0	4	Auto(AM-S7)	7	379	266	328
+2019	Volkswagen Group of	Audi	S4	All Wheel Drive	21	30	24	3.0	6	Auto(S8)	8	428	301	371
+2019	BMW	BMW	330i	"2-Wheel Drive, Rear"	26	36	30	2.0	4	Auto(S8)	8	340	249	299
+2019	BMW	BMW	330i xDrive	All Wheel Drive	25	34	28	2.0	4	Auto(S8)	8	357	259	313
+2019	BMW	BMW	430i Coupe	"2-Wheel Drive, Rear"	24	34	27	2.0	4	Auto(S8)	8	375	260	324
+2019	BMW	BMW	430i Coupe	"2-Wheel Drive, Rear"	21	33	25	2.0	4	Manual(M6)	6	418	269	351
+2019	BMW	BMW	430i Gran Coupe	"2-Wheel Drive, Rear"	24	34	27	2.0	4	Auto(S8)	8	375	260	324
+2019	BMW	BMW	430i xDrive Coupe	All Wheel Drive	23	33	27	2.0	4	Auto(S8)	8	381	270	331
+2019	BMW	BMW	430i xDrive Gran Coupe	All Wheel Drive	23	33	27	2.0	4	Auto(S8)	8	381	270	331
+2019	BMW	BMW	440i Coupe	"2-Wheel Drive, Rear"	21	32	25	3.0	6	Auto(S8)	8	418	274	353
+2019	BMW	BMW	440i Coupe	"2-Wheel Drive, Rear"	18	28	22	3.0	6	Manual(M6)	6	480	313	405
+2019	BMW	BMW	440i Gran Coupe	"2-Wheel Drive, Rear"	21	32	25	3.0	6	Auto(S8)	8	418	274	353
+2019	BMW	BMW	440i xDrive Coupe	All Wheel Drive	21	31	24	3.0	6	Auto(S8)	8	431	288	367
+2019	BMW	BMW	440i xDrive Coupe	All Wheel Drive	18	28	21	3.0	6	Manual(M6)	6	488	322	413
+2019	BMW	BMW	440i xDrive Gran Coupe	All Wheel Drive	21	31	24	3.0	6	Auto(S8)	8	431	288	367
+2019	BMW	BMW	640i Gran Coupe	"2-Wheel Drive, Rear"	20	29	23	3.0	6	Auto(S8)	8	441	301	378
+2019	BMW	BMW	640i xDrive Gran Coupe	All Wheel Drive	19	28	22	3.0	6	Auto(S8)	8	464	315	397
+2019	BMW	BMW	650i Gran Coupe	"2-Wheel Drive, Rear"	18	26	21	4.4	8	Auto(S8)	8	505	343	432
+2019	BMW	BMW	650i xDrive Gran Coupe	All Wheel Drive	17	25	20	4.4	8	Auto(S8)	8	519	362	448
+2019	BMW	BMW	Alpina B6 xDrive Gran Coupe	All Wheel Drive	17	25	20	4.4	8	Auto(S8)	8	519	362	448
+2019	BMW	BMW	M4 Coupe	"2-Wheel Drive, Rear"	17	23	19	3.0	6	Auto(AM-S7)	7	535	390	470
+2019	BMW	BMW	M4 Coupe	"2-Wheel Drive, Rear"	18	25	20	3.0	6	Manual(M6)	6	505	360	440
+2019	BMW	BMW	M4 Coupe Competition	"2-Wheel Drive, Rear"	17	23	19	3.0	6	Auto(AM-S7)	7	535	390	470
+2019	BMW	BMW	M4 Coupe Competition	"2-Wheel Drive, Rear"	18	25	20	3.0	6	Manual(M6)	6	505	360	440
+2019	BMW	BMW	M4 CS	"2-Wheel Drive, Rear"	17	23	19	3.0	6	Auto(AM-S7)	7	535	390	470
+2019	BMW	BMW	M6 Gran Coupe	"2-Wheel Drive, Rear"	14	20	16	4.4	8	Auto(AM-S7)	7	650	435	553
+2019	BMW	BMW	M6 Gran Coupe	"2-Wheel Drive, Rear"	15	22	17	4.4	8	Manual(M6)	6	612	411	522
+2019	General Motors	Cadillac	ATS	"2-Wheel Drive, Rear"	22	30	25	2.0	4	Auto(S8)	8	401	293	352
+2019	General Motors	Cadillac	ATS	"2-Wheel Drive, Rear"	19	29	23	3.6	6	Auto(S8)	8	466	312	396
+2019	General Motors	Cadillac	ATS AWD	All Wheel Drive	21	29	24	2.0	4	Auto(S8)	8	428	305	373
+2019	General Motors	Cadillac	ATS AWD	All Wheel Drive	18	26	21	3.6	6	Auto(S8)	8	503	347	433
+2019	General Motors	Cadillac	ATS-V	"2-Wheel Drive, Rear"	17	25	20	3.6	6	Auto(S8)	8	525	357	449
+2019	General Motors	Cadillac	ATS-V	"2-Wheel Drive, Rear"	16	23	19	3.6	6	Manual(M6)	6	542	392	475
+2019	General Motors	Chevrolet	CRUZE	"2-Wheel Drive, Front"	30	38	33	1.4	4	Auto(AV)	1	295	233	267
+2019	General Motors	Chevrolet	CRUZE	"2-Wheel Drive, Front"	28	38	32	1.4	4	Auto(S6)	6	311	234	277
+2019	General Motors	Chevrolet	CRUZE	"2-Wheel Drive, Front"	31	48	37	1.6	4	Auto(A9)	9	340	239	294
+2019	General Motors	Chevrolet	CRUZE PREMIER	"2-Wheel Drive, Front"	28	38	32	1.4	4	Auto(S6)	6	311	234	277
+2019	General Motors	Chevrolet	SONIC	"2-Wheel Drive, Front"	26	34	29	1.4	4	Auto(S6)	6	347	261	308
+2019	General Motors	Chevrolet	SONIC	"2-Wheel Drive, Front"	27	38	31	1.4	4	Manual(M6)	6	326	234	285
+2019	Ford Motor Company	Ford	Fiesta ST FWD	"2-Wheel Drive, Front"	25	32	28	1.6	4	Manual(M6)	6	347	279	317
+2019	Hyundai	GENESIS	G70 AWD	All Wheel Drive	21	28	23	2.0	4	Auto(S8)	8	430	322	381
+2019	Hyundai	GENESIS	G70 AWD	All Wheel Drive	17	25	20	3.3	6	Auto(S8)	8	536	362	458
+2019	Hyundai	GENESIS	G70 RWD	"2-Wheel Drive, Rear"	22	30	25	2.0	4	Auto(S8)	8	403	300	357
+2019	Hyundai	GENESIS	G70 RWD	"2-Wheel Drive, Rear"	18	28	22	2.0	4	Manual(M6)	6	483	321	410
+2019	Hyundai	GENESIS	G70 RWD	"2-Wheel Drive, Rear"	17	26	20	3.3	6	Auto(S8)	8	529	347	447
+2019	Honda	Honda	CIVIC 2Dr	"2-Wheel Drive, Front"	31	40	35	1.5	4	Auto(AV)	1	282	223	256
+2019	Honda	Honda	CIVIC 2Dr	"2-Wheel Drive, Front"	30	37	33	1.5	4	Auto(AV-S7)	7	293	240	269
+2019	Honda	Honda	CIVIC 2Dr	"2-Wheel Drive, Front"	28	38	32	1.5	4	Manual(M6)	6	317	233	279
+2019	Honda	Honda	CIVIC 2Dr	"2-Wheel Drive, Front"	30	38	33	2.0	4	Auto(AV)	1	293	229	264
+2019	Honda	Honda	CIVIC 2Dr	"2-Wheel Drive, Front"	29	36	32	2.0	4	Auto(AV-S7)	7	310	243	280
+2019	Honda	Honda	CIVIC 2Dr	"2-Wheel Drive, Front"	25	35	29	2.0	4	Manual(M6)	6	348	250	304
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Accent	"2-Wheel Drive, Front"	28	38	32	1.6	4	Auto(S6)	6	316	230	277
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Accent	"2-Wheel Drive, Front"	28	37	31	1.6	4	Manual(M6)	6	322	238	284
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Veloster	"2-Wheel Drive, Front"	28	34	30	1.6	4	Auto(AM7)	7	323	263	296
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Veloster	"2-Wheel Drive, Front"	26	33	29	1.6	4	Manual(M6)	6	341	268	308
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Veloster	"2-Wheel Drive, Front"	27	34	30	2.0	4	Auto(S6)	6	329	263	299
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Veloster	"2-Wheel Drive, Front"	25	33	28	2.0	4	Manual(M6)	6	358	268	317
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Veloster N	"2-Wheel Drive, Front"	22	28	25	2.0	4	Manual(M6)	6	402	315	363
+2019	Nissan	INFINITI	QX30	"2-Wheel Drive, Front"	24	33	27	2.0	4	Auto(AM7)	7	366	269	330
+2019	Nissan	INFINITI	QX30 AWD	All Wheel Drive	21	30	25	2.0	4	Auto(AM7)	7	423	301	368
+2019	Jaguar Land Rover L	Jaguar	XE	"2-Wheel Drive, Rear"	32	42	36	2.0	4	Auto(S8)	8	319	241	284
+2019	Jaguar Land Rover L	Jaguar	XE	"2-Wheel Drive, Rear"	25	34	28	2.0	4	Auto(S8)	8	353	262	312
+2019	Jaguar Land Rover L	Jaguar	XE	"2-Wheel Drive, Rear"	21	30	24	3.0	6	Auto(S8)	8	430	295	369
+2019	Jaguar Land Rover L	Jaguar	XE AWD	All Wheel Drive	30	40	34	2.0	4	Auto(S8)	8	338	252	299
+2019	Jaguar Land Rover L	Jaguar	XE AWD	All Wheel Drive	24	34	28	2.0	4	Auto(S8)	8	371	261	321
+2019	Jaguar Land Rover L	Jaguar	XE AWD	All Wheel Drive	20	29	23	3.0	6	Auto(S8)	8	444	309	383
+2019	Jaguar Land Rover L	Jaguar	XE AWD	All Wheel Drive	16	22	18	5.0	8	Auto(S8)	8	546	400	480
+2019	Kia	KIA MOTORS CORPORATION	Rio	"2-Wheel Drive, Front"	28	37	32	1.6	4	Auto(S6)	6	315	237	280
+2019	Kia	KIA MOTORS CORPORATION	Rio	"2-Wheel Drive, Front"	29	37	32	1.6	4	Manual(M6)	6	310	239	278
+2019	Toyota	LEXUS	GS F	"2-Wheel Drive, Rear"	16	24	19	5.0	8	Auto(S8)	8	561	363	472
+2019	Toyota	LEXUS	IS 300	"2-Wheel Drive, Rear"	21	30	24	2.0	4	Auto(S8)	8	418	290	360
+2019	Toyota	LEXUS	IS 300 AWD	All Wheel Drive	19	26	21	3.5	6	Auto(S6)	6	465	346	412
+2019	Toyota	LEXUS	IS 350	"2-Wheel Drive, Rear"	20	28	23	3.5	6	Auto(S8)	8	447	316	388
+2019	Toyota	LEXUS	IS 350 AWD	All Wheel Drive	19	26	21	3.5	6	Auto(S6)	6	465	346	412
+2019	Toyota	LEXUS	UX 250h	"2-Wheel Drive, Front"	43	41	42	2.0	4	Auto(AV-S6)	6	204	215	209
+2019	Toyota	LEXUS	UX 250h AWD	All Wheel Drive	41	38	39	2.0	4	Auto(AV-S6)	6	213	231	225
+2019	MAZDA	MAZDA	CX-3 2WD	"2-Wheel Drive, Front"	29	34	31	2.0	4	Auto(S6)	6	311	263	289
+2019	MAZDA	MAZDA	CX-3 4WD	4-Wheel Drive	27	32	29	2.0	4	Auto(S6)	6	322	279	303
+2019	MAZDA	MAZDA	MAZDA2	"2-Wheel Drive, Front"	32	40	35	1.5	4	Auto(S6)	6	278	223	253
+2019	MAZDA	MAZDA	MAZDA2	"2-Wheel Drive, Front"	30	39	34	1.5	4	Manual(M6)	6	294	226	264
+2019	MAZDA	MAZDA	Mazda3 4-Door 2WD	"2-Wheel Drive, Front"	27	36	30	2.5	4	Auto(S6)	6	333	248	295
+2019	MAZDA	MAZDA	Mazda3 4-Door 2WD	"2-Wheel Drive, Front"	26	35	30	2.5	4	Auto(S6)	6	339	250	299
+2019	MAZDA	MAZDA	Mazda3 4-Door 4WD	4-Wheel Drive	25	33	28	2.5	4	Auto(S6)	6	350	268	313
+2019	Mercedes-Benz	Mercedes-Benz	AMG C 43 4MATIC	4-Wheel Drive	19	27	22	3.0	6	Auto(A9)	9	471	329	407
+2019	Mercedes-Benz	Mercedes-Benz	AMG C 63	"2-Wheel Drive, Rear"	18	27	21	4.0	8	Auto(A9)	9	500	330	424
+2019	Mercedes-Benz	Mercedes-Benz	AMG C 63 S	"2-Wheel Drive, Rear"	18	27	21	4.0	8	Auto(A9)	9	500	330	424
+2019	Mercedes-Benz	Mercedes-Benz	AMG CLA 45 4MATIC	4-Wheel Drive	23	30	26	2.0	4	Auto(AM7)	7	390	296	348
+2019	Mercedes-Benz	Mercedes-Benz	AMG CLS53 4MATIC+	4-Wheel Drive	21	27	23	3.0	6	Auto(A9)	9	422	327	379
+2019	Mercedes-Benz	Mercedes-Benz	AMG GT 53 4MATIC+	4-Wheel Drive	19	24	21	3.0	6	Auto(A9)	9	469	371	425
+2019	Mercedes-Benz	Mercedes-Benz	AMG GT 63 4MATIC+	4-Wheel Drive	15	20	17	4.0	8	Auto(A9)	9	586	437	519
+2019	Mercedes-Benz	Mercedes-Benz	AMG GT 63 S 4MATIC+	4-Wheel Drive	15	20	17	4.0	8	Auto(A9)	9	590	436	521
+2019	Mercedes-Benz	Mercedes-Benz	AMG S 63 4MATIC (coupe)	4-Wheel Drive	17	27	20	4.0	8	Auto(A9)	9	525	329	437
+2019	Mercedes-Benz	Mercedes-Benz	AMG S 65 (coupe)	"2-Wheel Drive, Rear"	13	21	16	6.0	12	Auto(A7)	7	666	415	553
+2019	Mercedes-Benz	Mercedes-Benz	C 300	"2-Wheel Drive, Rear"	23	34	27	2.0	4	Auto(A9)	9	387	260	330
+2019	Mercedes-Benz	Mercedes-Benz	C 300 4MATIC	4-Wheel Drive	22	33	26	2.0	4	Auto(A9)	9	396	272	340
+2019	Mercedes-Benz	Mercedes-Benz	CLA 250	"2-Wheel Drive, Front"	24	37	29	2.0	4	Auto(AM7)	7	365	243	310
+2019	Mercedes-Benz	Mercedes-Benz	CLA 250 4MATIC	4-Wheel Drive	24	32	27	2.0	4	Auto(AM7)	7	372	276	328
+2019	Mercedes-Benz	Mercedes-Benz	CLA 250 4MATIC	Part-time 4-Wheel Drive	24	32	27	2.0	4	Auto(AM7)	7	372	276	328
+2019	Mercedes-Benz	Mercedes-Benz	CLS 450	"2-Wheel Drive, Rear"	24	31	26	3.0	6	Auto(A9)	9	370	289	334
+2019	Mercedes-Benz	Mercedes-Benz	CLS 450 4MATIC	4-Wheel Drive	23	30	26	3.0	6	Auto(A9)	9	381	296	343
+2019	Mercedes-Benz	Mercedes-Benz	S 560 4MATIC (coupe)	4-Wheel Drive	17	26	20	4.0	8	Auto(A9)	9	524	335	439
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	MIRAGE	"2-Wheel Drive, Front"	36	43	39	1.2	3	Auto(AV)	1	247	207	229
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	MIRAGE	"2-Wheel Drive, Front"	33	41	36	1.2	3	Manual(M5)	5	264	216	242
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	MIRAGE G4	"2-Wheel Drive, Front"	35	41	37	1.2	3	Auto(AV)	1	252	216	239
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	MIRAGE G4	"2-Wheel Drive, Front"	33	40	35	1.2	3	Manual(M5)	5	266	221	252
+2019	Nissan	NISSAN	VERSA	"2-Wheel Drive, Front"	31	39	34	1.6	4	Auto(AV)	1	288	229	262
+2019	Nissan	NISSAN	VERSA	"2-Wheel Drive, Front"	27	36	30	1.6	4	Manual(M5)	5	328	247	296
+2019	Rolls-Royce	Rolls-Royce Motor Cars Limited	Dawn	"2-Wheel Drive, Rear"	12	18	14	6.6	12	Auto(S8)	8	760	486	637
+2019	Subaru	Subaru	WRX	All Wheel Drive	18	24	21	2.0	4	Auto(AV-S8)	8	469	361	420
+2019	Subaru	Subaru	WRX	All Wheel Drive	21	27	23	2.0	4	Manual(M6)	6	431	325	383
+2019	Subaru	Subaru	WRX	All Wheel Drive	17	22	19	2.5	4	Manual(M6)	6	535	404	476
+2019	SUBARU TECNICA INTE	SUBARU TECNICA INTERNATIONAL	S209	All Wheel Drive	15	21	17	2.5	4	Manual(M6)	6	587	432	518
+2019	Toyota	TOYOTA	C-HR	"2-Wheel Drive, Front"	27	31	29	2.0	4	Auto(AV-S7)	7	324	281	305
+2019	Toyota	TOYOTA	COROLLA HATCHBACK	"2-Wheel Drive, Front"	32	42	36	2.0	4	Auto(AV-S10)	10	278	213	249
+2019	Toyota	TOYOTA	COROLLA HATCHBACK MANUAL	"2-Wheel Drive, Front"	28	37	31	2.0	4	Manual(M6)	6	315	238	280
+2019	Toyota	TOYOTA	COROLLA HATCHBACK XSE	"2-Wheel Drive, Front"	30	38	33	2.0	4	Auto(AV-S10)	10	295	230	266
+2019	Toyota	TOYOTA	PRIUS c	"2-Wheel Drive, Front"	48	43	46	1.5	4	Auto(AV)	1	183	205	193
+2019	Toyota	TOYOTA	YARIS	"2-Wheel Drive, Front"	30	35	32	1.5	4	Auto(A4)	4	296	256	278
+2019	Toyota	TOYOTA	YARIS	"2-Wheel Drive, Front"	32	40	35	1.5	4	Auto(S6)	6	274	221	252
+2019	Toyota	TOYOTA	YARIS	"2-Wheel Drive, Front"	30	39	34	1.5	4	Manual(M6)	6	294	227	264
+2019	Volkswagen Group of	Volkswagen	Beetle	"2-Wheel Drive, Front"	26	33	29	2.0	4	Auto(S6)	6	340	269	308
+2019	Volkswagen Group of	Volkswagen	Golf	"2-Wheel Drive, Front"	29	37	32	1.4	4	Auto(S8)	8	304	242	276
+2019	Volkswagen Group of	Volkswagen	Golf	"2-Wheel Drive, Front"	29	37	32	1.4	4	Manual(M6)	6	304	236	274
+2019	Volkswagen Group of	Volkswagen	Golf R	All Wheel Drive	23	30	26	2.0	4	Auto(AM-S7)	7	382	295	343
+2019	Volkswagen Group of	Volkswagen	Golf R	All Wheel Drive	21	29	24	2.0	4	Manual(M6)	6	426	308	373
+2019	Volkswagen Group of	Volkswagen	GTI	"2-Wheel Drive, Front"	25	31	27	2.0	4	Auto(AM-S7)	7	359	282	325
+2019	Volkswagen Group of	Volkswagen	GTI	"2-Wheel Drive, Front"	24	32	27	2.0	4	Manual(M6)	6	368	275	326
+2019	Volkswagen Group of	Volkswagen	Jetta	"2-Wheel Drive, Front"	30	40	34	1.4	4	Auto(S8)	8	294	222	262
+2019	Volkswagen Group of	Volkswagen	Jetta	"2-Wheel Drive, Front"	30	40	34	1.4	4	Manual(M6)	6	296	222	263
+2019	Volkswagen Group of	Volkswagen	Jetta GLI	"2-Wheel Drive, Front"	25	32	28	2.0	4	Auto(AM-S7)	7	350	272	315
+2019	Volkswagen Group of	Volkswagen	Jetta GLI	"2-Wheel Drive, Front"	25	32	28	2.0	4	Manual(M6)	6	361	273	321
+2019	Volvo	"Volvo Cars of North America, LLC"	S60 AWD	All Wheel Drive	21	32	25	2.0	4	Auto(S8)	8	416	273	351
+2019	Volvo	"Volvo Cars of North America, LLC"	S60 FWD	"2-Wheel Drive, Front"	24	36	28	2.0	4	Auto(S8)	8	373	247	316
+2019	Honda	Acura	RLX	All Wheel Drive	28	29	28	3.5	6	Auto(AM-S7)	7	316	303	316
+2019	Honda	Acura	RLX	"2-Wheel Drive, Front"	20	29	23	3.5	6	Auto(S10)	10	447	305	383
+2019	FCA US LLC	ALFA ROMEO	Giulia	"2-Wheel Drive, Rear"	24	33	27	2.0	4	Auto(A8)	8	377	273	330
+2019	FCA US LLC	ALFA ROMEO	Giulia	"2-Wheel Drive, Rear"	17	24	20	2.9	6	Auto(A8)	8	522	365	451
+2019	FCA US LLC	ALFA ROMEO	Giulia AWD	All Wheel Drive	23	31	26	2.0	4	Auto(A8)	8	395	291	348
+2019	Volkswagen Group of	Audi	A5 Sportback quattro	All Wheel Drive	23	34	27	2.0	4	Auto(AM-S7)	7	379	266	328
+2019	Volkswagen Group of	Audi	A6 quattro	All Wheel Drive	24	32	27	2.0	4	Auto(AM-S7)	7	369	281	329
+2019	Volkswagen Group of	Audi	A6 quattro	All Wheel Drive	22	29	25	3.0	6	Auto(AM-S7)	7	402	308	360
+2019	Volkswagen Group of	Audi	A7 quattro	All Wheel Drive	22	29	25	3.0	6	Auto(AM-S7)	7	402	308	360
+2019	Volkswagen Group of	Audi	RS 5 Sportback	All Wheel Drive	17	26	20	2.9	6	Auto(S8)	8	506	339	431
+2019	Volkswagen Group of	Audi	S5 Sportback	All Wheel Drive	21	30	24	3.0	6	Auto(S8)	8	428	301	371
+2019	Volkswagen Group of	Bentley	Mulsanne	"2-Wheel Drive, Rear"	10	16	12	6.8	8	Auto(S8)	8	918	542	749
+2019	BMW	BMW	530i	"2-Wheel Drive, Rear"	24	34	27	2.0	4	Auto(S8)	8	375	260	324
+2019	BMW	BMW	530i xDrive	All Wheel Drive	23	33	27	2.0	4	Auto(S8)	8	381	270	331
+2019	BMW	BMW	540i	"2-Wheel Drive, Rear"	21	29	24	3.0	6	Auto(S8)	8	429	300	371
+2019	BMW	BMW	540i xDrive	All Wheel Drive	21	29	24	3.0	6	Auto(S8)	8	426	304	371
+2019	BMW	BMW	M5	All Wheel Drive	15	21	17	4.4	8	Auto(S8)	8	602	423	521
+2019	BMW	BMW	M5 Competition	All Wheel Drive	15	21	17	4.4	8	Auto(S8)	8	602	423	521
+2019	BMW	BMW	M550i xDrive	All Wheel Drive	18	25	20	4.4	8	Auto(S8)	8	502	348	433
+2019	BMW	BMW	X2 M35i	All Wheel Drive	23	29	25	2.0	4	Auto(S8)	8	387	301	348
+2019	BMW	BMW	X2 sDrive28i	"2-Wheel Drive, Front"	23	32	26	2.0	4	Auto(S8)	8	391	280	341
+2019	BMW	BMW	X2 xDrive28i	All Wheel Drive	21	31	25	2.0	4	Auto(S8)	8	412	290	357
+2019	General Motors	Buick	LACROSSE	"2-Wheel Drive, Front"	25	35	29	2.5	4	Auto(S6)	6	352	255	308
+2019	General Motors	Buick	LACROSSE	"2-Wheel Drive, Front"	20	30	24	3.6	6	Auto(S9)	9	440	294	374
+2019	General Motors	Buick	LACROSSE AWD	All Wheel Drive	20	29	23	3.6	6	Auto(S9)	9	442	311	383
+2019	General Motors	Buick	REGAL	"2-Wheel Drive, Front"	22	32	26	2.0	4	Auto(S9)	9	399	279	345
+2019	General Motors	Buick	REGAL AWD	All Wheel Drive	21	29	24	2.0	4	Auto(S8)	8	416	303	365
+2019	General Motors	Buick	REGAL AWD	All Wheel Drive	19	27	22	3.6	6	Auto(S9)	9	468	329	404
+2019	General Motors	Cadillac	CTS	"2-Wheel Drive, Rear"	22	30	25	2.0	4	Auto(S8)	8	405	295	353
+2019	General Motors	Cadillac	CTS	"2-Wheel Drive, Rear"	19	29	23	3.6	6	Auto(S8)	8	466	312	396
+2019	General Motors	Cadillac	CTS	"2-Wheel Drive, Rear"	16	24	19	3.6	6	Auto(S8)	8	555	370	468
+2019	General Motors	Cadillac	CTS AWD	All Wheel Drive	21	29	24	2.0	4	Auto(S8)	8	428	305	373
+2019	General Motors	Cadillac	CTS AWD	All Wheel Drive	18	26	21	3.6	6	Auto(S8)	8	503	347	433
+2019	General Motors	Cadillac	CTS-V	"2-Wheel Drive, Rear"	14	21	16	6.2	8	Auto(S8)	8	648	414	543
+2019	General Motors	Chevrolet	CRUZE HATCHBACK	"2-Wheel Drive, Front"	28	38	32	1.4	4	Auto(S6)	6	311	234	277
+2019	General Motors	Chevrolet	CRUZE HATCHBACK	"2-Wheel Drive, Front"	30	45	35	1.6	4	Auto(A9)	9	352	253	310
+2019	General Motors	Chevrolet	CRUZE PREMIER HATCHBACK	"2-Wheel Drive, Front"	28	37	31	1.4	4	Auto(S6)	6	311	240	286
+2019	General Motors	Chevrolet	MALIBU	"2-Wheel Drive, Front"	29	36	32	1.5	4	Auto(AV)	1	308	247	281
+2019	General Motors	Chevrolet	MALIBU	"2-Wheel Drive, Front"	49	43	46	1.8	4	Auto(AV)	1	185	206	194
+2019	General Motors	Chevrolet	MALIBU	"2-Wheel Drive, Front"	22	32	26	2.0	4	Auto(A9)	9	396	279	344
+2019	FCA US LLC	Dodge	Challenger	"2-Wheel Drive, Rear"	19	30	23	3.6	6	Auto(A8)	8	466	295	389
+2019	FCA US LLC	Dodge	Challenger	"2-Wheel Drive, Rear"	16	25	19	5.7	8	Auto(A8)	8	556	355	466
+2019	FCA US LLC	Dodge	Challenger	"2-Wheel Drive, Rear"	15	23	18	5.7	8	Manual(M6)	6	587	380	494
+2019	FCA US LLC	Dodge	Challenger	"2-Wheel Drive, Rear"	15	24	18	6.4	8	Auto(A8)	8	607	365	498
+2019	FCA US LLC	Dodge	Challenger	"2-Wheel Drive, Rear"	14	23	17	6.4	8	Manual(M6)	6	629	393	523
+2019	FCA US LLC	Dodge	Challenger GT	All Wheel Drive	18	27	21	3.6	6	Auto(A8)	8	484	330	415
+2019	FCA US LLC	Dodge	Challenger SRT	"2-Wheel Drive, Rear"	13	22	16	6.2	8	Auto(A8)	8	663	403	546
+2019	FCA US LLC	Dodge	Challenger SRT	"2-Wheel Drive, Rear"	13	21	16	6.2	8	Manual(M6)	6	680	429	567
+2019	Ford Motor Company	Ford	FUSION AWD	All Wheel Drive	20	29	23	2.0	4	Auto(S6)	6	448	311	386
+2019	Ford Motor Company	Ford	FUSION AWD	All Wheel Drive	17	26	20	2.7	6	Auto(S6)	6	522	339	444
+2019	Ford Motor Company	Ford	FUSION FWD	"2-Wheel Drive, Front"	23	34	27	1.5	4	Auto(S6)	6	378	265	327
+2019	Ford Motor Company	Ford	FUSION FWD	"2-Wheel Drive, Front"	21	31	25	2.0	4	Auto(S6)	6	411	287	355
+2019	Ford Motor Company	Ford	FUSION FWD	"2-Wheel Drive, Front"	21	31	25	2.5	4	Auto(A6)	6	424	284	361
+2019	Ford Motor Company	Ford	FUSION HYBRID FWD	"2-Wheel Drive, Front"	43	41	42	2.0	4	Auto(AV)	1	206	217	212
+2019	Ford Motor Company	Ford	FUSION HYBRID TAXI	"2-Wheel Drive, Front"	43	40	41	2.0	4	Auto(AV)	1	206	222	217
+2019	Honda	Honda	ACCORD 2.0T SPORT/TOURING	"2-Wheel Drive, Front"	22	32	26	2.0	4	Auto(A10)	10	401	277	345
+2019	Honda	Honda	CIVIC 4Dr	"2-Wheel Drive, Front"	32	42	36	1.5	4	Auto(AV)	1	277	212	248
+2019	Honda	Honda	CIVIC 4Dr	"2-Wheel Drive, Front"	30	38	33	1.5	4	Auto(AV-S7)	7	292	234	266
+2019	Honda	Honda	CIVIC 4Dr	"2-Wheel Drive, Front"	28	38	32	1.5	4	Manual(M6)	6	317	233	279
+2019	Honda	Honda	CIVIC 4Dr	"2-Wheel Drive, Front"	30	38	33	2.0	4	Auto(AV)	1	298	232	268
+2019	Honda	Honda	CIVIC 4Dr	"2-Wheel Drive, Front"	29	37	32	2.0	4	Auto(AV-S7)	7	306	238	276
+2019	Honda	Honda	CIVIC 4Dr	"2-Wheel Drive, Front"	25	36	29	2.0	4	Manual(M6)	6	347	242	300
+2019	Honda	Honda	INSIGHT	"2-Wheel Drive, Front"	55	49	52	1.5	4	Auto(AV)	1	161	182	170
+2019	Honda	Honda	INSIGHT TOURING	"2-Wheel Drive, Front"	51	45	48	1.5	4	Auto(AV)	1	172	199	184
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Elantra	"2-Wheel Drive, Front"	32	40	35	1.4	4	Auto(AM7)	7	282	224	256
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Elantra	"2-Wheel Drive, Front"	26	33	29	1.6	4	Auto(AM7)	7	336	267	305
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Elantra	"2-Wheel Drive, Front"	22	30	25	1.6	4	Manual(M6)	6	406	295	356
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Elantra	"2-Wheel Drive, Front"	28	37	32	2.0	4	Auto(S6)	6	315	240	281
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Elantra	"2-Wheel Drive, Front"	26	36	29	2.0	4	Manual(M6)	6	344	248	301
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Elantra SE	"2-Wheel Drive, Front"	29	38	33	2.0	4	Auto(S6)	6	305	231	272
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Sonata HYBRID	"2-Wheel Drive, Front"	39	44	41	2.0	4	Auto(AM6)	6	228	201	217
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Sonata HYBRID SE	"2-Wheel Drive, Front"	40	46	42	2.0	4	Auto(AM6)	6	223	194	212
+2019	Nissan	INFINITI	Q50	"2-Wheel Drive, Rear"	23	30	25	2.0	4	Auto(S7)	7	390	295	356
+2019	Nissan	INFINITI	Q50	"2-Wheel Drive, Rear"	20	29	23	3.0	6	Auto(S7)	7	450	309	387
+2019	Nissan	INFINITI	Q50 AWD	All Wheel Drive	22	28	24	2.0	4	Auto(S7)	7	403	319	365
+2019	Nissan	INFINITI	Q50 AWD	All Wheel Drive	19	27	22	3.0	6	Auto(S7)	7	471	330	407
+2019	Nissan	INFINITI	Q50 AWD RED SPORT	All Wheel Drive	19	26	22	3.0	6	Auto(S7)	7	457	342	405
+2019	Nissan	INFINITI	Q50 RED SPORT	"2-Wheel Drive, Rear"	20	26	22	3.0	6	Auto(S7)	7	456	340	404
+2019	Nissan	INFINITI	Q70	"2-Wheel Drive, Rear"	18	25	21	3.7	6	Auto(S7)	7	495	357	433
+2019	Nissan	INFINITI	Q70	"2-Wheel Drive, Rear"	16	24	19	5.6	8	Auto(S7)	7	554	366	469
+2019	Nissan	INFINITI	Q70 AWD	All Wheel Drive	18	24	20	3.7	6	Auto(S7)	7	502	371	443
+2019	Nissan	INFINITI	Q70 AWD	All Wheel Drive	16	23	18	5.6	8	Auto(S7)	7	573	390	491
+2019	Jaguar Land Rover L	Jaguar	XF	"2-Wheel Drive, Rear"	31	42	35	2.0	4	Auto(S8)	8	327	243	289
+2019	Jaguar Land Rover L	Jaguar	XF	"2-Wheel Drive, Rear"	25	34	28	2.0	4	Auto(S8)	8	353	262	312
+2019	Jaguar Land Rover L	Jaguar	XF	"2-Wheel Drive, Rear"	20	29	23	3.0	6	Auto(S8)	8	441	300	377
+2019	Jaguar Land Rover L	Jaguar	XF AWD	All Wheel Drive	30	40	34	2.0	4	Auto(S8)	8	338	252	299
+2019	Jaguar Land Rover L	Jaguar	XF AWD	All Wheel Drive	23	33	27	2.0	4	Auto(S8)	8	382	273	333
+2019	Jaguar Land Rover L	Jaguar	XF AWD	All Wheel Drive	20	28	23	3.0	6	Auto(S8)	8	449	318	390
+2019	Kia	KIA MOTORS CORPORATION	Forte	"2-Wheel Drive, Front"	30	40	34	2.0	4	Auto(AV)	1	299	227	267
+2019	Kia	KIA MOTORS CORPORATION	Forte	"2-Wheel Drive, Front"	27	37	31	2.0	4	Manual(M6)	6	328	243	290
+2019	Kia	KIA MOTORS CORPORATION	Forte FE	"2-Wheel Drive, Front"	31	41	35	2.0	4	Auto(AV)	1	289	216	256
+2019	Kia	KIA MOTORS CORPORATION	Optima Hybrid	"2-Wheel Drive, Front"	39	45	41	2.0	4	Auto(AM6)	6	231	196	215
+2019	Kia	KIA MOTORS CORPORATION	Stinger AWD	All Wheel Drive	21	29	24	2.0	4	Auto(S8)	8	418	307	368
+2019	Kia	KIA MOTORS CORPORATION	Stinger AWD	All Wheel Drive	17	25	20	3.3	6	Auto(S8)	8	515	360	445
+2019	Kia	KIA MOTORS CORPORATION	Stinger RWD	"2-Wheel Drive, Rear"	22	29	25	2.0	4	Auto(S8)	8	412	307	365
+2019	Kia	KIA MOTORS CORPORATION	Stinger RWD	"2-Wheel Drive, Rear"	17	25	20	3.3	6	Auto(S8)	8	512	366	446
+2019	Toyota	LEXUS	ES 300h	"2-Wheel Drive, Front"	43	45	44	2.5	4	Auto(AV-S6)	6	204	197	201
+2019	Toyota	LEXUS	ES 350	"2-Wheel Drive, Front"	22	33	26	3.5	6	Auto(S8)	8	401	272	343
+2019	Toyota	LEXUS	ES 350 F SPORT	"2-Wheel Drive, Front"	22	31	25	3.5	6	Auto(S8)	8	409	283	352
+2019	Toyota	LEXUS	GS 300	"2-Wheel Drive, Rear"	22	32	26	2.0	4	Auto(S8)	8	403	278	347
+2019	Toyota	LEXUS	GS 300 F SPORT	"2-Wheel Drive, Rear"	21	30	24	2.0	4	Auto(S8)	8	426	298	368
+2019	Toyota	LEXUS	GS 350	"2-Wheel Drive, Rear"	20	28	23	3.5	6	Auto(S8)	8	447	316	388
+2019	Toyota	LEXUS	GS 350 AWD	All Wheel Drive	19	26	21	3.5	6	Auto(S6)	6	465	346	412
+2019	Toyota	LEXUS	GS 350 F SPORT	"2-Wheel Drive, Rear"	19	27	22	3.5	6	Auto(S8)	8	470	326	405
+2019	Toyota	LEXUS	LS 500	"2-Wheel Drive, Rear"	19	30	23	3.4	6	Auto(S10)	10	464	296	388
+2019	Toyota	LEXUS	LS 500 AWD	All Wheel Drive	18	27	21	3.4	6	Auto(S10)	10	499	327	421
+2019	Toyota	LEXUS	LS 500h	"2-Wheel Drive, Rear"	25	33	28	3.5	6	Auto(AV-S10)	10	356	269	317
+2019	Toyota	LEXUS	LS 500h AWD	All Wheel Drive	23	31	26	3.5	6	Auto(AV-S10)	10	388	289	343
+2019	Toyota	LEXUS	UX 200	"2-Wheel Drive, Front"	29	37	33	2.0	4	Auto(AV-S10)	10	300	236	271
+2019	Ford Motor Company	Lincoln	MKZ AWD	All Wheel Drive	20	29	23	2.0	4	Auto(S6)	6	448	311	386
+2019	Ford Motor Company	Lincoln	MKZ AWD	All Wheel Drive	17	26	20	3.0	6	Auto(S6)	6	528	347	447
+2019	Ford Motor Company	Lincoln	MKZ FWD	"2-Wheel Drive, Front"	20	31	24	2.0	4	Auto(S6)	6	442	289	373
+2019	Ford Motor Company	Lincoln	MKZ FWD	"2-Wheel Drive, Front"	18	27	21	3.0	6	Auto(S6)	6	505	327	425
+2019	Ford Motor Company	Lincoln	MKZ HYBRID FWD	"2-Wheel Drive, Front"	42	39	41	2.0	4	Auto(AV)	1	211	228	217
+2019	Maserati	MASERATI	Ghibli  S RWD	"2-Wheel Drive, Rear"	16	24	19	3.0	6	Auto(A8)	8	557	374	475
+2019	Maserati	MASERATI	Ghibli V6 Rear Wheel Drive (RWD)	"2-Wheel Drive, Rear"	17	24	19	3.0	6	Auto(A8)	8	533	371	460
+2019	Maserati	MASERATI	Ghibli V6 SQ4 AWD	All Wheel Drive	16	24	19	3.0	6	Auto(A8)	8	555	375	474
+2019	MAZDA	MAZDA	Mazda3 5-Door 2WD	"2-Wheel Drive, Front"	26	35	30	2.5	4	Auto(S6)	6	337	254	299
+2019	MAZDA	MAZDA	Mazda3 5-Door 2WD	"2-Wheel Drive, Front"	25	35	29	2.5	4	Manual(M6)	6	347	250	303
+2019	MAZDA	MAZDA	Mazda3 5-Door 4WD	4-Wheel Drive	24	32	27	2.5	4	Auto(S6)	6	369	278	328
+2019	MAZDA	MAZDA	MAZDA6	"2-Wheel Drive, Front"	26	35	29	2.5	4	Auto(S6)	6	341	255	302
+2019	MAZDA	MAZDA	MAZDA6	"2-Wheel Drive, Front"	23	31	26	2.5	4	Auto(S6)	6	377	283	335
+2019	MAZDA	MAZDA	MAZDA6	"2-Wheel Drive, Front"	24	33	27	2.5	4	Manual(M6)	6	367	268	328
+2019	Mercedes-Benz	Mercedes-Benz	AMG E 63 S 4MATIC	4-Wheel Drive	15	23	18	4.0	8	Auto(A9)	9	605	392	509
+2019	Mercedes-Benz	Mercedes-Benz	AMG E53 4MATIC+	4-Wheel Drive	21	28	24	3.0	6	Auto(A9)	9	417	313	370
+2019	Mercedes-Benz	Mercedes-Benz	E 300	"2-Wheel Drive, Rear"	21	30	25	2.0	4	Auto(A9)	9	411	291	357
+2019	Mercedes-Benz	Mercedes-Benz	E 300 4MATIC	4-Wheel Drive	21	29	24	2.0	4	Auto(A9)	9	415	308	367
+2019	Mercedes-Benz	Mercedes-Benz	E 450 4MATIC	4-Wheel Drive	20	28	23	3.0	6	Auto(A9)	9	449	322	392
+2019	BMW	Mini	COOPER CLUBMAN	"2-Wheel Drive, Front"	24	32	27	1.5	3	Auto(S6)	6	365	275	324
+2019	BMW	Mini	COOPER CLUBMAN	"2-Wheel Drive, Front"	24	33	28	1.5	3	Manual(M6)	6	365	266	321
+2019	BMW	Mini	COOPER CLUBMAN ALL4	All Wheel Drive	23	31	26	1.5	3	Auto(S8)	8	385	288	341
+2019	BMW	Mini	COOPER CLUBMAN ALL4	All Wheel Drive	22	32	26	1.5	3	Manual(M6)	6	396	279	344
+2019	BMW	Mini	COOPER COUNTRYMAN	"2-Wheel Drive, Front"	24	32	27	1.5	3	Auto(S6)	6	365	275	324
+2019	BMW	Mini	COOPER COUNTRYMAN	"2-Wheel Drive, Front"	24	33	28	1.5	3	Manual(M6)	6	365	266	321
+2019	BMW	Mini	COOPER COUNTRYMAN ALL4	All Wheel Drive	23	30	25	1.5	3	Auto(S8)	8	387	297	347
+2019	BMW	Mini	COOPER COUNTRYMAN ALL4	All Wheel Drive	22	32	26	1.5	3	Manual(M6)	6	396	279	344
+2019	BMW	Mini	COOPER S CLUBMAN	"2-Wheel Drive, Front"	23	32	27	2.0	4	Auto(S8)	8	379	275	332
+2019	BMW	Mini	COOPER S CLUBMAN	"2-Wheel Drive, Front"	22	31	25	2.0	4	Manual(M6)	6	401	287	350
+2019	BMW	Mini	COOPER S CLUBMAN ALL4	All Wheel Drive	23	31	26	2.0	4	Auto(S8)	8	394	286	345
+2019	BMW	Mini	COOPER S CLUBMAN ALL4	All Wheel Drive	21	30	24	2.0	4	Manual(M6)	6	428	290	366
+2019	BMW	Mini	COOPER S COUNTRYMAN	"2-Wheel Drive, Front"	23	32	27	2.0	4	Auto(S8)	8	379	275	332
+2019	BMW	Mini	COOPER S COUNTRYMAN ALL4	All Wheel Drive	22	31	26	2.0	4	Auto(S8)	8	395	287	346
+2019	BMW	Mini	COOPER S COUNTRYMAN ALL4	All Wheel Drive	21	30	24	2.0	4	Manual(M6)	6	427	293	367
+2019	BMW	Mini	JCW COUNTRYMAN ALL4	All Wheel Drive	22	30	25	2.0	4	Auto(S8)	8	401	296	354
+2019	BMW	Mini	JCW COUNTRYMAN ALL4	All Wheel Drive	21	30	24	2.0	4	Manual(M6)	6	427	293	367
+2019	BMW	Mini	JOHN COOPER WORKS CLUBMAN ALL4	All Wheel Drive	23	31	26	2.0	4	Auto(S8)	8	394	286	345
+2019	BMW	Mini	JOHN COOPER WORKS CLUBMAN ALL4	All Wheel Drive	21	30	24	2.0	4	Manual(M6)	6	428	290	366
+2019	Nissan	NISSAN	ALTIMA	"2-Wheel Drive, Front"	28	39	32	2.5	4	Auto(AV)	1	318	230	278
+2019	Nissan	NISSAN	ALTIMA AWD	All Wheel Drive	26	36	30	2.5	4	Auto(AV)	1	342	248	300
+2019	Nissan	NISSAN	ALTIMA AWD SR/PLATINUM	All Wheel Drive	25	35	29	2.5	4	Auto(AV)	1	356	254	307
+2019	Nissan	NISSAN	ALTIMA SR/PLATINUM	"2-Wheel Drive, Front"	25	34	29	2.0	4	Auto(AV)	1	350	263	311
+2019	Nissan	NISSAN	ALTIMA SR/PLATINUM	"2-Wheel Drive, Front"	27	37	31	2.5	4	Auto(AV)	1	324	243	288
+2019	Nissan	NISSAN	Kicks	"2-Wheel Drive, Front"	31	36	33	1.6	4	Auto(AV)	1	290	248	271
+2019	Nissan	NISSAN	MAXIMA	"2-Wheel Drive, Front"	20	30	24	3.5	6	Auto(AV-S7)	7	444	296	378
+2019	Nissan	NISSAN	SENTRA	"2-Wheel Drive, Front"	27	33	29	1.6	4	Auto(AV-S7)	7	330	270	307
+2019	Nissan	NISSAN	SENTRA	"2-Wheel Drive, Front"	29	37	32	1.8	4	Auto(AV)	1	309	240	278
+2019	Nissan	NISSAN	SENTRA	"2-Wheel Drive, Front"	27	35	30	1.8	4	Manual(M6)	6	333	254	297
+2019	Nissan	NISSAN	SENTRA NISMO	"2-Wheel Drive, Front"	25	30	27	1.6	4	Auto(AV-S7)	7	356	297	330
+2019	Nissan	NISSAN	SENTRA NISMO	"2-Wheel Drive, Front"	25	31	27	1.6	4	Manual(M6)	6	356	287	330
+2019	Rolls-Royce	Rolls-Royce Motor Cars Limited	Wraith	"2-Wheel Drive, Rear"	12	18	14	6.6	12	Auto(S8)	8	738	485	624
+2019	Subaru	Subaru	IMPREZA 4-Door	All Wheel Drive	28	38	32	2.0	4	Auto(AV-S7)	7	319	236	282
+2019	Subaru	Subaru	IMPREZA 4-Door	All Wheel Drive	24	32	27	2.0	4	Manual(M5)	5	373	281	331
+2019	Subaru	Subaru	IMPREZA 4-Door SPORT	All Wheel Drive	27	36	30	2.0	4	Auto(AV-S7)	7	326	247	291
+2019	Subaru	Subaru	IMPREZA 4-Door SPORT	All Wheel Drive	23	31	26	2.0	4	Manual(M5)	5	379	287	337
+2019	Subaru	Subaru	LEGACY	All Wheel Drive	25	34	29	2.5	4	Auto(AV-S7)	7	350	263	311
+2019	Subaru	Subaru	LEGACY	All Wheel Drive	20	28	23	3.6	6	Auto(AV-S6)	6	448	313	387
+2019	Toyota	TOYOTA	AVALON	"2-Wheel Drive, Front"	22	31	25	3.5	6	Auto(S8)	8	410	286	354
+2019	Toyota	TOYOTA	AVALON HYBRID	"2-Wheel Drive, Front"	43	43	43	2.5	4	Auto(AV-S6)	6	203	203	203
+2019	Toyota	TOYOTA	AVALON HYBRID XLE	"2-Wheel Drive, Front"	43	44	44	2.5	4	Auto(AV-S6)	6	205	197	201
+2019	Toyota	TOYOTA	AVALON XLE	"2-Wheel Drive, Front"	22	32	26	3.5	6	Auto(S8)	8	397	272	341
+2019	Toyota	TOYOTA	CAMRY	"2-Wheel Drive, Front"	29	41	34	2.5	4	Auto(S8)	8	305	213	264
+2019	Toyota	TOYOTA	CAMRY	"2-Wheel Drive, Front"	22	33	26	3.5	6	Auto(S8)	8	395	268	338
+2019	Toyota	TOYOTA	CAMRY HYBRID LE	"2-Wheel Drive, Front"	51	53	52	2.5	4	Auto(AV-S6)	6	173	167	170
+2019	Toyota	TOYOTA	CAMRY HYBRID XLE/SE	"2-Wheel Drive, Front"	44	47	46	2.5	4	Auto(AV-S6)	6	200	189	195
+2019	Toyota	TOYOTA	CAMRY LE/SE	"2-Wheel Drive, Front"	28	39	32	2.5	4	Auto(S8)	8	318	228	278
+2019	Toyota	TOYOTA	CAMRY XLE/XSE	"2-Wheel Drive, Front"	28	39	32	2.5	4	Auto(S8)	8	314	225	274
+2019	Toyota	TOYOTA	CAMRY XSE	"2-Wheel Drive, Front"	22	32	26	3.5	6	Auto(S8)	8	401	277	345
+2019	Toyota	TOYOTA	COROLLA	"2-Wheel Drive, Front"	28	36	32	1.8	4	Auto(AV)	1	311	243	281
+2019	Toyota	TOYOTA	COROLLA	"2-Wheel Drive, Front"	28	35	31	1.8	4	Auto(AV-S7)	7	315	251	286
+2019	Toyota	TOYOTA	COROLLA	"2-Wheel Drive, Front"	27	35	30	1.8	4	Manual(M6)	6	321	249	289
+2019	Toyota	TOYOTA	COROLLA LE ECO	"2-Wheel Drive, Front"	30	40	34	1.8	4	Auto(AV)	1	295	224	263
+2019	Toyota	TOYOTA	COROLLA LE ECO	"2-Wheel Drive, Front"	29	38	33	1.8	4	Auto(AV)	1	300	235	271
+2019	Toyota	TOYOTA	PRIUS	"2-Wheel Drive, Front"	54	50	52	1.8	4	Auto(AV)	1	163	178	170
+2019	Toyota	TOYOTA	PRIUS AWD	Part-time 4-Wheel Drive	52	48	50	1.8	4	Auto(AV)	1	169	183	176
+2019	Toyota	TOYOTA	PRIUS Eco	"2-Wheel Drive, Front"	58	53	56	1.8	4	Auto(AV)	1	152	166	158
+2019	Volkswagen Group of	Volkswagen	Passat	"2-Wheel Drive, Front"	25	36	29	2.0	4	Auto(S6)	6	349	245	302
+2019	Volvo	"Volvo Cars of North America, LLC"	S90 AWD	All Wheel Drive	21	31	25	2.0	4	Auto(S8)	8	422	282	359
+2019	Volvo	"Volvo Cars of North America, LLC"	S90 AWD	All Wheel Drive	22	31	26	2.0	4	Auto(S8)	8	397	281	345
+2019	Volvo	"Volvo Cars of North America, LLC"	S90 FWD	"2-Wheel Drive, Front"	23	35	27	2.0	4	Auto(S8)	8	385	253	328
+2019	Volkswagen Group of	Audi	A8L	All Wheel Drive	19	27	22	3.0	6	Auto(S8)	8	470	325	405
+2019	Volkswagen Group of	Audi	A8L	All Wheel Drive	15	23	18	4.0	8	Auto(S8)	8	580	391	495
+2019	BMW	BMW	330i xDrive Gran Turismo	All Wheel Drive	23	33	27	2.0	4	Auto(S8)	8	381	270	331
+2019	BMW	BMW	340i xDrive Gran Turismo	All Wheel Drive	20	29	23	3.0	6	Auto(S8)	8	445	307	383
+2019	BMW	BMW	640i xDrive Gran Turismo	All Wheel Drive	20	28	23	3.0	6	Auto(S8)	8	447	315	388
+2019	BMW	BMW	740i	"2-Wheel Drive, Rear"	21	29	24	3.0	6	Auto(S8)	8	427	303	371
+2019	BMW	BMW	740i xDrive	All Wheel Drive	20	29	23	3.0	6	Auto(S8)	8	445	307	383
+2019	BMW	BMW	750i	"2-Wheel Drive, Rear"	18	26	21	4.4	8	Auto(S8)	8	505	343	432
+2019	BMW	BMW	750i xDrive	All Wheel Drive	17	25	20	4.4	8	Auto(S8)	8	519	362	448
+2019	BMW	BMW	Alpina B7 xDrive	All Wheel Drive	17	25	20	4.4	8	Auto(S8)	8	519	362	448
+2019	BMW	BMW	M760i xDrive	All Wheel Drive	13	20	16	6.6	12	Auto(S8)	8	669	451	571
+2019	BMW	BMW	X1 sDrive28i	"2-Wheel Drive, Front"	23	32	26	2.0	4	Auto(S8)	8	386	275	336
+2019	BMW	BMW	X1 xDrive28i	All Wheel Drive	22	31	25	2.0	4	Auto(S8)	8	403	284	349
+2019	General Motors	Cadillac	CT6	"2-Wheel Drive, Rear"	24	34	28	2.0	4	Auto(S10)	10	370	260	317
+2019	General Motors	Cadillac	CT6 AWD	All Wheel Drive	18	26	21	3.0	6	Auto(S10)	10	498	346	429
+2019	General Motors	Cadillac	CT6 AWD	All Wheel Drive	18	27	21	3.6	6	Auto(S10)	10	491	332	420
+2019	General Motors	Cadillac	CT6 AWD	All Wheel Drive	14	25	17	4.2	8	Auto(S10)	10	654	358	521
+2019	General Motors	Cadillac	XTS	"2-Wheel Drive, Front"	19	28	22	3.6	6	Auto(S6)	6	478	323	408
+2019	General Motors	Cadillac	XTS AWD	All Wheel Drive	17	26	20	3.6	6	Auto(S6)	6	523	338	444
+2019	General Motors	Cadillac	XTS AWD	All Wheel Drive	16	23	18	3.6	6	Auto(S6)	6	569	384	486
+2019	General Motors	Chevrolet	IMPALA	"2-Wheel Drive, Front"	22	29	25	2.5	4	Auto(S6)	6	410	303	362
+2019	General Motors	Chevrolet	IMPALA	"2-Wheel Drive, Front"	19	28	22	3.6	6	Auto(S6)	6	475	321	406
+2019	General Motors	Chevrolet	IMPALA	"2-Wheel Drive, Front"	18	28	22	3.6	6	Auto(S6)	6	482	321	409
+2019	FCA US LLC	Chrysler	300	"2-Wheel Drive, Rear"	19	30	23	3.6	6	Auto(A8)	8	466	295	389
+2019	FCA US LLC	Chrysler	300	"2-Wheel Drive, Rear"	19	30	23	3.6	6	Auto(A8)	8	466	295	389
+2019	FCA US LLC	Chrysler	300	"2-Wheel Drive, Rear"	16	25	19	5.7	8	Auto(A8)	8	556	355	466
+2019	FCA US LLC	Chrysler	300 AWD	All Wheel Drive	18	27	21	3.6	6	Auto(A8)	8	484	330	415
+2019	FCA US LLC	Chrysler	300 AWD	All Wheel Drive	18	27	21	3.6	6	Auto(A8)	8	484	330	415
+2019	FCA US LLC	Dodge	Charger	"2-Wheel Drive, Rear"	19	30	23	3.6	6	Auto(A8)	8	466	295	389
+2019	FCA US LLC	Dodge	Charger	"2-Wheel Drive, Rear"	19	30	23	3.6	6	Auto(A8)	8	466	295	389
+2019	FCA US LLC	Dodge	Charger	"2-Wheel Drive, Rear"	16	25	19	5.7	8	Auto(A8)	8	556	355	466
+2019	FCA US LLC	Dodge	Charger	"2-Wheel Drive, Rear"	15	24	18	6.4	8	Auto(A8)	8	607	365	498
+2019	FCA US LLC	Dodge	Charger AWD	All Wheel Drive	18	27	21	3.6	6	Auto(A8)	8	484	330	415
+2019	FCA US LLC	Dodge	Charger SRT	"2-Wheel Drive, Rear"	13	22	16	6.2	8	Auto(A8)	8	663	403	546
+2019	Ford Motor Company	Ford	TAURUS AWD	All Wheel Drive	17	24	19	3.5	6	Auto(S6)	6	529	371	468
+2019	Ford Motor Company	Ford	TAURUS AWD	All Wheel Drive	16	24	19	3.5	6	Auto(S6)	6	547	378	471
+2019	Ford Motor Company	Ford	TAURUS AWD FFV	All Wheel Drive	17	24	19	3.5	6	Auto(S6)	6	529	371	468
+2019	Ford Motor Company	Ford	TAURUS FWD	"2-Wheel Drive, Front"	18	26	21	3.5	6	Auto(S6)	6	500	339	428
+2019	Ford Motor Company	Ford	TAURUS FWD FFV	"2-Wheel Drive, Front"	18	26	21	3.5	6	Auto(S6)	6	500	339	428
+2019	Hyundai	GENESIS	G80 AWD	All Wheel Drive	17	24	20	3.3	6	Auto(S8)	8	522	369	453
+2019	Hyundai	GENESIS	G80 AWD	All Wheel Drive	18	24	20	3.8	6	Auto(S8)	8	507	368	445
+2019	Hyundai	GENESIS	G80 AWD	All Wheel Drive	15	23	18	5.0	8	Auto(S8)	8	592	393	503
+2019	Hyundai	GENESIS	G80 RWD	"2-Wheel Drive, Rear"	17	25	20	3.3	6	Auto(S8)	8	514	355	442
+2019	Hyundai	GENESIS	G80 RWD	"2-Wheel Drive, Rear"	18	26	21	3.8	6	Auto(S8)	8	486	346	423
+2019	Hyundai	GENESIS	G80 RWD	"2-Wheel Drive, Rear"	16	24	19	5.0	8	Auto(S8)	8	562	368	474
+2019	Hyundai	GENESIS	G90 AWD	All Wheel Drive	17	24	20	3.3	6	Auto(S8)	8	515	366	448
+2019	Hyundai	GENESIS	G90 AWD	All Wheel Drive	15	23	18	5.0	8	Auto(S8)	8	578	388	493
+2019	Hyundai	GENESIS	G90 RWD	"2-Wheel Drive, Rear"	17	24	20	3.3	6	Auto(S8)	8	519	375	454
+2019	Hyundai	GENESIS	G90 RWD	"2-Wheel Drive, Rear"	16	24	19	5.0	8	Auto(S8)	8	569	377	482
+2019	Honda	Honda	ACCORD	"2-Wheel Drive, Front"	30	38	33	1.5	4	Auto(AV)	1	294	232	266
+2019	Honda	Honda	ACCORD	"2-Wheel Drive, Front"	29	35	31	1.5	4	Auto(AV-S7)	7	308	251	282
+2019	Honda	Honda	ACCORD	"2-Wheel Drive, Front"	26	35	30	1.5	4	Manual(M6)	6	337	251	298
+2019	Honda	Honda	ACCORD	"2-Wheel Drive, Front"	23	34	27	2.0	4	Auto(A10)	10	387	261	330
+2019	Honda	Honda	ACCORD	"2-Wheel Drive, Front"	48	48	48	2.0	4	Auto(AV)	1	184	183	184
+2019	Honda	Honda	ACCORD	"2-Wheel Drive, Front"	22	32	26	2.0	4	Manual(M6)	6	401	274	344
+2019	Honda	Honda	CIVIC 5Dr	"2-Wheel Drive, Front"	31	40	34	1.5	4	Auto(AV)	1	288	224	259
+2019	Honda	Honda	CIVIC 5Dr	"2-Wheel Drive, Front"	30	36	32	1.5	4	Auto(AV-S7)	7	296	246	274
+2019	Honda	Honda	CIVIC 5Dr	"2-Wheel Drive, Front"	29	38	33	1.5	4	Manual(M6)	6	301	234	271
+2019	Honda	Honda	CIVIC 5Dr	"2-Wheel Drive, Front"	22	28	25	2.0	4	Manual(M6)	6	398	314	360
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Elantra GT	"2-Wheel Drive, Front"	25	32	28	1.6	4	Auto(AM7)	7	359	277	322
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Elantra GT	"2-Wheel Drive, Front"	23	30	26	1.6	4	Manual(M6)	6	393	301	352
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Elantra GT	"2-Wheel Drive, Front"	25	32	27	2.0	4	Auto(S6)	6	367	278	327
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq	"2-Wheel Drive, Front"	55	54	55	1.6	4	Auto(AM6)	6	163	164	163
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq Blue	"2-Wheel Drive, Front"	57	59	58	1.6	4	Auto(AM6)	6	157	150	154
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Sonata	"2-Wheel Drive, Front"	28	37	31	1.6	4	Auto(AM7)	7	320	241	284
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Sonata	"2-Wheel Drive, Front"	23	32	26	2.0	4	Auto(S8)	8	391	281	342
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Sonata	"2-Wheel Drive, Front"	25	33	28	2.4	4	Auto(S6)	6	357	273	319
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Sonata SE	"2-Wheel Drive, Front"	26	35	29	2.4	4	Auto(S6)	6	346	256	306
+2019	Jaguar Land Rover L	Jaguar	XJ	"2-Wheel Drive, Rear"	18	27	21	3.0	6	Auto(S8)	8	486	329	416
+2019	Jaguar Land Rover L	Jaguar	XJ	"2-Wheel Drive, Rear"	15	23	18	5.0	8	Auto(S8)	8	597	389	503
+2019	Jaguar Land Rover L	Jaguar	XJ AWD	All Wheel Drive	17	26	20	3.0	6	Auto(S8)	8	529	341	444
+2019	Jaguar Land Rover L	Jaguar	XJL	"2-Wheel Drive, Rear"	18	27	21	3.0	6	Auto(S8)	8	490	331	418
+2019	Jaguar Land Rover L	Jaguar	XJL	"2-Wheel Drive, Rear"	15	23	18	5.0	8	Auto(S8)	8	597	389	503
+2019	Jaguar Land Rover L	Jaguar	XJL AWD	All Wheel Drive	17	25	20	3.0	6	Auto(S8)	8	529	353	450
+2019	Kia	KIA MOTORS CORPORATION	Cadenza	"2-Wheel Drive, Front"	20	27	23	3.3	6	Auto(S8)	8	438	322	386
+2019	Kia	KIA MOTORS CORPORATION	K900	All Wheel Drive	18	25	21	3.3	6	Auto(S8)	8	490	358	431
+2019	Kia	KIA MOTORS CORPORATION	Optima	"2-Wheel Drive, Front"	27	37	31	1.6	4	Auto(AM7)	7	330	246	292
+2019	Kia	KIA MOTORS CORPORATION	Optima	"2-Wheel Drive, Front"	21	30	24	2.0	4	Auto(S6)	6	426	303	371
+2019	Kia	KIA MOTORS CORPORATION	Optima	"2-Wheel Drive, Front"	24	33	27	2.4	4	Auto(S6)	6	369	276	327
+2019	Kia	KIA MOTORS CORPORATION	Optima FE	"2-Wheel Drive, Front"	25	35	29	2.4	4	Auto(S6)	6	372	268	325
+2019	Ford Motor Company	Lincoln	CONTINENTAL AWD	All Wheel Drive	17	25	20	2.7	6	Auto(S6)	6	526	356	449
+2019	Ford Motor Company	Lincoln	CONTINENTAL AWD	All Wheel Drive	16	24	19	3.0	6	Auto(S6)	6	547	370	467
+2019	Ford Motor Company	Lincoln	CONTINENTAL AWD	All Wheel Drive	16	24	19	3.7	6	Auto(S6)	6	541	369	463
+2019	Ford Motor Company	Lincoln	CONTINENTAL FWD	"2-Wheel Drive, Front"	18	27	21	2.7	6	Auto(S6)	6	502	329	424
+2019	Ford Motor Company	Lincoln	CONTINENTAL FWD	"2-Wheel Drive, Front"	17	26	20	3.7	6	Auto(S6)	6	519	344	440
+2019	Maserati	MASERATI	QUATTROPORTE S	"2-Wheel Drive, Rear"	16	23	18	3.0	6	Auto(A8)	8	558	387	481
+2019	Maserati	MASERATI	QUATTROPORTE SQ4 V6	All Wheel Drive	16	23	18	3.0	6	Auto(A8)	8	564	387	484
+2019	Maserati	MASERATI	QUATTROPORTE V8	"2-Wheel Drive, Rear"	15	22	17	3.8	8	Auto(A8)	8	606	408	517
+2019	Mercedes-Benz	Mercedes-Benz	AMG S 63 4MATIC	4-Wheel Drive	17	26	20	4.0	8	Auto(A9)	9	531	335	443
+2019	Mercedes-Benz	Mercedes-Benz	AMG S 65	"2-Wheel Drive, Rear"	13	22	16	6.0	12	Auto(A7)	7	706	412	574
+2019	Mercedes-Benz	Mercedes-Benz	Maybach S 650	"2-Wheel Drive, Rear"	13	21	16	6.0	12	Auto(A7)	7	695	421	572
+2019	Mercedes-Benz	Mercedes-Benz	S 450	"2-Wheel Drive, Rear"	19	28	22	3.0	6	Auto(A9)	9	474	317	403
+2019	Mercedes-Benz	Mercedes-Benz	S 450 4MATIC	4-Wheel Drive	18	28	22	3.0	6	Auto(A9)	9	481	318	408
+2019	Mercedes-Benz	Mercedes-Benz	S 560	"2-Wheel Drive, Front"	17	27	21	4.0	8	Auto(A9)	9	519	322	430
+2019	Mercedes-Benz	Mercedes-Benz	S 560 4MATIC	4-Wheel Drive	17	27	21	4.0	8	Auto(A9)	9	509	325	426
+2019	Mercedes-Benz	Mercedes-Benz	S 560 4MATIC Maybach	4-Wheel Drive	16	25	19	4.0	8	Auto(A9)	9	539	353	455
+2019	Porsche	Porsche	Panamera	"2-Wheel Drive, Rear"	19	27	22	3.0	6	Auto(AM-S8)	8	465	326	401
+2019	Porsche	Porsche	Panamera 4	4-Wheel Drive	19	26	22	3.0	6	Auto(AM-S8)	8	464	338	407
+2019	Porsche	Porsche	Panamera 4 Executive	4-Wheel Drive	19	26	22	3.0	6	Auto(AM-S8)	8	464	338	407
+2019	Porsche	Porsche	Panamera 4 ST	4-Wheel Drive	19	26	22	3.0	6	Auto(AM-S8)	8	457	336	403
+2019	Porsche	Porsche	Panamera 4S	4-Wheel Drive	18	26	21	2.9	6	Auto(AM-S8)	8	490	333	419
+2019	Porsche	Porsche	Panamera 4S Executive	4-Wheel Drive	18	26	21	2.9	6	Auto(AM-S8)	8	490	333	419
+2019	Porsche	Porsche	Panamera 4S ST	4-Wheel Drive	18	24	20	2.9	6	Auto(AM-S8)	8	488	367	440
+2019	Porsche	Porsche	Panamera GTS	All Wheel Drive	16	23	19	4.0	8	Auto(AM-S8)	8	546	386	474
+2019	Porsche	Porsche	Panamera GTS ST	All Wheel Drive	15	22	18	4.0	8	Auto(AM-S8)	8	591	396	503
+2019	Porsche	Porsche	Panamera Turbo	All Wheel Drive	18	25	21	4.0	8	Auto(AM-S8)	8	481	346	420
+2019	Porsche	Porsche	Panamera Turbo Executive	All Wheel Drive	18	25	21	4.0	8	Auto(AM-S8)	8	481	346	420
+2019	Porsche	Porsche	Panamera Turbo ST	All Wheel Drive	18	23	20	4.0	8	Auto(AM-S8)	8	504	380	449
+2019	Rolls-Royce	Rolls-Royce Motor Cars Limited	Ghost	"2-Wheel Drive, Rear"	12	18	14	6.6	12	Auto(S8)	8	760	486	637
+2019	Rolls-Royce	Rolls-Royce Motor Cars Limited	Ghost EWB	"2-Wheel Drive, Rear"	12	18	14	6.6	12	Auto(S8)	8	760	486	637
+2019	Rolls-Royce	Rolls-Royce Motor Cars Limited	Phantom	"2-Wheel Drive, Rear"	12	20	14	6.7	12	Auto(S8)	8	755	445	615
+2019	Rolls-Royce	Rolls-Royce Motor Cars Limited	Phantom EWB	"2-Wheel Drive, Rear"	12	20	14	6.7	12	Auto(S8)	8	755	445	615
+2019	Volkswagen Group of	Volkswagen	Arteon	"2-Wheel Drive, Front"	22	31	25	2.0	4	Auto(S8)	8	405	283	350
+2019	Volkswagen Group of	Volkswagen	Arteon 4Motion	All Wheel Drive	20	27	23	2.0	4	Auto(S8)	8	451	322	393
+2019	Volkswagen Group of	Audi	A4 allroad quattro	All Wheel Drive	22	29	25	2.0	4	Auto(AM-S7)	7	402	301	356
+2019	BMW	BMW	330i xDrive Sports Wagon	All Wheel Drive	23	33	27	2.0	4	Auto(S8)	8	381	270	331
+2019	General Motors	Buick	REGAL TOUR X AWD	All Wheel Drive	21	29	24	2.0	4	Auto(S8)	8	416	303	365
+2019	General Motors	Chevrolet	SONIC 5	"2-Wheel Drive, Front"	26	34	29	1.4	4	Auto(S6)	6	347	261	308
+2019	General Motors	Chevrolet	SONIC 5	"2-Wheel Drive, Front"	26	35	29	1.4	4	Manual(M6)	6	343	251	301
+2019	FCA US LLC	FIAT	500L	"2-Wheel Drive, Front"	22	30	25	1.4	4	Auto(A6)	6	403	299	356
+2019	Honda	Honda	FIT	"2-Wheel Drive, Front"	33	40	36	1.5	4	Auto(AV)	1	267	221	246
+2019	Honda	Honda	FIT	"2-Wheel Drive, Front"	31	36	33	1.5	4	Auto(AV-S7)	7	285	244	267
+2019	Honda	Honda	FIT	"2-Wheel Drive, Front"	29	36	31	1.5	4	Manual(M6)	6	308	249	281
+2019	Honda	Honda	HR-V AWD	4-Wheel Drive	27	31	29	1.8	4	Auto(AV)	1	335	283	311
+2019	Honda	Honda	HR-V AWD	4-Wheel Drive	26	31	28	1.8	4	Auto(AV-S7)	7	336	286	314
+2019	Honda	Honda	HR-V FWD	"2-Wheel Drive, Front"	28	34	30	1.8	4	Auto(AV)	1	315	264	292
+2019	Honda	Honda	HR-V FWD	"2-Wheel Drive, Front"	28	34	30	1.8	4	Auto(AV-S7)	7	315	264	292
+2019	Kia	KIA MOTORS CORPORATION	Niro	"2-Wheel Drive, Front"	51	46	49	1.6	4	Auto(AM6)	6	175	193	183
+2019	Kia	KIA MOTORS CORPORATION	Niro FE	"2-Wheel Drive, Front"	52	49	50	1.6	4	Auto(AM6)	6	171	184	177
+2019	Kia	KIA MOTORS CORPORATION	Niro Touring	"2-Wheel Drive, Front"	46	40	43	1.6	4	Auto(AM6)	6	195	222	207
+2019	Kia	KIA MOTORS CORPORATION	Soul	"2-Wheel Drive, Front"	26	31	28	1.6	4	Auto(AM7)	7	345	290	320
+2019	Kia	KIA MOTORS CORPORATION	Soul	"2-Wheel Drive, Front"	26	31	28	1.6	4	Auto(S6)	6	343	290	319
+2019	Kia	KIA MOTORS CORPORATION	Soul	"2-Wheel Drive, Front"	24	30	27	1.6	4	Manual(M6)	6	367	296	335
+2019	Kia	KIA MOTORS CORPORATION	Soul	"2-Wheel Drive, Front"	25	30	27	2.0	4	Auto(S6)	6	364	297	334
+2019	Nissan	NISSAN	Rogue Sport	"2-Wheel Drive, Front"	25	32	28	2.0	4	Auto(AV-S7)	7	356	278	318
+2019	Nissan	NISSAN	Rogue Sport AWD	All Wheel Drive	24	30	27	2.0	4	Auto(AV-S7)	7	371	297	330
+2019	Subaru	Subaru	IMPREZA 5-Door	All Wheel Drive	28	36	31	2.0	4	Auto(AV-S7)	7	316	244	284
+2019	Subaru	Subaru	IMPREZA 5-Door	All Wheel Drive	24	31	26	2.0	4	Manual(M5)	5	375	286	335
+2019	Subaru	Subaru	IMPREZA 5-Door SPORT	All Wheel Drive	27	35	30	2.0	4	Auto(AV-S7)	7	325	252	292
+2019	Subaru	Subaru	IMPREZA 5-Door SPORT	All Wheel Drive	22	30	25	2.0	4	Manual(M5)	5	397	295	351
+2019	Volkswagen Group of	Volkswagen	Golf Alltrack	All Wheel Drive	22	30	25	1.8	4	Auto(AM-S6)	6	400	299	354
+2019	Volkswagen Group of	Volkswagen	Golf Alltrack	All Wheel Drive	21	30	24	1.8	4	Manual(M6)	6	417	295	362
+2019	Volkswagen Group of	Volkswagen	Golf SportWagen	"2-Wheel Drive, Front"	27	36	31	1.4	4	Auto(S8)	8	322	245	287
+2019	Volkswagen Group of	Volkswagen	Golf SportWagen	"2-Wheel Drive, Front"	29	37	32	1.4	4	Manual(M6)	6	304	236	274
+2019	Volkswagen Group of	Volkswagen	Golf SportWagen 4Motion	All Wheel Drive	22	29	24	1.8	4	Auto(AM-S6)	6	406	305	361
+2019	Volkswagen Group of	Volkswagen	Golf SportWagen 4Motion	All Wheel Drive	22	31	25	1.8	4	Manual(M6)	6	405	285	351
+2019	Volvo	"Volvo Cars of North America, LLC"	V60 AWD	All Wheel Drive	21	31	25	2.0	4	Auto(S8)	8	422	282	359
+2019	Volvo	"Volvo Cars of North America, LLC"	V60 CC AWD	All Wheel Drive	22	31	25	2.0	4	Auto(S8)	8	405	285	351
+2019	Volvo	"Volvo Cars of North America, LLC"	V60 FWD	"2-Wheel Drive, Front"	24	36	28	2.0	4	Auto(S8)	8	373	247	316
+2019	Jaguar Land Rover L	Jaguar	XF Sportbrake AWD	All Wheel Drive	18	25	21	3.0	6	Auto(S8)	8	489	353	428
+2019	Mercedes-Benz	Mercedes-Benz	AMG E 63 S 4MATIC (Station Wagon	4-Wheel Drive	16	23	19	4.0	8	Auto(A9)	9	551	392	480
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLA 45 4MATIC	4-Wheel Drive	22	28	25	2.0	4	Auto(AM7)	7	402	312	361
+2019	Mercedes-Benz	Mercedes-Benz	E 450 4MATIC (station wagon)	4-Wheel Drive	19	26	22	3.0	6	Auto(A9)	9	467	336	408
+2019	Nissan	NISSAN	MURANO AWD	All Wheel Drive	20	28	23	3.5	6	Auto(AV-S7)	7	448	314	388
+2019	Nissan	NISSAN	MURANO FWD	"2-Wheel Drive, Front"	20	28	23	3.5	6	Auto(AV-S7)	7	441	318	385
+2019	Rolls-Royce	Rolls-Royce Motor Cars Limited	Cullinan	All Wheel Drive	12	20	14	6.7	12	Auto(S8)	8	755	445	615
+2019	Volvo	"Volvo Cars of North America, LLC"	V90 AWD	All Wheel Drive	21	31	25	2.0	4	Auto(S8)	8	422	282	359
+2019	Volvo	"Volvo Cars of North America, LLC"	V90 CC AWD	All Wheel Drive	20	30	24	2.0	4	Auto(S8)	8	432	298	371
+2019	Volvo	"Volvo Cars of North America, LLC"	V90 CC AWD	All Wheel Drive	22	31	25	2.0	4	Auto(S8)	8	404	290	353
+2019	Volvo	"Volvo Cars of North America, LLC"	V90 FWD	"2-Wheel Drive, Front"	23	35	27	2.0	4	Auto(S8)	8	385	253	328
+2019	General Motors	Chevrolet	COLORADO 2WD	"2-Wheel Drive, Rear"	20	26	22	2.5	4	Auto(A6)	6	455	347	406
+2019	General Motors	Chevrolet	COLORADO 2WD	"2-Wheel Drive, Rear"	20	26	22	2.5	4	Manual(M6)	6	451	346	403
+2019	General Motors	Chevrolet	COLORADO 2WD	"2-Wheel Drive, Rear"	20	30	23	2.8	4	Auto(A6)	6	510	343	435
+2019	General Motors	Chevrolet	COLORADO 2WD	"2-Wheel Drive, Rear"	18	25	20	3.6	6	Auto(A8)	8	504	362	440
+2019	General Motors	GMC	CANYON 2WD	"2-Wheel Drive, Rear"	20	26	22	2.5	4	Auto(A6)	6	455	347	406
+2019	General Motors	GMC	CANYON 2WD	"2-Wheel Drive, Rear"	20	26	22	2.5	4	Manual(M6)	6	451	346	403
+2019	General Motors	GMC	CANYON 2WD	"2-Wheel Drive, Rear"	20	30	23	2.8	4	Auto(A6)	6	510	343	435
+2019	General Motors	GMC	CANYON 2WD	"2-Wheel Drive, Rear"	18	25	20	3.6	6	Auto(A8)	8	504	362	440
+2019	Honda	Honda	RIDGELINE FWD	"2-Wheel Drive, Front"	19	26	22	3.5	6	Auto(A6)	6	471	335	410
+2019	Nissan	NISSAN	FRONTIER 2WD	"2-Wheel Drive, Rear"	17	22	19	2.5	4	Auto(A5)	5	519	402	466
+2019	Nissan	NISSAN	FRONTIER 2WD	"2-Wheel Drive, Rear"	19	23	21	2.5	4	Manual(M5)	5	456	387	425
+2019	Nissan	NISSAN	FRONTIER 2WD	"2-Wheel Drive, Rear"	16	23	19	4.0	6	Auto(A5)	5	547	393	478
+2019	Nissan	NISSAN	FRONTIER 2WD	"2-Wheel Drive, Rear"	16	22	19	4.0	6	Manual(M6)	6	540	405	479
+2019	Nissan	NISSAN	FRONTIER 2WD FFV	"2-Wheel Drive, Rear"	16	22	18	4.0	6	Auto(A5)	5	567	405	494
+2019	Toyota	TOYOTA	TACOMA 2WD	"2-Wheel Drive, Rear"	20	23	21	2.7	4	Auto(S6)	6	456	382	423
+2019	Toyota	TOYOTA	TACOMA 2WD	"2-Wheel Drive, Rear"	19	24	21	3.5	6	Auto(S6)	6	476	377	431
+2019	General Motors	Chevrolet	COLORADO 4WD	4-Wheel Drive	19	24	21	2.5	4	Auto(A6)	6	478	369	429
+2019	General Motors	Chevrolet	COLORADO 4WD	4-Wheel Drive	19	28	22	2.8	4	Auto(A6)	6	530	364	455
+2019	General Motors	Chevrolet	COLORADO 4WD	4-Wheel Drive	17	24	19	3.6	6	Auto(A8)	8	531	375	461
+2019	General Motors	Chevrolet	COLORADO ZR2 4WD	4-Wheel Drive	18	22	19	2.8	4	Auto(A6)	6	577	461	524
+2019	General Motors	Chevrolet	COLORADO ZR2 4WD	4-Wheel Drive	16	18	17	3.6	6	Auto(A8)	8	566	490	532
+2019	General Motors	GMC	CANYON 4WD	4-Wheel Drive	19	24	21	2.5	4	Auto(A6)	6	478	369	429
+2019	General Motors	GMC	CANYON 4WD	4-Wheel Drive	19	28	22	2.8	4	Auto(A6)	6	530	364	455
+2019	General Motors	GMC	CANYON 4WD	4-Wheel Drive	17	24	19	3.6	6	Auto(A8)	8	531	375	461
+2019	Nissan	NISSAN	FRONTIER 4WD	Part-time 4-Wheel Drive	15	21	17	4.0	6	Auto(A5)	5	590	433	519
+2019	Nissan	NISSAN	FRONTIER 4WD	Part-time 4-Wheel Drive	16	21	18	4.0	6	Manual(M6)	6	571	430	507
+2019	Nissan	NISSAN	FRONTIER 4WD FFV	Part-time 4-Wheel Drive	15	21	17	4.0	6	Auto(A5)	5	591	435	521
+2019	Toyota	TOYOTA	TACOMA 4WD	Part-time 4-Wheel Drive	19	22	20	2.7	4	Auto(S6)	6	477	397	441
+2019	Toyota	TOYOTA	TACOMA 4WD	Part-time 4-Wheel Drive	18	22	20	3.5	6	Auto(S6)	6	490	396	448
+2019	Toyota	TOYOTA	TACOMA 4WD	Part-time 4-Wheel Drive	17	21	18	3.5	6	Manual(M6)	6	520	432	481
+2019	Toyota	TOYOTA	TACOMA 4WD D-CAB V6 MT OFF-ROAD	Part-time 4-Wheel Drive	17	20	18	3.5	6	Manual(M6)	6	517	441	483
+2019	Toyota	TOYOTA	TACOMA 4WD TRD PRO	Part-time 4-Wheel Drive	18	22	20	3.5	6	Auto(S6)	6	490	396	448
+2019	Toyota	TOYOTA	TACOMA 4WD TRD PRO	Part-time 4-Wheel Drive	17	20	18	3.5	6	Manual(M6)	6	517	441	483
+2019	General Motors	Chevrolet	C10 SILVERADO 2WD	"2-Wheel Drive, Rear"	20	23	21	2.7	4	Auto(A8)	8	448	387	421
+2019	General Motors	Chevrolet	C10 SILVERADO 2WD	"2-Wheel Drive, Rear"	19	22	20	2.7	4	Auto(A8)	8	473	404	442
+2019	General Motors	Chevrolet	C10 SILVERADO 2WD	"2-Wheel Drive, Rear"	16	21	17	4.3	6	Auto(A6)	6	570	434	509
+2019	General Motors	Chevrolet	C10 SILVERADO 2WD	"2-Wheel Drive, Rear"	15	20	17	5.3	8	Auto(A6)	6	594	448	529
+2019	General Motors	Chevrolet	C10 SILVERADO 2WD	"2-Wheel Drive, Rear"	15	21	17	5.3	8	Auto(A6)	6	599	432	524
+2019	General Motors	Chevrolet	C10 SILVERADO 2WD	"2-Wheel Drive, Rear"	17	24	19	5.3	8	Auto(A8)	8	520	377	456
+2019	General Motors	Chevrolet	C10 SILVERADO 2WD	"2-Wheel Drive, Rear"	17	23	19	5.3	8	Auto(A8)	8	534	386	467
+2019	General Motors	Chevrolet	C15 SILVERADO LD 2WD	"2-Wheel Drive, Rear"	15	22	17	5.3	8	Auto(A6)	6	591	410	510
+2019	Ford Motor Company	Ford	F150 2.7L 2WD GVWR>6649 LBS	"2-Wheel Drive, Rear"	19	25	21	2.7	6	Auto(S10)	10	467	355	422
+2019	Ford Motor Company	Ford	F150 2WD BASE PAYLOAD LT TIRE	"2-Wheel Drive, Rear"	19	25	21	2.7	6	Auto(S10)	10	467	355	423
+2019	Ford Motor Company	Ford	F150 2WD BASE PAYLOAD LT TIRE	"2-Wheel Drive, Rear"	22	28	24	3.0	6	Auto(S10)	10	467	363	424
+2019	Ford Motor Company	Ford	F150 2WD BASE PAYLOAD LT TIRE	"2-Wheel Drive, Rear"	17	22	19	3.5	6	Auto(S10)	10	521	403	466
+2019	Ford Motor Company	Ford	F150 2WD FFV BASE PAYLOAD LT	"2-Wheel Drive, Rear"	19	24	21	3.3	6	Auto(S6)	6	462	370	423
+2019	Ford Motor Company	Ford	F150 2WD FFV BASE PAYLOAD LT	"2-Wheel Drive, Rear"	16	21	18	5.0	8	Auto(S10)	10	555	423	493
+2019	Ford Motor Company	Ford	F150 3.5L 2WD GVWR>7599 LBS	"2-Wheel Drive, Rear"	17	21	19	3.5	6	Auto(S10)	10	521	422	466
+2019	Ford Motor Company	Ford	F150 5.0L 2WD FFV GVWR>7599 LBS	"2-Wheel Drive, Rear"	15	20	17	5.0	8	Auto(S10)	10	592	444	522
+2019	Ford Motor Company	Ford	F150 PICKUP 2WD	"2-Wheel Drive, Rear"	20	26	22	2.7	6	Auto(S10)	10	452	341	403
+2019	Ford Motor Company	Ford	F150 PICKUP 2WD	"2-Wheel Drive, Rear"	22	30	25	3.0	6	Auto(S10)	10	467	344	412
+2019	Ford Motor Company	Ford	F150 PICKUP 2WD	"2-Wheel Drive, Rear"	18	25	21	3.5	6	Auto(S10)	10	480	360	426
+2019	Ford Motor Company	Ford	F150 PICKUP 2WD FFV	"2-Wheel Drive, Rear"	19	25	22	3.3	6	Auto(S6)	6	461	352	412
+2019	Ford Motor Company	Ford	F150 PICKUP 2WD FFV	"2-Wheel Drive, Rear"	17	23	19	5.0	8	Auto(S10)	10	526	384	463
+2019	Ford Motor Company	Ford	F150 PICKUP 2WD LIMITED	"2-Wheel Drive, Rear"	17	22	19	3.5	6	Auto(S10)	10	515	397	462
+2019	Ford Motor Company	Ford	RANGER 2WD	"2-Wheel Drive, Rear"	21	26	23	2.3	4	Auto(S10)	10	423	343	387
+2019	General Motors	GMC	C10 SIERRA 2WD	"2-Wheel Drive, Rear"	20	23	21	2.7	4	Auto(A8)	8	448	387	421
+2019	General Motors	GMC	C10 SIERRA 2WD	"2-Wheel Drive, Rear"	19	22	20	2.7	4	Auto(A8)	8	473	404	442
+2019	General Motors	GMC	C10 SIERRA 2WD	"2-Wheel Drive, Rear"	16	21	17	4.3	6	Auto(A6)	6	570	434	509
+2019	General Motors	GMC	C10 SIERRA 2WD	"2-Wheel Drive, Rear"	15	20	17	5.3	8	Auto(A6)	6	594	448	529
+2019	General Motors	GMC	C10 SIERRA 2WD	"2-Wheel Drive, Rear"	15	21	17	5.3	8	Auto(A6)	6	599	432	524
+2019	General Motors	GMC	C10 SIERRA 2WD	"2-Wheel Drive, Rear"	17	24	19	5.3	8	Auto(A8)	8	520	377	456
+2019	General Motors	GMC	C10 SIERRA 2WD	"2-Wheel Drive, Rear"	17	23	19	5.3	8	Auto(A8)	8	538	389	471
+2019	General Motors	GMC	C15 SIERRA LTD 2WD	"2-Wheel Drive, Rear"	15	22	17	5.3	8	Auto(A6)	6	591	410	510
+2019	Nissan	NISSAN	TITAN 2WD	"2-Wheel Drive, Rear"	15	21	18	5.6	8	Auto(S7)	7	578	417	505
+2019	FCA US LLC	RAM	1500 4X2	"2-Wheel Drive, Rear"	20	25	22	3.6	6	Auto(A8)	8	451	353	407
+2019	FCA US LLC	RAM	1500 4X2	"2-Wheel Drive, Rear"	17	23	19	5.7	8	Auto(A8)	8	531	389	467
+2019	FCA US LLC	RAM	1500 4X2	"2-Wheel Drive, Rear"	15	22	17	5.7	8	Auto(A8)	8	612	395	514
+2019	FCA US LLC	RAM	1500 Classic 4X2	"2-Wheel Drive, Rear"	20	27	23	3.0	6	Auto(A8)	8	511	370	448
+2019	FCA US LLC	RAM	1500 Classic 4X2	"2-Wheel Drive, Rear"	17	25	20	3.6	6	Auto(A8)	8	522	362	450
+2019	FCA US LLC	RAM	1500 Classic 4X2	"2-Wheel Drive, Rear"	15	22	17	5.7	8	Auto(A8)	8	593	413	512
+2019	FCA US LLC	RAM	1500 HFE 4X2	"2-Wheel Drive, Rear"	20	26	23	3.6	6	Auto(A8)	8	440	340	395
+2019	Roush	"Roush Industries, Inc."	F150 Pickup 2WD	"2-Wheel Drive, Rear"	11	15	12	5.0	8	Auto(S10)	10	829	614	732
+2019	Toyota	TOYOTA	TUNDRA 2WD	"2-Wheel Drive, Rear"	15	19	16	4.6	8	Auto(S6)	6	594	463	554
+2019	Toyota	TOYOTA	TUNDRA 2WD	"2-Wheel Drive, Rear"	13	18	15	5.7	8	Auto(S6)	6	673	502	596
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD	4-Wheel Drive	19	22	20	2.7	4	Auto(A8)	8	473	404	442
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD	4-Wheel Drive	18	21	19	2.7	4	Auto(A8)	8	491	430	464
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD	4-Wheel Drive	15	20	17	4.3	6	Auto(A6)	6	596	450	530
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD	4-Wheel Drive	15	19	16	5.3	8	Auto(A6)	6	612	468	547
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD	4-Wheel Drive	15	20	17	5.3	8	Auto(A6)	6	586	445	517
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD	4-Wheel Drive	16	22	18	5.3	8	Auto(A8)	8	560	406	491
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD	4-Wheel Drive	16	20	17	6.2	8	Auto(A10)	10	568	453	516
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD TRAILBOSS	4-Wheel Drive	14	18	16	4.3	6	Auto(A6)	6	614	490	558
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD TRAILBOSS	4-Wheel Drive	14	18	16	5.3	8	Auto(A6)	6	635	494	556
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD TRAILBOSS	4-Wheel Drive	15	20	17	5.3	8	Auto(A8)	8	577	444	508
+2019	General Motors	Chevrolet	K15 SILVERADO LD 4WD	4-Wheel Drive	15	21	17	5.3	8	Auto(A6)	6	585	432	516
+2019	Ford Motor Company	Ford	F150 2.7L 4WD GVWR>6799 LBS	Part-time 4-Wheel Drive	18	23	20	2.7	6	Auto(S10)	10	494	386	444
+2019	Ford Motor Company	Ford	F150 3.5L 4WD GVWR>7599 LBS	Part-time 4-Wheel Drive	16	21	18	3.5	6	Auto(S10)	10	543	423	494
+2019	Ford Motor Company	Ford	F150 4WD BASE PAYLOAD LT TIRE	Part-time 4-Wheel Drive	18	23	20	2.7	6	Auto(S10)	10	494	386	444
+2019	Ford Motor Company	Ford	F150 4WD BASE PAYLOAD LT TIRE	Part-time 4-Wheel Drive	20	25	22	3.0	6	Auto(S10)	10	513	401	463
+2019	Ford Motor Company	Ford	F150 4WD BASE PAYLOAD LT TIRE	Part-time 4-Wheel Drive	16	22	18	3.5	6	Auto(S10)	10	555	404	494
+2019	Ford Motor Company	Ford	F150 4WD FFV BASE PAYLOAD LT	Part-time 4-Wheel Drive	17	22	19	3.3	6	Auto(S6)	6	522	404	468
+2019	Ford Motor Company	Ford	F150 4WD FFV BASE PAYLOAD LT	Part-time 4-Wheel Drive	15	20	17	5.0	8	Auto(S10)	10	592	444	523
+2019	Ford Motor Company	Ford	F150 5.0L 4WD FFV GVWR>7599 LBS	Part-time 4-Wheel Drive	14	19	16	5.0	8	Auto(S10)	10	635	467	555
+2019	Ford Motor Company	Ford	F150 PICKUP 4WD	Part-time 4-Wheel Drive	19	24	21	2.7	6	Auto(S10)	10	478	370	423
+2019	Ford Motor Company	Ford	F150 PICKUP 4WD	Part-time 4-Wheel Drive	20	25	22	3.0	6	Auto(S10)	10	513	401	463
+2019	Ford Motor Company	Ford	F150 PICKUP 4WD	Part-time 4-Wheel Drive	17	23	19	3.5	6	Auto(S10)	10	536	395	472
+2019	Ford Motor Company	Ford	F150 PICKUP 4WD FFV	Part-time 4-Wheel Drive	18	23	20	3.3	6	Auto(S6)	6	484	384	439
+2019	Ford Motor Company	Ford	F150 PICKUP 4WD FFV	Part-time 4-Wheel Drive	16	22	18	5.0	8	Auto(S10)	10	568	412	498
+2019	Ford Motor Company	Ford	F150 PICKUP 4WD LIMITED	Part-time 4-Wheel Drive	17	21	19	3.5	6	Auto(S10)	10	520	423	467
+2019	Ford Motor Company	Ford	F150 PICKUP 4WD XL/XLT	Part-time 4-Wheel Drive	21	28	24	3.0	6	Auto(S10)	10	484	360	424
+2019	Ford Motor Company	Ford	F150 RAPTOR 4WD	Part-time 4-Wheel Drive	15	18	16	3.5	6	Auto(S10)	10	578	494	540
+2019	Ford Motor Company	Ford	RANGER 4WD	Part-time 4-Wheel Drive	20	24	22	2.3	4	Auto(S10)	10	444	371	404
+2019	General Motors	GMC	K10 SIERRA 4WD	4-Wheel Drive	19	22	20	2.7	4	Auto(A8)	8	476	408	445
+2019	General Motors	GMC	K10 SIERRA 4WD	4-Wheel Drive	18	20	19	2.7	4	Auto(A8)	8	502	442	475
+2019	General Motors	GMC	K10 SIERRA 4WD	4-Wheel Drive	15	20	17	4.3	6	Auto(A6)	6	596	450	530
+2019	General Motors	GMC	K10 SIERRA 4WD	4-Wheel Drive	15	19	16	5.3	8	Auto(A6)	6	604	473	545
+2019	General Motors	GMC	K10 SIERRA 4WD	4-Wheel Drive	15	20	17	5.3	8	Auto(A6)	6	602	444	531
+2019	General Motors	GMC	K10 SIERRA 4WD	4-Wheel Drive	15	21	17	5.3	8	Auto(A8)	8	577	423	508
+2019	General Motors	GMC	K10 SIERRA 4WD	4-Wheel Drive	15	20	17	6.2	8	Auto(A10)	10	587	449	525
+2019	General Motors	GMC	K10 SIERRA 4WD AT4	4-Wheel Drive	15	20	17	5.3	8	Auto(A8)	8	577	444	508
+2019	General Motors	GMC	K10 SIERRA 4WD AT4	4-Wheel Drive	15	19	17	6.2	8	Auto(A10)	10	593	467	515
+2019	General Motors	GMC	K15 SIERRA LTD 4WD	4-Wheel Drive	15	21	17	5.3	8	Auto(A6)	6	585	432	516
+2019	Honda	Honda	RIDGELINE AWD	All Wheel Drive	18	25	21	3.5	6	Auto(A6)	6	480	357	424
+2019	Nissan	NISSAN	TITAN 4WD	Part-time 4-Wheel Drive	15	21	18	5.6	8	Auto(S7)	7	577	418	505
+2019	Nissan	NISSAN	TITAN 4WD PRO-4X	Part-time 4-Wheel Drive	15	20	17	5.6	8	Auto(S7)	7	598	445	529
+2019	FCA US LLC	RAM	1500 4X4	4-Wheel Drive	19	24	21	3.6	6	Auto(A8)	8	460	366	418
+2019	FCA US LLC	RAM	1500 4X4	4-Wheel Drive	17	22	19	5.7	8	Auto(A8)	8	530	403	473
+2019	FCA US LLC	RAM	1500 4X4	4-Wheel Drive	15	21	17	5.7	8	Auto(A8)	8	611	415	523
+2019	FCA US LLC	RAM	1500 Classic 4X4	4-Wheel Drive	19	27	22	3.0	6	Auto(A8)	8	532	382	465
+2019	FCA US LLC	RAM	1500 Classic 4X4	4-Wheel Drive	16	23	19	3.6	6	Auto(A8)	8	549	384	475
+2019	FCA US LLC	RAM	1500 Classic 4X4	4-Wheel Drive	15	21	17	5.7	8	Auto(A8)	8	605	432	527
+2019	Roush	"Roush Industries, Inc."	F150 Pickup 4WD	4-Wheel Drive	11	15	12	5.0	8	Auto(S10)	10	829	614	732
+2019	Toyota	TOYOTA	TUNDRA 4WD	Part-time 4-Wheel Drive	14	18	16	4.6	8	Auto(S6)	6	630	494	569
+2019	Toyota	TOYOTA	TUNDRA 4WD	Part-time 4-Wheel Drive	13	17	14	5.7	8	Auto(S6)	6	680	536	615
+2019	Toyota	TOYOTA	TUNDRA 4WD FFV	Part-time 4-Wheel Drive	13	17	15	5.7	8	Auto(S6)	6	677	521	606
+2019	Ford Motor Company	Ford	Transit T150 Wagon	"2-Wheel Drive, Rear"	15	19	16	3.5	6	Auto(S6)	6	610	481	552
+2019	Ford Motor Company	Ford	Transit T150 Wagon	"2-Wheel Drive, Rear"	14	18	15	3.7	6	Auto(S6)	6	632	497	572
+2019	Ford Motor Company	Ford	TRANSIT T150 WAGON FFV	"2-Wheel Drive, Rear"	14	18	15	3.7	6	Auto(S6)	6	632	498	572
+2019	General Motors	Cadillac	XTS HEARSE	"2-Wheel Drive, Front"	15	21	17	3.6	6	Auto(S6)	6	604	419	521
+2019	General Motors	Cadillac	XTS LIMO	"2-Wheel Drive, Front"	15	21	17	3.6	6	Auto(S6)	6	604	419	521
+2019	Ford Motor Company	Ford	RANGER 2WD INCOMPLETE	"2-Wheel Drive, Rear"	19	18	18	2.3	4	Auto(S10)	10	477	493	484
+2019	Ford Motor Company	Ford	TRANSIT CONNECT USPS	"2-Wheel Drive, Front"	20	27	22	2.5	4	Auto(S6)	6	449	333	397
+2019	Ford Motor Company	Ford	Transit Connect Van 2WD	"2-Wheel Drive, Front"	24	27	25	2.0	4	Auto(S8)	8	370	331	353
+2019	Ford Motor Company	Ford	Transit Connect Van 2WD	"2-Wheel Drive, Front"	20	27	22	2.5	4	Auto(S6)	6	449	332	396
+2019	Ford Motor Company	Ford	TRANSIT CONNECT VAN FFV	"2-Wheel Drive, Front"	24	27	25	2.0	4	Auto(S8)	8	370	331	353
+2019	Ford Motor Company	Ford	TRANSIT CONNECT WAGON LWB FFV	"2-Wheel Drive, Front"	24	29	26	2.0	4	Auto(S8)	8	374	307	344
+2019	Ford Motor Company	Ford	Transit Connect Wagon LWB FWD	"2-Wheel Drive, Front"	24	29	26	2.0	4	Auto(S8)	8	374	307	344
+2019	Ford Motor Company	Ford	Transit Connect Wagon LWB FWD	"2-Wheel Drive, Front"	20	26	22	2.5	4	Auto(S6)	6	455	342	404
+2019	Mercedes-Benz	Mercedes-Benz	Metris (Cargo Van)	"2-Wheel Drive, Rear"	21	24	22	2.0	4	Auto(A7)	7	434	367	404
+2019	Mercedes-Benz	Mercedes-Benz	"Metris (Cargo Van, LWB)"	"2-Wheel Drive, Rear"	21	24	22	2.0	4	Auto(A7)	7	426	365	398
+2019	Mercedes-Benz	Mercedes-Benz	Metris (Passenger Van)	"2-Wheel Drive, Rear"	19	23	21	2.0	4	Auto(A7)	7	467	387	431
+2019	Nissan	NISSAN	NV200 Cargo Van	"2-Wheel Drive, Front"	24	26	25	2.0	4	Auto(AV)	1	370	339	356
+2019	Nissan	NISSAN	NV200 NYC Taxi	"2-Wheel Drive, Front"	23	26	24	2.0	4	Auto(AV)	1	390	335	366
+2019	FCA US LLC	RAM	Promaster City	"2-Wheel Drive, Front"	21	28	24	2.4	4	Auto(A9)	9	424	313	374
+2019	Ford Motor Company	Lincoln	MKT HEARSE AWD	All Wheel Drive	14	19	16	3.5	6	Auto(A6)	6	614	464	547
+2019	Ford Motor Company	Lincoln	MKT LIMO AWD	All Wheel Drive	14	19	15	3.5	6	Auto(A6)	6	659	469	574
+2019	Ford Motor Company	Lincoln	MKT LIVERY AWD	All Wheel Drive	16	23	18	3.7	6	Auto(A6)	6	546	389	491
+2019	General Motors	Chevrolet	C10 SILVERADO 2WD CAB CHASSIS	"2-Wheel Drive, Rear"	15	19	17	4.3	6	Auto(A6)	6	594	468	523
+2019	General Motors	Chevrolet	C10 SILVERADO 2WD CAB CHASSIS	"2-Wheel Drive, Rear"	14	19	16	5.3	8	Auto(A6)	6	635	467	555
+2019	General Motors	Chevrolet	COLORADO CAB CHASSIS 2WD	"2-Wheel Drive, Rear"	15	15	15	3.6	6	Auto(A8)	8	584	584	572
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD CAB CHASSIS	4-Wheel Drive	14	17	15	4.3	6	Auto(A6)	6	614	523	592
+2019	General Motors	Chevrolet	K10 SILVERADO 4WD CAB CHASSIS	4-Wheel Drive	14	17	15	5.3	8	Auto(A6)	6	635	523	593
+2019	General Motors	GMC	C10 SIERRA 2WD CAB CHASSIS	"2-Wheel Drive, Rear"	15	19	17	4.3	6	Auto(A6)	6	594	468	523
+2019	General Motors	GMC	C10 SIERRA 2WD CAB CHASSIS	"2-Wheel Drive, Rear"	14	19	16	5.3	8	Auto(A6)	6	635	467	555
+2019	General Motors	GMC	CANYON CAB CHASSIS 2WD	"2-Wheel Drive, Rear"	15	15	15	3.6	6	Auto(A8)	8	584	584	572
+2019	General Motors	GMC	K10 SIERRA 4WD CAB CHASSIS	4-Wheel Drive	14	17	15	4.3	6	Auto(A6)	6	614	523	592
+2019	General Motors	GMC	K10 SIERRA 4WD CAB CHASSIS	4-Wheel Drive	14	17	15	5.3	8	Auto(A6)	6	635	523	593
+2019	FCA US LLC	Chrysler	Pacifica	"2-Wheel Drive, Front"	19	28	22	3.6	6	Auto(A9)	9	469	317	401
+2019	FCA US LLC	Chrysler	Pacifica	"2-Wheel Drive, Front"	18	28	22	3.6	6	Auto(A9)	9	495	320	416
+2019	FCA US LLC	Dodge	Grand Caravan	"2-Wheel Drive, Front"	17	25	20	3.6	6	Auto(A6)	6	517	357	445
+2019	FCA US LLC	Dodge	Grand Caravan	"2-Wheel Drive, Front"	17	25	20	3.6	6	Auto(A6)	6	517	357	445
+2019	Honda	Honda	ODYSSEY FWD	"2-Wheel Drive, Front"	19	28	22	3.5	6	Auto(S10)	10	458	319	396
+2019	Honda	Honda	ODYSSEY FWD	"2-Wheel Drive, Front"	19	28	22	3.5	6	Auto(S9)	9	478	318	406
+2019	Kia	KIA MOTORS CORPORATION	Sedona	"2-Wheel Drive, Front"	18	24	21	3.3	6	Auto(S8)	8	485	377	437
+2019	Toyota	TOYOTA	SIENNA	"2-Wheel Drive, Front"	19	27	22	3.5	6	Auto(S8)	8	469	333	408
+2019	Toyota	TOYOTA	SIENNA AWD	All Wheel Drive	18	24	20	3.5	6	Auto(S8)	8	504	364	441
+2019	Honda	Acura	MDX FWD	"2-Wheel Drive, Front"	20	27	23	3.5	6	Auto(S9)	9	446	330	387
+2019	Honda	Acura	RDX FWD	"2-Wheel Drive, Front"	22	28	24	2.0	4	Auto(S10)	10	399	314	370
+2019	Honda	Acura	RDX FWD A-SPEC	"2-Wheel Drive, Front"	22	27	24	2.0	4	Auto(S10)	10	412	328	374
+2019	FCA US LLC	ALFA ROMEO	Stelvio	"2-Wheel Drive, Rear"	22	29	25	2.0	4	Auto(A8)	8	404	305	359
+2019	General Motors	Buick	ENCORE	"2-Wheel Drive, Front"	25	30	27	1.4	4	Auto(S6)	6	356	295	329
+2019	General Motors	Buick	ENCORE	"2-Wheel Drive, Front"	26	31	28	1.4	4	Auto(S6)	6	337	282	312
+2019	General Motors	Buick	ENVISION FWD	"2-Wheel Drive, Front"	22	29	25	2.5	4	Auto(A6)	6	402	306	359
+2019	General Motors	Cadillac	XT4 FWD	"2-Wheel Drive, Front"	24	30	26	2.0	4	Auto(S9)	9	370	294	336
+2019	General Motors	Cadillac	XT5	"2-Wheel Drive, Front"	19	26	22	3.6	6	Auto(S8)	8	459	339	405
+2019	General Motors	Chevrolet	BLAZER FWD	"2-Wheel Drive, Front"	22	27	24	2.5	4	Auto(A9)	9	409	330	373
+2019	General Motors	Chevrolet	BLAZER FWD	"2-Wheel Drive, Front"	20	26	22	3.6	6	Auto(A9)	9	456	342	405
+2019	General Motors	Chevrolet	EQUINOX FWD	"2-Wheel Drive, Front"	26	32	28	1.5	4	Auto(A6)	6	347	277	315
+2019	General Motors	Chevrolet	EQUINOX FWD	"2-Wheel Drive, Front"	28	39	32	1.6	4	Auto(A6)	6	370	260	321
+2019	General Motors	Chevrolet	EQUINOX FWD	"2-Wheel Drive, Front"	22	29	25	2.0	4	Auto(A9)	9	396	306	350
+2019	General Motors	Chevrolet	TRAX	"2-Wheel Drive, Front"	26	31	28	1.4	4	Auto(S6)	6	343	282	316
+2019	FCA US LLC	Dodge	Journey	"2-Wheel Drive, Front"	19	25	21	2.4	4	Auto(A4)	4	478	349	420
+2019	FCA US LLC	Dodge	Journey	"2-Wheel Drive, Front"	17	25	19	3.6	6	Auto(A6)	6	536	358	456
+2019	Ford Motor Company	Ford	ECOSPORT FWD	"2-Wheel Drive, Front"	27	29	28	1.0	3	Auto(S6)	6	324	306	316
+2019	Ford Motor Company	Ford	EDGE FWD	"2-Wheel Drive, Front"	22	29	25	2.0	4	Auto(S8)	8	409	301	360
+2019	Ford Motor Company	Ford	ESCAPE FWD	"2-Wheel Drive, Front"	23	30	26	1.5	4	Auto(S6)	6	380	296	342
+2019	Ford Motor Company	Ford	ESCAPE FWD	"2-Wheel Drive, Front"	22	29	25	2.0	4	Auto(S6)	6	404	305	360
+2019	Ford Motor Company	Ford	ESCAPE FWD	"2-Wheel Drive, Front"	21	29	24	2.5	4	Auto(S6)	6	420	305	369
+2019	Ford Motor Company	Ford	ESCAPE FWD FFV	"2-Wheel Drive, Front"	21	29	24	2.5	4	Auto(S6)	6	420	305	369
+2019	General Motors	GMC	TERRAIN FWD	"2-Wheel Drive, Front"	26	30	28	1.5	4	Auto(A9)	9	341	295	317
+2019	General Motors	GMC	TERRAIN FWD	"2-Wheel Drive, Front"	28	39	32	1.6	4	Auto(A6)	6	370	260	321
+2019	General Motors	GMC	TERRAIN FWD	"2-Wheel Drive, Front"	22	28	24	2.0	4	Auto(A9)	9	396	317	369
+2019	Honda	Honda	CR-V FWD	"2-Wheel Drive, Front"	28	34	30	1.5	4	Auto(AV)	1	316	262	292
+2019	Honda	Honda	CR-V FWD	"2-Wheel Drive, Front"	26	32	28	2.4	4	Auto(AV)	1	344	272	312
+2019	Honda	Honda	PASSPORT FWD	"2-Wheel Drive, Front"	20	25	22	3.5	6	Auto(S9)	9	453	352	407
+2019	Honda	Honda	PILOT FWD	"2-Wheel Drive, Front"	19	27	22	3.5	6	Auto(A6)	6	466	329	405
+2019	Honda	Honda	PILOT FWD	"2-Wheel Drive, Front"	20	27	23	3.5	6	Auto(S9)	9	439	325	388
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Kona FWD	"2-Wheel Drive, Front"	28	32	30	1.6	4	Auto(AM7)	7	325	277	303
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Kona FWD	"2-Wheel Drive, Front"	27	33	30	2.0	4	Auto(S6)	6	327	267	300
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe FWD	"2-Wheel Drive, Front"	20	25	22	2.0	4	Auto(S8)	8	455	351	408
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe FWD	"2-Wheel Drive, Front"	22	29	25	2.4	4	Auto(S8)	8	409	304	362
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe XL FWD	"2-Wheel Drive, Front"	18	25	21	3.3	6	Auto(S6)	6	498	351	432
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe XL Ultimate FWD	"2-Wheel Drive, Front"	18	23	20	3.3	6	Auto(S6)	6	510	384	453
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Tucson FWD	"2-Wheel Drive, Front"	23	30	26	2.0	4	Auto(S6)	6	383	303	347
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Tucson FWD	"2-Wheel Drive, Front"	22	28	25	2.4	4	Auto(S6)	6	404	317	365
+2019	Nissan	INFINITI	QX50	"2-Wheel Drive, Front"	24	31	27	2.0	4	Auto(AV-S8)	8	374	289	336
+2019	Nissan	INFINITI	QX60 FWD	"2-Wheel Drive, Front"	20	27	22	3.5	6	Auto(AV-S7)	7	453	333	399
+2019	FCA US LLC	Jeep	Cherokee FWD	"2-Wheel Drive, Front"	23	31	26	2.0	4	Auto(A9)	9	393	287	345
+2019	FCA US LLC	Jeep	Cherokee FWD	"2-Wheel Drive, Front"	22	31	25	2.4	4	Auto(A9)	9	407	284	352
+2019	FCA US LLC	Jeep	Cherokee FWD	"2-Wheel Drive, Front"	20	29	23	3.2	6	Auto(A9)	9	451	309	387
+2019	FCA US LLC	Jeep	Compass 4X2	"2-Wheel Drive, Front"	22	31	25	2.4	4	Auto(A6)	6	401	289	350
+2019	FCA US LLC	Jeep	Compass 4X2	"2-Wheel Drive, Front"	23	32	26	2.4	4	Manual(M6)	6	391	276	339
+2019	FCA US LLC	Jeep	Renegade 4x2	"2-Wheel Drive, Front"	24	32	27	1.3	4	Auto(A9)	9	369	278	328
+2019	FCA US LLC	Jeep	Renegade 4x2	"2-Wheel Drive, Front"	22	30	25	2.4	4	Auto(A9)	9	408	295	357
+2019	Kia	KIA MOTORS CORPORATION	Sorento FWD	"2-Wheel Drive, Front"	22	29	25	2.4	4	Auto(S6)	6	404	312	363
+2019	Kia	KIA MOTORS CORPORATION	Sorento FWD	"2-Wheel Drive, Front"	19	26	22	3.3	6	Auto(S8)	8	472	348	416
+2019	Kia	KIA MOTORS CORPORATION	Sportage FE FWD	"2-Wheel Drive, Front"	23	30	25	2.4	4	Auto(S6)	6	394	303	353
+2019	Kia	KIA MOTORS CORPORATION	Sportage FWD	"2-Wheel Drive, Front"	21	26	23	2.0	4	Auto(S6)	6	431	344	392
+2019	Kia	KIA MOTORS CORPORATION	Sportage FWD	"2-Wheel Drive, Front"	22	29	25	2.4	4	Auto(S6)	6	399	308	358
+2019	Toyota	LEXUS	NX 300	"2-Wheel Drive, Front"	22	28	25	2.0	4	Auto(S6)	6	395	315	359
+2019	Toyota	LEXUS	RX 350	"2-Wheel Drive, Front"	20	27	23	3.5	6	Auto(S8)	8	445	326	391
+2019	Toyota	LEXUS	RX 350L	"2-Wheel Drive, Front"	19	26	22	3.5	6	Auto(S8)	8	461	342	407
+2019	Ford Motor Company	Lincoln	MKC  FWD	"2-Wheel Drive, Front"	20	27	23	2.0	4	Auto(S6)	6	444	325	390
+2019	Ford Motor Company	Lincoln	NAUTILUS FWD	"2-Wheel Drive, Front"	21	26	23	2.0	4	Auto(S8)	8	422	340	384
+2019	Ford Motor Company	Lincoln	NAUTILUS FWD	"2-Wheel Drive, Front"	20	27	22	2.7	6	Auto(S8)	8	449	322	392
+2019	MAZDA	MAZDA	CX-5 2WD	"2-Wheel Drive, Front"	28	31	29	2.2	4	Auto(S6)	6	360	333	348
+2019	MAZDA	MAZDA	CX-5 2WD	"2-Wheel Drive, Front"	25	31	28	2.5	4	Auto(S6)	6	351	287	322
+2019	MAZDA	MAZDA	CX-5 2WD	"2-Wheel Drive, Front"	23	28	25	2.5	4	Auto(S6)	6	389	313	355
+2019	MAZDA	MAZDA	CX-9 2WD	"2-Wheel Drive, Front"	22	28	24	2.5	4	Auto(S6)	6	403	313	362
+2019	Mercedes-Benz	Mercedes-Benz	GLA 250	"2-Wheel Drive, Front"	24	33	27	2.0	4	Auto(AM7)	7	368	267	322
+2019	Mercedes-Benz	Mercedes-Benz	GLC 300	"2-Wheel Drive, Rear"	22	27	24	2.0	4	Auto(A9)	9	409	322	370
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	ECLIPSE CROSS 2WD	"2-Wheel Drive, Front"	25	28	26	1.5	4	Auto(AV-S8)	8	353	314	338
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	ECLIPSE CROSS ES 2WD	"2-Wheel Drive, Front"	26	29	27	1.5	4	Auto(AV-S8)	8	337	303	327
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER 2WD	"2-Wheel Drive, Front"	25	30	27	2.4	4	Auto(AV-S6)	6	352	295	326
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER SPORT 2WD	"2-Wheel Drive, Front"	24	30	27	2.0	4	Auto(AV-S6)	6	362	293	331
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER SPORT 2WD	"2-Wheel Drive, Front"	23	29	25	2.0	4	Manual(M5)	5	381	300	354
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER SPORT 2WD	"2-Wheel Drive, Front"	23	29	25	2.4	4	Auto(AV-S6)	6	386	302	354
+2019	Nissan	NISSAN	PATHFINDER 2WD	"2-Wheel Drive, Front"	20	27	23	3.5	6	Auto(AV)	1	451	326	395
+2019	Nissan	NISSAN	ROGUE FWD	"2-Wheel Drive, Front"	26	33	29	2.5	4	Auto(AV)	1	346	270	312
+2019	Nissan	NISSAN	ROGUE FWD Hybrid	"2-Wheel Drive, Front"	33	35	34	2.0	4	Auto(AV-S7)	7	267	254	261
+2019	Toyota	TOYOTA	HIGHLANDER	"2-Wheel Drive, Front"	20	24	22	2.7	4	Auto(S6)	6	438	370	407
+2019	Toyota	TOYOTA	HIGHLANDER	"2-Wheel Drive, Front"	20	27	23	3.5	6	Auto(S8)	8	442	328	391
+2019	Toyota	TOYOTA	HIGHLANDER LE/XLE/SE/LTD	"2-Wheel Drive, Front"	21	27	23	3.5	6	Auto(S8)	8	430	328	384
+2019	Toyota	TOYOTA	RAV4	"2-Wheel Drive, Front"	26	35	30	2.5	4	Auto(S8)	8	340	255	302
+2019	Volkswagen Group of	Volkswagen	Atlas	"2-Wheel Drive, Front"	20	26	22	2.0	4	Auto(S8)	8	437	343	394
+2019	Volkswagen Group of	Volkswagen	Atlas	"2-Wheel Drive, Front"	17	24	19	3.6	6	Auto(S8)	8	522	371	454
+2019	Volkswagen Group of	Volkswagen	Tiguan	"2-Wheel Drive, Front"	22	29	25	2.0	4	Auto(S8)	8	401	300	355
+2019	Volvo	"Volvo Cars of North America, LLC"	XC40 FWD	"2-Wheel Drive, Front"	23	33	27	2.0	4	Auto(S8)	8	380	270	331
+2019	Volvo	"Volvo Cars of North America, LLC"	XC60 FWD	"2-Wheel Drive, Front"	22	29	24	2.0	4	Auto(S8)	8	406	309	363
+2019	Honda	Acura	MDX AWD	All Wheel Drive	26	27	27	3.0	6	Auto(AM-S7)	7	333	325	330
+2019	Honda	Acura	MDX AWD	All Wheel Drive	19	26	22	3.5	6	Auto(S9)	9	456	340	404
+2019	Honda	Acura	MDX AWD A-spec	All Wheel Drive	19	25	21	3.5	6	Auto(S9)	9	461	358	415
+2019	Honda	Acura	RDX AWD	4-Wheel Drive	21	27	23	2.0	4	Auto(S10)	10	415	322	385
+2019	Honda	Acura	RDX AWD A-SPEC	4-Wheel Drive	21	26	23	2.0	4	Auto(S10)	10	423	339	385
+2019	FCA US LLC	ALFA ROMEO	Stelvio AWD	All Wheel Drive	22	28	24	2.0	4	Auto(A8)	8	407	311	364
+2019	FCA US LLC	ALFA ROMEO	Stelvio AWD	All Wheel Drive	17	23	19	2.9	6	Auto(A8)	8	533	394	470
+2019	Volkswagen Group of	Audi	Q3 quattro	All Wheel Drive	19	27	22	2.0	4	Auto(S8)	8	462	323	399
+2019	Volkswagen Group of	Audi	Q5	All Wheel Drive	22	27	24	2.0	4	Auto(S7)	7	410	325	372
+2019	Volkswagen Group of	Audi	SQ5	All Wheel Drive	19	24	21	3.0	6	Auto(S8)	8	481	378	434
+2019	BMW	BMW	X3 M40i	All Wheel Drive	20	27	23	3.0	6	Auto(S8)	8	444	328	392
+2019	BMW	BMW	X3 sDrive30i	"2-Wheel Drive, Rear"	23	30	26	2.0	4	Auto(S8)	8	386	292	344
+2019	BMW	BMW	X3 xDrive30i	All Wheel Drive	22	29	25	2.0	4	Auto(S8)	8	407	302	360
+2019	BMW	BMW	X4 M40i	All Wheel Drive	20	27	23	3.0	6	Auto(S8)	8	444	328	392
+2019	BMW	BMW	X4 xDrive30i	All Wheel Drive	22	29	25	2.0	4	Auto(S8)	8	407	302	360
+2019	General Motors	Buick	ENCORE AWD	All Wheel Drive	24	29	26	1.4	4	Auto(S6)	6	374	307	344
+2019	General Motors	Buick	ENCORE AWD	All Wheel Drive	25	30	27	1.4	4	Auto(S6)	6	356	298	330
+2019	General Motors	Buick	ENVISION AWD	All Wheel Drive	20	25	22	2.0	4	Auto(A9)	9	440	354	401
+2019	General Motors	Buick	ENVISION AWD	All Wheel Drive	21	27	24	2.5	4	Auto(A6)	6	419	326	377
+2019	General Motors	Cadillac	XT4 AWD	All Wheel Drive	22	29	24	2.0	4	Auto(S9)	9	412	308	365
+2019	General Motors	Cadillac	XT5 AWD	All Wheel Drive	18	25	21	3.6	6	Auto(S8)	8	483	351	423
+2019	General Motors	Chevrolet	BLAZER AWD	All Wheel Drive	18	25	21	3.6	6	Auto(A9)	9	481	360	426
+2019	General Motors	Chevrolet	EQUINOX AWD	All Wheel Drive	25	30	27	1.5	4	Auto(A6)	6	363	299	334
+2019	General Motors	Chevrolet	EQUINOX AWD	All Wheel Drive	28	38	32	1.6	4	Auto(A6)	6	363	265	319
+2019	General Motors	Chevrolet	EQUINOX AWD	All Wheel Drive	22	28	24	2.0	4	Auto(A9)	9	412	312	367
+2019	General Motors	Chevrolet	TRAX AWD	All Wheel Drive	24	29	26	1.4	4	Auto(S6)	6	374	307	344
+2019	FCA US LLC	Dodge	Journey AWD	All Wheel Drive	16	24	19	3.6	6	Auto(A6)	6	547	377	470
+2019	FCA US LLC	FIAT	500X AWD	All Wheel Drive	24	30	26	1.3	4	Auto(A9)	9	379	297	342
+2019	Ford Motor Company	Ford	ECOSPORT AWD	All Wheel Drive	23	29	25	2.0	4	Auto(S6)	6	378	306	355
+2019	Ford Motor Company	Ford	EDGE AWD	All Wheel Drive	21	28	23	2.0	4	Auto(S8)	8	430	311	377
+2019	Ford Motor Company	Ford	EDGE AWD	All Wheel Drive	19	26	21	2.7	6	Auto(S8)	8	476	347	418
+2019	Ford Motor Company	Ford	ESCAPE AWD	All Wheel Drive	22	28	24	1.5	4	Auto(S6)	6	411	317	370
+2019	Ford Motor Company	Ford	ESCAPE AWD	All Wheel Drive	21	27	23	2.0	4	Auto(S6)	6	432	327	385
+2019	General Motors	GMC	TERRAIN AWD	All Wheel Drive	24	28	26	1.5	4	Auto(A9)	9	362	310	339
+2019	General Motors	GMC	TERRAIN AWD	All Wheel Drive	28	38	32	1.6	4	Auto(A6)	6	363	265	319
+2019	General Motors	GMC	TERRAIN AWD	All Wheel Drive	21	26	23	2.0	4	Auto(A9)	9	423	341	386
+2019	Honda	Honda	CR-V AWD	All Wheel Drive	27	33	29	1.5	4	Auto(AV)	1	328	271	302
+2019	Honda	Honda	CR-V AWD	All Wheel Drive	25	31	27	2.4	4	Auto(AV)	1	359	289	328
+2019	Honda	Honda	PASSPORT AWD	All Wheel Drive	19	24	21	3.5	6	Auto(S9)	9	474	370	427
+2019	Honda	Honda	PILOT AWD	All Wheel Drive	18	26	21	3.5	6	Auto(A6)	6	486	341	421
+2019	Honda	Honda	PILOT AWD	All Wheel Drive	19	26	22	3.5	6	Auto(S9)	9	464	339	408
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Kona AWD	All Wheel Drive	26	29	27	1.6	4	Auto(AM7)	7	342	302	324
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Kona AWD	All Wheel Drive	25	30	27	2.0	4	Auto(S6)	6	351	294	325
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe AWD	All Wheel Drive	19	24	21	2.0	4	Auto(S8)	8	463	371	422
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe AWD	All Wheel Drive	21	27	23	2.4	4	Auto(S8)	8	422	329	380
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe XL AWD	All Wheel Drive	18	24	20	3.3	6	Auto(S6)	6	510	365	445
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe XL Ultimate AWD	All Wheel Drive	17	22	19	3.3	6	Auto(S6)	6	536	408	479
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Tucson AWD	All Wheel Drive	22	25	23	2.0	4	Auto(S6)	6	411	353	385
+2019	Hyundai	HYUNDAI MOTOR COMPANY	Tucson AWD	All Wheel Drive	21	26	23	2.4	4	Auto(S6)	6	421	348	388
+2019	Nissan	INFINITI	QX50 AWD	All Wheel Drive	24	30	26	2.0	4	Auto(AV-S8)	8	378	294	340
+2019	Nissan	INFINITI	QX60 AWD	All Wheel Drive	19	26	22	3.5	6	Auto(AV-S7)	7	467	340	410
+2019	Jaguar Land Rover L	Jaguar	F-Pace	All Wheel Drive	26	33	29	2.0	4	Auto(S8)	8	385	311	352
+2019	Jaguar Land Rover L	Jaguar	F-Pace	All Wheel Drive	22	27	24	2.0	4	Auto(S8)	8	392	333	365
+2019	Jaguar Land Rover L	Jaguar	F-Pace	All Wheel Drive	18	23	20	3.0	6	Auto(S8)	8	502	377	446
+2019	Jaguar Land Rover L	Jaguar	F-Pace	All Wheel Drive	16	21	18	5.0	8	Auto(S8)	8	549	414	488
+2019	Jaguar Land Rover L	Jaguar	Jaguar E-Pace P250	All Wheel Drive	21	28	24	2.0	4	Auto(S9)	9	431	352	395
+2019	Jaguar Land Rover L	Jaguar	Jaguar E-Pace P300	All Wheel Drive	21	27	23	2.0	4	Auto(S9)	9	424	325	379
+2019	FCA US LLC	Jeep	Cherokee 4X4	All Wheel Drive	21	29	24	2.0	4	Auto(A9)	9	423	304	369
+2019	FCA US LLC	Jeep	Cherokee 4X4	All Wheel Drive	21	29	24	2.4	4	Auto(A9)	9	422	306	370
+2019	FCA US LLC	Jeep	Cherokee 4X4	All Wheel Drive	19	27	22	3.2	6	Auto(A9)	9	462	325	400
+2019	FCA US LLC	Jeep	Cherokee 4x4 Active Drive II	4-Wheel Drive	20	27	23	2.0	4	Auto(A9)	9	437	325	387
+2019	FCA US LLC	Jeep	Cherokee 4x4 Active Drive II	4-Wheel Drive	18	26	21	3.2	6	Auto(A9)	9	481	338	416
+2019	FCA US LLC	Jeep	Cherokee Trailhawk 4X4	4-Wheel Drive	20	26	22	2.0	4	Auto(A9)	9	445	346	400
+2019	FCA US LLC	Jeep	Cherokee Trailhawk 4X4	4-Wheel Drive	18	24	21	3.2	6	Auto(A9)	9	484	369	432
+2019	FCA US LLC	Jeep	Compass 4X4	All Wheel Drive	22	30	25	2.4	4	Auto(A9)	9	409	295	358
+2019	FCA US LLC	Jeep	Compass 4X4	All Wheel Drive	22	31	25	2.4	4	Manual(M6)	6	410	288	355
+2019	FCA US LLC	Jeep	Renegade 4x4	All Wheel Drive	23	29	26	1.3	4	Auto(A9)	9	382	305	348
+2019	FCA US LLC	Jeep	Renegade 4x4	All Wheel Drive	21	29	24	2.4	4	Auto(A9)	9	422	309	371
+2019	FCA US LLC	Jeep	Renegade Trailhawk 4x4	All Wheel Drive	22	27	24	1.3	4	Auto(A9)	9	408	325	370
+2019	FCA US LLC	Jeep	Wrangler 4X4	4-Wheel Drive	23	25	24	2.0	4	Auto(A8)	8	394	353	375
+2019	FCA US LLC	Jeep	Wrangler 4X4	4-Wheel Drive	18	23	20	3.6	6	Auto(A8)	8	484	387	440
+2019	FCA US LLC	Jeep	Wrangler 4X4	4-Wheel Drive	17	25	20	3.6	6	Manual(M6)	6	515	362	446
+2019	FCA US LLC	Jeep	Wrangler Unlimited 4X4	4-Wheel Drive	22	24	22	2.0	4	Auto(A8)	8	409	375	394
+2019	FCA US LLC	Jeep	Wrangler Unlimited 4X4	4-Wheel Drive	18	23	20	3.6	6	Auto(A8)	8	489	386	443
+2019	FCA US LLC	Jeep	Wrangler Unlimited 4X4	4-Wheel Drive	17	23	19	3.6	6	Manual(M6)	6	522	382	459
+2019	Kia	KIA MOTORS CORPORATION	Sorento AWD	All Wheel Drive	21	26	23	2.4	4	Auto(S6)	6	427	342	389
+2019	Kia	KIA MOTORS CORPORATION	Sorento AWD	All Wheel Drive	19	24	21	3.3	6	Auto(S8)	8	475	372	428
+2019	Kia	KIA MOTORS CORPORATION	Sportage AWD	All Wheel Drive	20	23	21	2.0	4	Auto(S6)	6	455	386	424
+2019	Kia	KIA MOTORS CORPORATION	Sportage AWD	All Wheel Drive	21	25	23	2.4	4	Auto(S6)	6	427	359	397
+2019	Kia	KIA MOTORS CORPORATION	Sportage FE AWD	All Wheel Drive	21	25	22	2.4	4	Auto(S6)	6	434	360	400
+2019	Jaguar Land Rover L	Land Rover	Discovery Sport	All Wheel Drive	21	25	22	2.0	4	Auto(S9)	9	431	352	395
+2019	Jaguar Land Rover L	Land Rover	Discovery Sport Si4	All Wheel Drive	20	25	22	2.0	4	Auto(S9)	9	442	352	402
+2019	Jaguar Land Rover L	Land Rover	Range Rover Evoque 237HP	All Wheel Drive	22	29	25	2.0	4	Auto(S9)	9	411	301	362
+2019	Jaguar Land Rover L	Land Rover	Range Rover Evoque 286HP	All Wheel Drive	21	29	24	2.0	4	Auto(S9)	9	431	311	377
+2019	Jaguar Land Rover L	Land Rover	Range Rover Evoque Cabriolet	All Wheel Drive	21	29	24	2.0	4	Auto(S9)	9	421	310	371
+2019	Jaguar Land Rover L	Land Rover	Range Rover Velar	All Wheel Drive	26	30	28	2.0	4	Auto(S8)	8	397	336	369
+2019	Jaguar Land Rover L	Land Rover	Range Rover Velar	All Wheel Drive	21	27	23	2.0	4	Auto(S8)	8	424	335	384
+2019	Jaguar Land Rover L	Land Rover	Range Rover Velar	All Wheel Drive	18	24	20	3.0	6	Auto(S8)	8	490	376	439
+2019	Toyota	LEXUS	NX 300 AWD	All Wheel Drive	22	28	24	2.0	4	Auto(S6)	6	399	318	363
+2019	Toyota	LEXUS	NX 300 AWD F SPORT	All Wheel Drive	22	27	24	2.0	4	Auto(S6)	6	407	334	374
+2019	Toyota	LEXUS	NX 300h AWD	All Wheel Drive	33	30	31	2.5	4	Auto(AV-S6)	6	269	296	281
+2019	Toyota	LEXUS	RX 350 AWD	All Wheel Drive	19	26	22	3.5	6	Auto(S8)	8	460	339	405
+2019	Toyota	LEXUS	RX 350L AWD	All Wheel Drive	18	25	21	3.5	6	Auto(S8)	8	494	356	432
+2019	Ford Motor Company	Lincoln	MKC  AWD	All Wheel Drive	19	25	22	2.0	4	Auto(S6)	6	461	352	412
+2019	Ford Motor Company	Lincoln	MKC  AWD	All Wheel Drive	19	25	21	2.0	4	Auto(S6)	6	464	352	414
+2019	Ford Motor Company	Lincoln	MKC  AWD	All Wheel Drive	18	25	20	2.3	4	Auto(S6)	6	502	361	438
+2019	Ford Motor Company	Lincoln	NAUTILUS AWD	All Wheel Drive	20	25	22	2.0	4	Auto(S8)	8	441	354	402
+2019	Ford Motor Company	Lincoln	NAUTILUS AWD	All Wheel Drive	19	26	21	2.7	6	Auto(S8)	8	476	347	418
+2019	MAZDA	MAZDA	CX-5 4WD	4-Wheel Drive	27	30	28	2.2	4	Auto(S6)	6	384	343	365
+2019	MAZDA	MAZDA	CX-5 4WD	4-Wheel Drive	24	30	26	2.5	4	Auto(S6)	6	367	296	335
+2019	MAZDA	MAZDA	CX-5 4WD	4-Wheel Drive	22	27	24	2.5	4	Auto(S6)	6	406	326	370
+2019	MAZDA	MAZDA	CX-9 4WD	4-Wheel Drive	20	26	23	2.5	4	Auto(S6)	6	435	338	391
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLC 43 4MATIC	4-Wheel Drive	19	25	21	3.0	6	Auto(A9)	9	464	355	415
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLC 43 4MATIC (coupe)	4-Wheel Drive	19	24	21	3.0	6	Auto(A9)	9	468	361	420
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLC 63 4MATIC	4-Wheel Drive	16	22	18	4.0	8	Auto(A9)	9	553	406	487
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLC 63 4MATIC (coupe)	4-Wheel Drive	16	22	18	4.0	8	Auto(A9)	9	541	401	478
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLC 63 S 4MATIC (coupe)	4-Wheel Drive	16	22	18	4.0	8	Auto(A9)	9	565	409	495
+2019	Mercedes-Benz	Mercedes-Benz	GLA 250 4MATIC	Part-time 4-Wheel Drive	23	31	26	2.0	4	Auto(AM7)	7	377	287	337
+2019	Mercedes-Benz	Mercedes-Benz	GLA 250 4MATIC	4-Wheel Drive	23	31	26	2.0	4	Auto(AM7)	7	377	287	337
+2019	Mercedes-Benz	Mercedes-Benz	GLC 300 4MATIC	4-Wheel Drive	22	27	24	2.0	4	Auto(A9)	9	412	331	376
+2019	Mercedes-Benz	Mercedes-Benz	GLC 300 4MATIC (Coupe)	4-Wheel Drive	21	27	23	2.0	4	Auto(A9)	9	423	335	383
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	ECLIPSE CROSS 4WD	4-Wheel Drive	25	26	25	1.5	4	Auto(AV-S8)	8	360	332	347
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	ECLIPSE CROSS ES 4WD	4-Wheel Drive	25	28	26	1.5	4	Auto(AV-S8)	8	353	318	337
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER 4WD	4-Wheel Drive	24	29	26	2.4	4	Auto(AV-S6)	6	371	305	341
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER 4WD	4-Wheel Drive	20	27	22	3.0	6	Auto(S6)	6	440	327	402
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER SPORT 4WD	4-Wheel Drive	23	29	26	2.0	4	Auto(AV-S6)	6	376	305	344
+2019	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER SPORT 4WD	4-Wheel Drive	23	28	25	2.4	4	Auto(AV-S6)	6	384	315	353
+2019	Nissan	NISSAN	PATHFINDER 4WD	4-Wheel Drive	19	26	22	3.5	6	Auto(AV)	1	457	338	404
+2019	Nissan	NISSAN	PATHFINDER 4WD PLATINUM	4-Wheel Drive	19	26	21	3.5	6	Auto(AV)	1	457	348	424
+2019	Nissan	NISSAN	ROGUE AWD	All Wheel Drive	25	32	27	2.5	4	Auto(AV)	1	358	283	324
+2019	Nissan	NISSAN	ROGUE AWD Hybrid	All Wheel Drive	31	34	33	2.0	4	Auto(AV-S7)	7	287	263	276
+2019	Porsche	Porsche	Macan	All Wheel Drive	19	23	21	2.0	4	Auto(AM-S7)	7	459	385	426
+2019	Porsche	Porsche	Macan S	All Wheel Drive	18	23	20	3.0	6	Auto(AM-S7)	7	483	382	438
+2019	Subaru	Subaru	CROSSTREK AWD	All Wheel Drive	27	33	29	2.0	4	Auto(AV-S7)	7	329	267	301
+2019	Subaru	Subaru	CROSSTREK AWD	All Wheel Drive	23	29	25	2.0	4	Manual(M6)	6	390	307	353
+2019	Subaru	Subaru	FORESTER AWD	All Wheel Drive	26	33	29	2.5	4	Auto(AV-S7)	7	340	272	310
+2019	Subaru	Subaru	OUTBACK AWD	All Wheel Drive	25	32	28	2.5	4	Auto(AV-S7)	7	356	276	320
+2019	Subaru	Subaru	OUTBACK AWD	All Wheel Drive	20	27	22	3.6	6	Auto(AV-S6)	6	453	330	398
+2019	Toyota	TOYOTA	RAV4 AWD	All Wheel Drive	25	33	28	2.5	4	Auto(S8)	8	355	268	317
+2019	Toyota	TOYOTA	RAV4 AWD	All Wheel Drive	27	34	30	2.5	4	Auto(S8)	8	326	260	296
+2019	Toyota	TOYOTA	RAV4 HYBRID AWD	All Wheel Drive	41	38	40	2.5	4	Auto(AV-S6)	6	214	233	223
+2019	Volkswagen Group of	Volkswagen	Tiguan 4Motion	All Wheel Drive	21	29	24	2.0	4	Auto(S8)	8	419	304	367
+2019	Volvo	"Volvo Cars of North America, LLC"	XC40 AWD	All Wheel Drive	23	31	26	2.0	4	Auto(S8)	8	387	282	340
+2019	Volvo	"Volvo Cars of North America, LLC"	XC60 AWD	All Wheel Drive	19	27	22	2.0	4	Auto(S8)	8	454	324	395
+2019	Volvo	"Volvo Cars of North America, LLC"	XC60 AWD	All Wheel Drive	20	27	23	2.0	4	Auto(S8)	8	441	330	391
+2019	BMW	BMW	X6 sDrive35i	"2-Wheel Drive, Rear"	18	24	20	3.0	6	Auto(S8)	8	487	367	433
+2019	General Motors	Buick	ENCLAVE	"2-Wheel Drive, Front"	18	26	21	3.6	6	Auto(A9)	9	492	342	420
+2019	General Motors	Cadillac	ESCALADE 2WD	"2-Wheel Drive, Rear"	14	23	17	6.2	8	Auto(A10)	10	618	393	517
+2019	General Motors	Chevrolet	C1500 SUBURBAN 2WD	"2-Wheel Drive, Rear"	15	22	18	5.3	8	Auto(A6)	6	593	397	505
+2019	General Motors	Chevrolet	C1500 SUBURBAN 2WD	"2-Wheel Drive, Rear"	15	22	18	5.3	8	Auto(A6)	6	593	397	505
+2019	General Motors	Chevrolet	C1500 SUBURBAN 2WD	"2-Wheel Drive, Rear"	14	23	17	6.2	8	Auto(A10)	10	618	393	517
+2019	General Motors	Chevrolet	C1500 TAHOE 2WD	"2-Wheel Drive, Rear"	15	22	18	5.3	8	Auto(A6)	6	593	397	505
+2019	General Motors	Chevrolet	C1500 TAHOE 2WD	"2-Wheel Drive, Rear"	15	22	18	5.3	8	Auto(A6)	6	593	397	505
+2019	General Motors	Chevrolet	C1500 TAHOE 2WD	"2-Wheel Drive, Rear"	14	23	17	6.2	8	Auto(A10)	10	618	393	517
+2019	General Motors	Chevrolet	TRAVERSE FWD	"2-Wheel Drive, Front"	20	26	22	2.0	4	Auto(A9)	9	440	341	404
+2019	General Motors	Chevrolet	TRAVERSE FWD	"2-Wheel Drive, Front"	18	27	21	3.6	6	Auto(A9)	9	492	331	420
+2019	FCA US LLC	Dodge	Durango RWD	"2-Wheel Drive, Rear"	19	26	21	3.6	6	Auto(A8)	8	470	344	414
+2019	FCA US LLC	Dodge	Durango RWD	"2-Wheel Drive, Rear"	14	22	17	5.7	8	Auto(A8)	8	628	399	525
+2019	Ford Motor Company	Ford	Expedition 2WD	"2-Wheel Drive, Rear"	17	24	20	3.5	6	Auto(S10)	10	522	371	454
+2019	Ford Motor Company	Ford	Expedition MAX 2WD	"2-Wheel Drive, Rear"	17	23	19	3.5	6	Auto(S10)	10	522	386	467
+2019	Ford Motor Company	Ford	EXPLORER FFV 2WD	"2-Wheel Drive, Front"	17	24	20	3.5	6	Auto(S6)	6	525	368	454
+2019	Ford Motor Company	Ford	EXPLORER FWD	"2-Wheel Drive, Front"	19	27	22	2.3	4	Auto(S6)	6	477	326	409
+2019	Ford Motor Company	Ford	EXPLORER FWD	"2-Wheel Drive, Front"	17	24	20	3.5	6	Auto(S6)	6	525	368	454
+2019	Ford Motor Company	Ford	Flex FWD	"2-Wheel Drive, Front"	16	23	19	3.5	6	Auto(S6)	6	555	386	468
+2019	General Motors	GMC	ACADIA FWD	"2-Wheel Drive, Front"	21	26	23	2.5	4	Auto(A6)	6	412	338	383
+2019	General Motors	GMC	ACADIA FWD	"2-Wheel Drive, Front"	18	25	21	3.6	6	Auto(A6)	6	497	356	430
+2019	General Motors	GMC	C1500 YUKON 2WD	"2-Wheel Drive, Rear"	15	22	18	5.3	8	Auto(A6)	6	593	397	505
+2019	General Motors	GMC	C1500 YUKON 2WD	"2-Wheel Drive, Rear"	15	22	18	5.3	8	Auto(A6)	6	593	397	505
+2019	General Motors	GMC	C1500 YUKON 2WD	"2-Wheel Drive, Rear"	14	23	17	6.2	8	Auto(A10)	10	618	393	517
+2019	General Motors	GMC	C1500 YUKON XL 2WD	"2-Wheel Drive, Rear"	15	22	18	5.3	8	Auto(A6)	6	593	397	505
+2019	General Motors	GMC	C1500 YUKON XL 2WD	"2-Wheel Drive, Rear"	15	22	18	5.3	8	Auto(A6)	6	593	397	505
+2019	General Motors	GMC	C1500 YUKON XL 2WD	"2-Wheel Drive, Rear"	14	23	17	6.2	8	Auto(A10)	10	618	393	517
+2019	Nissan	INFINITI	QX80 2WD	"2-Wheel Drive, Rear"	14	20	16	5.6	8	Auto(S7)	7	634	441	547
+2019	FCA US LLC	Jeep	Grand Cherokee 4X2	"2-Wheel Drive, Rear"	19	26	21	3.6	6	Auto(A8)	8	470	344	414
+2019	Ford Motor Company	Lincoln	MKT FWD	"2-Wheel Drive, Front"	16	24	19	3.7	6	Auto(S6)	6	555	376	468
+2019	Ford Motor Company	Lincoln	Navigator 2WD	"2-Wheel Drive, Rear"	16	23	19	3.5	6	Auto(S10)	10	542	392	475
+2019	Ford Motor Company	Lincoln	Navigator L 2WD	"2-Wheel Drive, Rear"	16	22	18	3.5	6	Auto(S10)	10	570	405	496
+2019	Nissan	NISSAN	ARMADA 2WD	"2-Wheel Drive, Rear"	14	19	16	5.6	8	Auto(S7)	7	629	466	556
+2019	Toyota	TOYOTA	4RUNNER 2WD	"2-Wheel Drive, Rear"	17	21	18	4.0	6	Auto(S5)	5	524	424	479
+2019	Toyota	TOYOTA	SEQUOIA 2WD	"2-Wheel Drive, Rear"	13	17	15	5.7	8	Auto(S6)	6	679	523	609
+2019	Volvo	"Volvo Cars of North America, LLC"	XC90 FWD	"2-Wheel Drive, Front"	21	29	24	2.0	4	Auto(S8)	8	412	308	365
+2019	Volkswagen Group of	Audi	Q7	All Wheel Drive	19	25	21	2.0	4	Auto(S8)	8	461	358	415
+2019	Volkswagen Group of	Audi	Q7	All Wheel Drive	19	25	21	3.0	6	Auto(S8)	8	473	353	419
+2019	Volkswagen Group of	Audi	Q8	All Wheel Drive	17	22	19	3.0	6	Auto(S8)	8	531	404	474
+2019	Volkswagen Group of	Bentley	Bentayga	All Wheel Drive	14	23	17	4.0	8	Auto(S8)	8	613	379	508
+2019	BMW	BMW	X5 xDrive40i	All Wheel Drive	20	26	22	3.0	6	Auto(S8)	8	438	339	394
+2019	BMW	BMW	X5 xDrive50i	All Wheel Drive	17	22	19	4.4	8	Auto(S8)	8	535	395	472
+2019	BMW	BMW	X6 M	All Wheel Drive	14	19	16	4.4	8	Auto(S8)	8	625	456	549
+2019	BMW	BMW	X6 xDrive35i	All Wheel Drive	18	24	20	3.0	6	Auto(S8)	8	489	374	437
+2019	BMW	BMW	X6 xDrive50i	All Wheel Drive	17	22	19	4.4	8	Auto(S8)	8	535	395	472
+2019	BMW	BMW	X7 xDrive40i	All Wheel Drive	20	25	22	3.0	6	Auto(S8)	8	453	355	409
+2019	BMW	BMW	X7 xDrive50i	All Wheel Drive	15	21	17	4.4	8	Auto(S8)	8	577	420	506
+2019	General Motors	Buick	ENCLAVE AWD	All Wheel Drive	17	25	20	3.6	6	Auto(A9)	9	522	360	440
+2019	General Motors	Cadillac	ESCALADE 4WD	4-Wheel Drive	14	21	17	6.2	8	Auto(A10)	10	631	418	535
+2019	General Motors	Chevrolet	K1500 SUBURBAN 4WD	4-Wheel Drive	14	21	16	5.3	8	Auto(A6)	6	635	426	541
+2019	General Motors	Chevrolet	K1500 SUBURBAN 4WD	4-Wheel Drive	14	21	16	5.3	8	Auto(A6)	6	635	426	541
+2019	General Motors	Chevrolet	K1500 SUBURBAN 4WD	4-Wheel Drive	14	20	16	6.2	8	Auto(A10)	10	650	435	553
+2019	General Motors	Chevrolet	K1500 TAHOE 4WD	4-Wheel Drive	15	21	17	5.3	8	Auto(A6)	6	591	418	513
+2019	General Motors	Chevrolet	K1500 TAHOE 4WD	4-Wheel Drive	15	21	17	5.3	8	Auto(A6)	6	591	418	513
+2019	General Motors	Chevrolet	K1500 TAHOE 4WD	4-Wheel Drive	14	22	17	6.2	8	Auto(A10)	10	622	410	527
+2019	General Motors	Chevrolet	TRAVERSE AWD	All Wheel Drive	17	25	20	3.6	6	Auto(A9)	9	522	358	438
+2019	FCA US LLC	Dodge	Durango AWD	All Wheel Drive	18	25	21	3.6	6	Auto(A8)	8	481	361	427
+2019	FCA US LLC	Dodge	Durango AWD	All Wheel Drive	14	22	17	5.7	8	Auto(A8)	8	633	410	533
+2019	FCA US LLC	Dodge	Durango SRT AWD	All Wheel Drive	13	19	15	6.4	8	Auto(A8)	8	687	459	584
+2019	Ford Motor Company	Ford	Expedition 4WD	Part-time 4-Wheel Drive	17	22	19	3.5	6	Auto(S10)	10	528	397	469
+2019	Ford Motor Company	Ford	Expedition MAX 4WD	Part-time 4-Wheel Drive	16	21	18	3.5	6	Auto(S10)	10	555	423	493
+2019	Ford Motor Company	Ford	EXPLORER AWD	All Wheel Drive	18	25	21	2.3	4	Auto(S6)	6	494	356	423
+2019	Ford Motor Company	Ford	EXPLORER AWD	All Wheel Drive	16	22	19	3.5	6	Auto(S6)	6	541	401	478
+2019	Ford Motor Company	Ford	EXPLORER AWD	All Wheel Drive	16	22	18	3.5	6	Auto(S6)	6	573	411	500
+2019	Ford Motor Company	Ford	EXPLORER FFV AWD	All Wheel Drive	16	22	18	3.5	6	Auto(S6)	6	547	401	481
+2019	Ford Motor Company	Ford	FLEX AWD	All Wheel Drive	15	21	17	3.5	6	Auto(S6)	6	593	424	523
+2019	Ford Motor Company	Ford	FLEX AWD	All Wheel Drive	16	22	18	3.5	6	Auto(S6)	6	541	401	494
+2019	General Motors	GMC	ACADIA AWD	All Wheel Drive	21	25	22	2.5	4	Auto(A6)	6	423	351	399
+2019	General Motors	GMC	ACADIA AWD	All Wheel Drive	17	25	20	3.6	6	Auto(A6)	6	510	360	442
+2019	General Motors	GMC	K1500 YUKON 4WD	4-Wheel Drive	15	21	17	5.3	8	Auto(A6)	6	591	418	513
+2019	General Motors	GMC	K1500 YUKON 4WD	4-Wheel Drive	15	21	17	5.3	8	Auto(A6)	6	591	418	513
+2019	General Motors	GMC	K1500 YUKON 4WD	4-Wheel Drive	14	22	17	6.2	8	Auto(A10)	10	622	410	527
+2019	General Motors	GMC	K1500 YUKON XL 4WD	4-Wheel Drive	14	21	16	5.3	8	Auto(A6)	6	635	426	541
+2019	General Motors	GMC	K1500 YUKON XL 4WD	4-Wheel Drive	14	21	16	5.3	8	Auto(A6)	6	635	426	541
+2019	General Motors	GMC	K1500 YUKON XL 4WD	4-Wheel Drive	14	20	16	6.2	8	Auto(A10)	10	650	435	553
+2019	Nissan	INFINITI	QX80 4WD	4-Wheel Drive	13	19	15	5.6	8	Auto(S7)	7	684	462	593
+2019	FCA US LLC	Jeep	Grand Cherokee 4X4	All Wheel Drive	21	28	24	3.0	6	Auto(A8)	8	484	368	432
+2019	FCA US LLC	Jeep	Grand Cherokee 4X4	All Wheel Drive	18	25	21	3.6	6	Auto(A8)	8	481	361	427
+2019	FCA US LLC	Jeep	Grand Cherokee 4X4	All Wheel Drive	14	22	17	5.7	8	Auto(A8)	8	633	410	533
+2019	FCA US LLC	Jeep	Grand Cherokee SRT 4x4	All Wheel Drive	13	19	15	6.4	8	Auto(A8)	8	689	474	592
+2019	FCA US LLC	Jeep	Grand Cherokee Trackhawk 4x4	All Wheel Drive	11	17	13	6.2	8	Auto(A8)	8	785	516	664
+2019	Volkswagen Group of	Lamborghini	Urus	All Wheel Drive	12	17	14	4.0	8	Auto(S8)	8	700	516	617
+2019	Jaguar Land Rover L	Land Rover	Discovery	4-Wheel Drive	21	26	23	3.0	6	Auto(S8)	8	490	397	448
+2019	Jaguar Land Rover L	Land Rover	Discovery	4-Wheel Drive	16	21	18	3.0	6	Auto(S8)	8	558	430	500
+2019	Jaguar Land Rover L	Land Rover	Range Rover	4-Wheel Drive	16	21	18	5.0	8	Auto(S8)	8	544	426	491
+2019	Jaguar Land Rover L	Land Rover	Range Rover LWB	4-Wheel Drive	16	21	18	5.0	8	Auto(S8)	8	544	426	491
+2019	Jaguar Land Rover L	Land Rover	Range Rover LWB SVA	4-Wheel Drive	13	19	15	5.0	8	Auto(S8)	8	674	479	587
+2019	Jaguar Land Rover L	Land Rover	Range Rover Sport	4-Wheel Drive	22	28	24	3.0	6	Auto(S8)	8	458	355	412
+2019	Jaguar Land Rover L	Land Rover	Range Rover Sport	4-Wheel Drive	17	23	19	3.0	6	Auto(S8)	8	534	388	468
+2019	Jaguar Land Rover L	Land Rover	Range Rover Sport	4-Wheel Drive	17	22	19	5.0	8	Auto(S8)	8	530	405	474
+2019	Jaguar Land Rover L	Land Rover	Range Rover Sport SVR	4-Wheel Drive	15	20	16	5.0	8	Auto(S8)	8	612	453	540
+2019	Jaguar Land Rover L	Land Rover	Range Rover SV Coupe	4-Wheel Drive	14	19	16	5.0	8	Auto(S8)	8	645	477	569
+2019	Jaguar Land Rover L	Land Rover	Range Rover SVA	4-Wheel Drive	22	28	24	3.0	6	Auto(S8)	8	458	355	412
+2019	Jaguar Land Rover L	Land Rover	Range Rover SVA	4-Wheel Drive	17	23	19	3.0	6	Auto(S8)	8	534	388	468
+2019	Jaguar Land Rover L	Land Rover	Range Rover SVA	4-Wheel Drive	14	19	16	5.0	8	Auto(S8)	8	645	477	569
+2019	Toyota	LEXUS	GX 460	4-Wheel Drive	15	18	16	4.6	8	Auto(S6)	6	602	482	548
+2019	Toyota	LEXUS	LX 570	4-Wheel Drive	13	18	15	5.7	8	Auto(S8)	8	688	486	597
+2019	Toyota	LEXUS	RX 450h AWD	All Wheel Drive	31	28	30	3.5	6	Auto(AV-S6)	6	283	314	297
+2019	Toyota	LEXUS	RX 450hL AWD	All Wheel Drive	29	28	29	3.5	6	Auto(AV-S6)	6	305	314	305
+2019	Ford Motor Company	Lincoln	MKT AWD	All Wheel Drive	15	21	17	3.5	6	Auto(S6)	6	593	424	523
+2019	Ford Motor Company	Lincoln	Navigator 4WD	Part-time 4-Wheel Drive	16	21	18	3.5	6	Auto(S10)	10	562	430	502
+2019	Maserati	MASERATI	LEVANTE	All Wheel Drive	15	21	17	3.0	6	Auto(A8)	8	601	423	521
+2019	Maserati	MASERATI	LEVANTE GTS	All Wheel Drive	14	18	15	3.8	8	Auto(A8)	8	656	487	580
+2019	Maserati	MASERATI	LEVANTE S	All Wheel Drive	15	21	17	3.0	6	Auto(A8)	8	612	434	532
+2019	Maserati	MASERATI	LEVANTE Trofeo	All Wheel Drive	14	18	15	3.8	8	Auto(A8)	8	656	487	580
+2019	Mercedes-Benz	Mercedes-Benz	AMG G 63	4-Wheel Drive	13	15	14	4.0	8	Auto(A9)	9	679	585	637
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLE 43 4MATIC	4-Wheel Drive	17	22	19	3.0	6	Auto(A9)	9	534	402	475
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLE 43 4MATIC (coupe)	4-Wheel Drive	17	22	19	3.0	6	Auto(A9)	9	533	410	478
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLE 63	4-Wheel Drive	12	18	14	5.5	8	Auto(A7)	7	735	507	632
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLE 63 S	4-Wheel Drive	14	18	15	5.5	8	Auto(A7)	7	660	496	586
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLE 63 S (coupe)	4-Wheel Drive	14	18	15	5.5	8	Auto(A7)	7	654	485	578
+2019	Mercedes-Benz	Mercedes-Benz	AMG GLS 63	4-Wheel Drive	13	18	15	5.5	8	Auto(A7)	7	681	504	601
+2019	Mercedes-Benz	Mercedes-Benz	G 550	4-Wheel Drive	13	17	14	4.0	8	Auto(A9)	9	674	529	609
+2019	Mercedes-Benz	Mercedes-Benz	GLE 400 4MATIC	4-Wheel Drive	17	23	20	3.0	6	Auto(A9)	9	507	387	453
+2019	Mercedes-Benz	Mercedes-Benz	GLS 450 4MATIC	4-Wheel Drive	16	22	18	3.0	6	Auto(A9)	9	549	413	488
+2019	Mercedes-Benz	Mercedes-Benz	GLS 550 4MATIC	4-Wheel Drive	14	19	16	4.7	8	Auto(A9)	9	651	475	572
+2019	Nissan	NISSAN	ARMADA 4WD	4-Wheel Drive	13	18	15	5.6	8	Auto(S7)	7	667	484	585
+2019	Porsche	Porsche	Cayenne	All Wheel Drive	19	23	21	3.0	6	Auto(S8)	8	468	377	427
+2019	Porsche	Porsche	Cayenne S	All Wheel Drive	18	23	20	2.9	6	Auto(S8)	8	485	390	442
+2019	Porsche	Porsche	Cayenne Turbo	All Wheel Drive	15	19	17	4.0	8	Auto(S8)	8	583	463	529
+2019	Subaru	Subaru	ASCENT	All Wheel Drive	21	27	23	2.4	4	Auto(AV-S8)	8	431	333	387
+2019	Subaru	Subaru	ASCENT LIMITED/TOURING	All Wheel Drive	20	26	22	2.4	4	Auto(AV-S8)	8	446	347	401
+2019	Toyota	TOYOTA	4RUNNER 4WD	All Wheel Drive	17	20	18	4.0	6	Auto(S5)	5	532	442	491
+2019	Toyota	TOYOTA	4RUNNER 4WD	Part-time 4-Wheel Drive	17	20	18	4.0	6	Auto(S5)	5	532	442	491
+2019	Toyota	TOYOTA	HIGHLANDER AWD	All Wheel Drive	20	26	22	3.5	6	Auto(S8)	8	451	336	399
+2019	Toyota	TOYOTA	HIGHLANDER AWD	All Wheel Drive	19	26	22	3.5	6	Auto(S8)	8	454	341	403
+2019	Toyota	TOYOTA	HIGHLANDER AWD LE	All Wheel Drive	20	27	23	3.5	6	Auto(S8)	8	439	330	390
+2019	Toyota	TOYOTA	HIGHLANDER HYBRID AWD	All Wheel Drive	29	27	28	3.5	6	Auto(AV-S6)	6	304	328	314
+2019	Toyota	TOYOTA	HIGHLANDER HYBRID AWD LE	All Wheel Drive	30	28	29	3.5	6	Auto(AV-S6)	6	297	315	305
+2019	Toyota	TOYOTA	LAND CRUISER WAGON 4WD	4-Wheel Drive	13	18	15	5.7	8	Auto(S8)	8	679	493	595
+2019	Toyota	TOYOTA	SEQUOIA 4WD	Part-time 4-Wheel Drive	13	17	14	5.7	8	Auto(S6)	6	696	519	617
+2019	Volkswagen Group of	Volkswagen	Atlas 4Motion	All Wheel Drive	17	23	19	3.6	6	Auto(S8)	8	522	385	461
+2019	Volvo	"Volvo Cars of North America, LLC"	XC90 AWD	All Wheel Drive	19	26	22	2.0	4	Auto(S8)	8	456	335	402
+2019	Volvo	"Volvo Cars of North America, LLC"	XC90 AWD	All Wheel Drive	20	27	23	2.0	4	Auto(S8)	8	441	330	391

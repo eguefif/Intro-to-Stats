@@ -1,0 +1,524 @@
+SCHOOL	DISTRICT	CHARTER	ACT.COMPOSITE	TEST.TAKERS
+Wausau Engineering and Global Leadership Academy	Wausau	Yes	26	7
+Waukesha Engineering Preparatory Academy	Waukesha	Yes	25.77	43
+Kohler High	Kohler	No	25.23	60
+Tesla Engineering Charter School	Appleton Area	Yes	24.93	30
+Lakeview Technology Academy	Kenosha	No	24.66	102
+Whitefish Bay High	Whitefish Bay	No	24.6	214
+Kettle Moraine Global School for Global Leadership and Innovation	Kettle Moraine	Yes	24.18	22
+Homestead High	Mequon-Thiensville	No	24.05	334
+Middleton High	Middleton-Cross Plains Area	No	23.95	490
+Cedarburg High	Cedarburg	No	23.93	280
+Central High	Elmbrook	No	23.93	317
+Eisenhower Middle/High	New Berlin	No	23.83	201
+East High	Elmbrook	No	23.72	295
+Shorewood High	Shorewood	No	23.61	148
+Oostburg High	Oostburg	No	23.58	71
+High School of Health Sciences	Kettle Moraine	Yes	23.48	44
+Platteville High	Platteville	No	23.16	101
+Arrowhead High	Arrowhead UHS	No	23.15	541
+Pewaukee High	Pewaukee	No	23.02	227
+Waunakee High	Waunakee Community	No	22.99	310
+West High	Madison Metropolitan	No	22.98	509
+Green Lake High	Green Lake	No	22.94	16
+Grafton High	Grafton	No	22.77	168
+West De Pere High	West De Pere	No	22.41	228
+Sevastopol High	Sevastopol	No	22.4	45
+Hamilton High	Hamilton	No	22.37	328
+New Richmond High	New Richmond	No	22.24	191
+Marathon High	Marathon City	No	22.22	60
+Deerfield High	Deerfield Community	No	22.2	35
+Shullsburg High	Shullsburg	No	22.2	26
+Nicolet High	Nicolet UHS	No	22.13	234
+Monona Grove High	Monona Grove	No	22.08	230
+Greendale High	Greendale	No	22.06	217
+Cambridge High	Cambridge	No	21.98	55
+Memorial High	Madison Metropolitan	No	21.94	416
+Muskego High	Muskego-Norway	No	21.93	369
+Germantown High	Germantown	No	21.93	321
+Wrightstown High	Wrightstown Community	No	21.93	121
+Hayward Ctr for Individualized Learning	Hayward Community	Yes	21.92	15
+East High	Wauwatosa	No	21.91	257
+Mineral Point High	Mineral Point Unified	No	21.89	45
+Walden III High	Racine Unified	No	21.89	62
+Menomonee Falls High	Menomonee Falls	No	21.88	298
+De Pere High	De Pere	No	21.87	326
+River Falls High	River Falls	No	21.85	219
+Waukesha Academy of Health Professions	Waukesha	Yes	21.83	29
+Valley New School	Appleton Area	Yes	21.8	10
+Onalaska High	Onalaska	No	21.76	236
+Gibraltar High	Gibraltar Area	No	21.72	44
+New Glarus High	New Glarus	No	21.72	59
+Slinger High	Slinger	No	21.7	258
+West High	Waukesha	No	21.66	263
+Memorial High	Eau Claire Area	No	21.64	380
+Mount Horeb High	Mount Horeb Area	No	21.62	187
+Winneconne High	Winneconne Community	No	21.57	128
+Renaissance School	Appleton Area	Yes	21.56	43
+Gilmanton High	Gilmanton	No	21.55	12
+New Berlin Middle/High	New Berlin	No	21.5	176
+Benton High	Benton	No	21.47	17
+McFarland High	McFarland	No	21.45	187
+Lumen Charter High	Ripon Area	Yes	21.43	7
+Freedom High	Freedom Area	No	21.34	122
+Hudson High	Hudson	No	21.34	438
+Sun Prairie High	Sun Prairie Area	No	21.32	503
+Waterford High	Waterford UHS	No	21.29	264
+Mukwonago High	Mukwonago	No	21.28	376
+Kettle Moraine High	Kettle Moraine	No	21.26	230
+Lodi High	Lodi	No	21.25	115
+West Salem High	West Salem	No	21.25	118
+Port Washington High	Port Washington-Saukville	No	21.2	188
+Osceola High	Osceola	No	21.19	113
+Belleville High	Belleville	No	21.18	61
+School for Arts and Performance	Kettle Moraine	Yes	21.17	36
+Marshfield High	Marshfield Unified	No	21.16	260
+Lake Mills High	Lake Mills Area	No	21.15	89
+Bridges Virtual Academy	Merrill Area	Yes	21.14	34
+Dodgeville High	Dodgeville	No	21.12	116
+Rib Lake High	Rib Lake	No	21.12	33
+Prairie du Chien High	Prairie du Chien Area	No	21.11	83
+Central High	Central/Westosha UHS	No	21.11	266
+Amery High	Amery	No	21.09	114
+Sturgeon Bay High	Sturgeon Bay	No	21.09	93
+Bay Port High	Howard-Suamico	No	21.08	462
+Saint Croix Central High	Saint Croix Central	No	21.07	97
+Little Chute Career Pathways Academy	Little Chute Area	Yes	21.03	35
+Saint Croix Falls High	Saint Croix Falls	No	21.01	84
+Highland Community High	Highland	Yes	21	19
+Wisconsin Heights High	Wisconsin Heights	No	20.98	55
+Franklin High	Franklin Public	No	20.96	360
+Pardeeville High	Pardeeville Area	No	20.95	44
+Hilbert High	Hilbert	No	20.95	43
+Elkhorn Area High	Elkhorn Area	No	20.95	216
+Cuba City High	Cuba City	No	20.93	57
+Randolph High	Randolph	No	20.93	42
+Baldwin-Woodville High	Baldwin-Woodville Area	No	20.91	104
+Hortonville High	Hortonville Area	No	20.89	253
+Verona Area High	Verona Area	No	20.89	405
+Frederic 6-12 School	Frederic	No	20.88	26
+Oregon High	Oregon	No	20.88	267
+River Valley High	River Valley	No	20.87	108
+Pepin High	Pepin Area	No	20.83	12
+Endeavor Charter School	Watertown Unified	Yes	20.82	11
+Reagan College Preparatory High	Milwaukee	No	20.82	297
+Lancaster High	Lancaster Community	No	20.79	62
+North High	Appleton Area	No	20.78	406
+Kimberly High	Kimberly Area	No	20.75	384
+Williams Bay High	Williams Bay	No	20.75	48
+Laconia High	Rosendale-Brandon	No	20.74	86
+Spring Valley High	Spring Valley	No	20.73	63
+Oconomowoc High	Oconomowoc Area	No	20.71	406
+West High	West Bend	No	20.71	288
+Mosinee High	Mosinee	No	20.7	143
+Cedar Grove-Belgium High	Cedar Grove-Belgium Area	No	20.68	71
+Darlington High	Darlington Community	No	20.66	53
+De Forest High	De Forest Area	No	20.66	251
+Northland Pines High	Northland Pines	No	20.65	95
+River Ridge High	River Ridge	No	20.62	48
+Elk Mound High	Elk Mound Area	No	20.6	76
+East High	West Bend	No	20.59	258
+Albany High	Albany	No	20.58	19
+Neenah High	Neenah Joint	No	20.52	481
+Southwestern Wisconsin High	Southwestern Wisconsin	No	20.5	42
+Rosholt High	Rosholt	No	20.5	38
+Brillion High	Brillion	No	20.46	72
+Barneveld High	Barneveld	No	20.45	33
+Three Lakes High	Three Lakes	No	20.45	34
+Laurel High	Viroqua Area	Yes	20.45	11
+Ashwaubenon High	Ashwaubenon	No	20.44	238
+Waupaca High	Waupaca	No	20.44	174
+Poynette High	Poynette	No	20.43	75
+Holmen High	Holmen	No	20.42	256
+Whitnall High	Whitnall	No	20.42	195
+Plymouth High	Plymouth Joint	No	20.4	183
+Turtle Lake High	Turtle Lake	No	20.38	37
+Gilman High	Gilman	No	20.38	32
+East High	Wausau	No	20.38	227
+Prescott High	Prescott	No	20.37	94
+Florence High	Florence County	No	20.36	26
+Logan High	La Crosse	No	20.35	147
+Rice Lake High	Rice Lake Area	No	20.34	142
+Milton High	Milton	No	20.34	259
+Mayville High	Mayville	No	20.32	84
+Clark Street Community School	Middleton-Cross Plains Area	Yes	20.28	23
+Greenwood High	Greenwood	No	20.28	25
+Stevens Point Area Senior High	Stevens Point Area Public	No	20.28	483
+Princeton School	Princeton	No	20.27	31
+Rock University High	Janesville	Yes	20.25	8
+West High	Wauwatosa	No	20.25	283
+Elkhart Lake High	Elkhart Lake-Glenbeulah	No	20.24	34
+Ellsworth High	Ellsworth Community	No	20.24	118
+D C Everest High	D C Everest Area	No	20.23	380
+Chilton High	Chilton	No	20.2	87
+Fall Creek High	Fall Creek	No	20.18	55
+Markesan High	Markesan	No	20.18	45
+De Soto High	De Soto Area	No	20.17	30
+Weyauwega High	Weyauwega-Fremont	No	20.15	61
+Fox Cities Leadership Academy	Appleton Area	Yes	20.14	21
+Wilmot High	Wilmot UHS	No	20.14	244
+Baraboo High	Baraboo	No	20.12	222
+New Holstein High	New Holstein	No	20.12	91
+Badger High	Lake Geneva-Genoa City UHS	No	20.11	316
+Chetek-Weyerhaeuser High	Chetek-Weyerhaeuser Area	No	20.11	48
+Kaukauna High	Kaukauna Area	No	20.11	281
+Lincoln High	Wisconsin Rapids	No	20.1	324
+Niagara High	Niagara	No	20.07	28
+Plum City High	Plum City	No	20.07	15
+Random Lake High	Random Lake	No	20.06	69
+Wild Rose High	Wild Rose	No	20.06	51
+Lakeland High	Lakeland UHS	No	20.04	171
+Edgerton High	Edgerton	No	20.03	117
+Cameron High	Cameron	No	20.03	67
+Pulaski High	Pulaski Community	No	20.02	264
+Howards Grove High	Howards Grove	No	20.01	73
+Crivitz High	Crivitz	No	20	56
+Prentice High	Prentice	No	20	35
+Etude High	Sheboygan Area	Yes	20	10
+Hartford High	Hartford UHS	No	19.99	298
+Monroe High	Monroe	No	19.99	178
+Richland Center High	Richland	No	19.97	92
+Oak Creek High	Oak Creek-Franklin Joint	No	19.97	499
+Medford High	Medford Area Public	No	19.94	143
+Tigerton High	Tigerton	No	19.89	9
+Algoma High	Algoma	No	19.89	61
+Sheboygan Falls High	Sheboygan Falls	No	19.89	120
+Coleman High	Coleman	No	19.88	61
+Belmont High	Belmont Community	No	19.88	25
+King International	Milwaukee	No	19.86	351
+Auburndale High	Auburndale	No	19.86	60
+Glenwood City High	Glenwood City	No	19.86	58
+Portage High	Portage Community	No	19.84	176
+Northwestern High	Maple	No	19.83	105
+Oconto Falls High	Oconto Falls Public	No	19.82	125
+Southern Door High	Southern Door County	No	19.82	72
+Union Grove High	Union Grove UHS	No	19.82	240
+Stratford High	Stratford	No	19.82	81
+Owen-Withee High	Owen-Withee	No	19.81	44
+Cochrane-Fountain City High	Cochrane-Fountain City	No	19.8	47
+Fennimore High	Fennimore Community	No	19.8	66
+North High	Waukesha	No	19.79	293
+Menomonie High	Menomonie Area	No	19.73	218
+Big Foot High	Big Foot UHS	No	19.73	103
+Boscobel High	Boscobel Area	No	19.7	44
+Burlington High	Burlington Area	No	19.7	266
+Mauston High	Mauston	No	19.69	87
+Potosi High	Potosi	No	19.69	26
+Iola-Scandinavia High	Iola-Scandinavia	No	19.69	46
+Valders High	Valders Area	No	19.68	78
+Elmwood High	Elmwood	No	19.68	23
+Boyceville High	Boyceville Community	No	19.67	42
+Spooner High	Spooner Area	No	19.65	84
+Galesville-Ettrick-Trempealeau High	Galesville-Ettrick-Trempealeau	No	19.65	95
+West High	Oshkosh Area	No	19.64	394
+Chequamegon High	Chequamegon	No	19.63	74
+East Troy High	East Troy Community	No	19.62	144
+Hustisford High	Hustisford	No	19.61	38
+Stoughton High	Stoughton Area	No	19.6	237
+Prairie Farm High	Prairie Farm Public	No	19.6	15
+Beaver Dam High	Beaver Dam Unified	No	19.59	269
+Chippewa Falls High	Chippewa Falls Area Unified	No	19.59	344
+Melrose-Mindoro Junior/Senior High	Melrose-Mindoro	No	19.59	47
+eAchieve Academy - Wisconsin	Waukesha	Yes	19.59	126
+Kewaskum High	Kewaskum	No	19.58	161
+Northwood High/Middle	Northwood	Yes	19.55	29
+Juda High	Juda	No	19.54	37
+Sauk Prairie High	Sauk Prairie	No	19.53	218
+Clear Lake High	Clear Lake	No	19.52	48
+Southwest High	Green Bay Area Public	No	19.51	296
+Viroqua High	Viroqua Area	No	19.51	63
+Shiocton High	Shiocton	No	19.5	44
+Blair-Taylor Middle/High	Blair-Taylor	No	19.48	43
+Pecatonica High	Pecatonica Area	No	19.46	26
+Westfield Area High	Westfield	No	19.46	54
+New London High	New London	No	19.45	168
+Amherst High	Tomorrow River	No	19.45	73
+Fond du Lac High	Fond du Lac	No	19.44	464
+Indian Trail High School and Academy	Kenosha	No	19.44	495
+Somerset High	Somerset	No	19.44	100
+Whitewater High	Whitewater Unified	No	19.43	144
+Luxemburg-Casco High	Luxemburg-Casco	No	19.41	141
+School of Options & Applied Research High	Northland Pines	Yes	19.4	7
+Nekoosa High	Nekoosa	No	19.4	85
+Luck High	Luck	No	19.39	29
+Oconto High	Oconto Unified	No	19.39	56
+Wisconsin Connections Academy	Appleton Area	Yes	19.38	64
+Wisconsin Virtual Learning	Northern Ozaukee	Yes	19.38	35
+John Edwards High	Port Edwards	No	19.36	28
+Colfax High	Colfax	No	19.36	73
+Harborside Academy	Kenosha	Yes	19.33	104
+Seymour High	Seymour Community	No	19.33	167
+Elkhorn Options Virtual School	Elkhorn Area	Yes	19.33	6
+Craig High	Janesville	No	19.33	349
+Tomahawk High	Tomahawk	No	19.33	94
+Argyle High	Argyle	No	19.32	28
+Rural Virtual Academy	Medford Area Public	Yes	19.3	45
+Stockbridge High	Stockbridge	No	19.29	14
+West High	Wausau	No	19.29	281
+Superior High	Superior	No	19.28	273
+Washburn High	Washburn	No	19.28	32
+North High	Eau Claire Area	No	19.27	322
+Altoona High	Altoona	No	19.24	100
+Tri-County High	Tri-County Area	No	19.24	33
+Campbellsport High	Campbellsport	No	19.24	114
+Columbus High	Columbus	No	19.24	96
+Kewaunee High	Kewaunee	No	19.23	80
+Ashland High	Ashland	No	19.23	153
+Reedsburg Area High	Reedsburg	No	19.22	237
+Central High	La Crosse	No	19.22	231
+Merrill High	Merrill Area	No	19.22	197
+Eleva-Strum High	Eleva-Strum	No	19.21	43
+Thorp High	Thorp	No	19.21	47
+South Milwaukee High	South Milwaukee	No	19.2	264
+Marion High	Marion	No	19.18	23
+Watertown High	Watertown Unified	No	19.18	315
+Kickapoo High	Kickapoo Area	No	19.17	31
+Grantsburg High	Grantsburg	No	19.16	65
+Durand Middle/High	Durand-Arkansaw	No	19.15	53
+Athens High	Athens	No	19.15	48
+Rio Middle/High	Rio Community	No	19.15	27
+Ripon High	Ripon Area	No	19.14	121
+Mondovi High	Mondovi	No	19.13	72
+North High	Sheboygan Area	No	19.12	364
+New Lisbon Junior High/High	New Lisbon	No	19.1	30
+Westby High	Westby Area	No	19.1	77
+Denmark High	Denmark	No	19.1	108
+Rhinelander High	Rhinelander	No	19.08	173
+Wildlands Charter School	Augusta	Yes	19.07	15
+Bonduel High	Bonduel	No	19.06	74
+Sparta High	Sparta Area	No	19.06	165
+Waterloo High	Waterloo	No	19.05	56
+Evansville High	Evansville Community	No	19.05	133
+Parkview High	Parkview	No	19.04	54
+Mishicot High	Mishicot	No	19.04	50
+Fort Atkinson High	Fort Atkinson	No	19.01	211
+Butternut High	Butternut	No	19	10
+Kiel High	Kiel Area	No	18.99	107
+Almond-Bancroft High	Almond-Bancroft	No	18.97	31
+Wittenberg-Birnamwood High	Wittenberg-Birnamwood	No	18.96	77
+Seneca High	Seneca Area	No	18.95	20
+Clayton High	Clayton	No	18.95	25
+North High	Oshkosh Area	No	18.91	284
+South Shore Jr/Sr High	South Shore	No	18.89	18
+Lomira High	Lomira	No	18.89	84
+Two Rivers High	Two Rivers Public	No	18.88	103
+Bloomer High	Bloomer	No	18.87	99
+Shawano High	Shawano	No	18.87	178
+East High	Madison Metropolitan	No	18.85	347
+Shell Lake Junior/Senior High	Shell Lake	No	18.84	44
+Elcho High	Elcho	No	18.83	19
+Enrich Excel Achieve Learning Academy	Wausau	Yes	18.82	11
+Cashton Middle/High	Cashton	No	18.82	51
+Black Hawk High	Black Hawk	No	18.81	21
+Wisconsin Dells High	Wisconsin Dells	No	18.81	120
+Hillsboro High	Hillsboro	No	18.81	31
+Little Wolf Junior/Senior High	Manawa	No	18.78	51
+Greenfield High	Greenfield	No	18.78	285
+Loyal High	Loyal	No	18.76	37
+Berlin High	Berlin Area	No	18.74	133
+Ozaukee High	Northern Ozaukee	No	18.72	60
+Wausau Area Virtual Education	Wausau	Yes	18.71	7
+Menasha High	Menasha Joint	No	18.71	210
+Monona Grove Liberal Arts Charter School for the 21st Century	Monona Grove	Yes	18.69	16
+Palmyra-Eagle High	Palmyra-Eagle Area	No	18.67	63
+Hurley High	Hurley	No	18.65	42
+Wausaukee High	Wausaukee	No	18.63	40
+Dodgeland High	Dodgeland	No	18.62	61
+Alma High	Alma	No	18.61	18
+Stanley-Boyd High	Stanley-Boyd Area	No	18.6	50
+East High	Appleton Area	No	18.59	322
+Wauzeka High	Wauzeka-Steuben	No	18.59	22
+George D Warriner High School for Personalized Learning	Sheboygan Area	Yes	18.56	29
+Omro High	Omro	No	18.56	96
+Phillips High	Phillips	No	18.56	55
+Carmen High School of Science and Technology South Campus	Milwaukee	Yes	18.56	75
+Turner High	Beloit Turner	No	18.53	105
+Northern Lakes Regional Academy	Rice Lake Area	Yes	18.53	15
+Hayward High	Hayward Community	No	18.53	124
+Spencer Junior High/High	Spencer	No	18.52	65
+ARISE Virtual Academy	Janesville	Yes	18.5	22
+Antigo High	Antigo Unified	No	18.48	196
+Ithaca High	Ithaca	No	18.48	33
+Lincoln High	Manitowoc	No	18.47	306
+Waupun Area Senior High	Waupun	No	18.47	138
+West High	Appleton Area	No	18.45	258
+Ladysmith High	Ladysmith	No	18.45	62
+Bruce High	Bruce	No	18.43	30
+LaFollette High	Madison Metropolitan	No	18.43	368
+Birchwood High	Birchwood	No	18.42	12
+Webster High	Webster	No	18.39	44
+Veritas High	Seeds of Health Inc	Yes	18.38	50
+Destinations Career Academy of Wisconsin High	McFarland	Yes	18.38	27
+Wautoma High	Wautoma Area	No	18.36	101
+Jefferson High	Jefferson	No	18.35	172
+Cassville High	Cassville	No	18.35	20
+Little Chute High	Little Chute Area	No	18.33	79
+Edgar High	Edgar	No	18.32	49
+Johnson Creek Middle and High	Johnson Creek	No	18.31	51
+TAGOS Leadership Academy-Tailoring Academics to Guide our Students	Janesville	Yes	18.3	10
+Holcombe High	Lake Holcombe	No	18.29	24
+Reedsville High	Reedsville	No	18.27	46
+Tomah High	Tomah Area	No	18.23	186
+Monticello High	Monticello	No	18.23	27
+Brodhead High	Brodhead	No	18.22	77
+Colby High	Colby	No	18.22	61
+The REAL School-Racine Educational Alternative Learning Experience	Racine Unified	No	18.17	35
+Bayfield High	Bayfield	No	18.15	27
+Osseo-Fairchild High	Osseo-Fairchild	No	18.15	77
+John Dewey Academy of Learning	Green Bay Area Public	Yes	18.15	14
+Riverdale High	Riverdale	No	18.14	36
+Parker High	Janesville	No	18.14	292
+Independence High	Independence	No	18.13	23
+Granton High	Granton Area	No	18.13	15
+Royall High	Royall	No	18.13	32
+Gillett High	Gillett	No	18.1	32
+Adams-Friendship High	Adams-Friendship Area	No	18.08	99
+Horicon High	Horicon	No	18.08	61
+Oakfield High	Oakfield	No	18.08	40
+Lena High	Lena	No	18.08	24
+Clintonville High	Clintonville	No	18.07	116
+La Farge High	La Farge	No	18.07	15
+Solon Springs School	Solon Springs	No	18.05	21
+Clinton High	Clinton Community	No	18.04	81
+Nathan Hale High	West Allis-West Milwaukee	No	18.02	291
+Iowa-Grant High	Iowa-Grant	No	18.02	44
+Marinette High	Marinette	No	18.01	119
+Wisconsin Virtual Academy High (WIVA)	McFarland	Yes	18.01	166
+Cornell High	Cornell	No	18	26
+Fall River High	Fall River	No	17.97	33
+Unity High	Unity	No	17.97	69
+North Crawford High	North Crawford	No	17.96	29
+Winter High	Winter	No	17.95	19
+South High	Waukesha	No	17.91	200
+Necedah High	Necedah Area	No	17.91	58
+Tremper High	Kenosha	No	17.89	344
+Preble High	Green Bay Area Public	No	17.85	532
+Horace Mann High	North Fond du Lac	No	17.85	105
+South High	Sheboygan Area	No	17.84	245
+Phelps High	Phelps	No	17.83	18
+Drummond High	Drummond Area	No	17.81	21
+Pembine High	Beecher-Dunbar-Pembine	No	17.81	16
+Cadott High	Cadott Community	No	17.81	47
+Exploration Academy	Verona Area	Yes	17.8	12
+Cambria Friesland Middle/High	Cambria-Friesland	No	17.79	34
+Arcadia High	Arcadia	No	17.77	87
+Cumberland High	Cumberland	No	17.77	55
+Brookwood High	Norwalk-Ontario-Wilton	No	17.69	49
+Peshtigo High	Peshtigo	No	17.68	72
+Augusta High	Augusta	No	17.67	30
+HAPA-Hmong American Peace Academy K3-12	Milwaukee	Yes	17.63	67
+Cameron Academy of Virtual Education	Cameron	Yes	17.56	9
+Shabazz-City High	Madison Metropolitan	No	17.53	46
+High Marq Environmental Charter School	Montello	Yes	17.5	7
+Abbotsford Middle/Senior High	Abbotsford	No	17.48	43
+Meir School	Milwaukee	No	17.48	107
+Lincoln High	Alma Center	No	17.47	37
+Bowler High	Bowler	No	17.45	24
+Black River Falls High	Black River Falls	No	17.44	112
+Case High	Racine Unified	No	17.43	441
+Saint Francis High	Saint Francis	No	17.42	123
+Cudahy High	Cudahy	No	17.42	190
+Crandon High	Crandon	No	17.38	55
+Fond du Lac STEM Institute	Fond du Lac	Yes	17.33	12
+Barron High	Barron Area	No	17.33	85
+Neillsville Middle/High	Neillsville	No	17.32	69
+Whitehall Memorial Junior/Senior High	Whitehall	No	17.29	49
+Bangor Middle/High	Bangor	No	17.24	35
+Suring High	Suring Public	No	17.21	28
+Saint Croix Academy of Virtual Education	Saint Croix Central	Yes	17.2	24
+Bradford High	Kenosha	No	17.17	311
+Marshall High	Marshall	No	17.16	75
+Delavan-Darien High	Delavan-Darien	No	17.12	153
+Flambeau High	Flambeau	No	17.11	38
+Pittsville High	Pittsville	No	17.07	42
+Milwaukee School of Languages	Milwaukee	No	17.05	109
+Mercer School	Mercer	No	17	13
+New Horizons for Learning	Shorewood	Yes	17	6
+Laona High	Laona	No	16.9	10
+Mellen Public School	Mellen	No	16.9	22
+7 Rivers Community High	La Crosse	Yes	16.89	9
+Central High	West Allis-West Milwaukee	No	16.88	234
+Siren High	Siren	No	16.85	48
+Brown Deer Middle/High	Brown Deer	No	16.84	124
+Carmen High School of Science and Technology Southeast Campus	Milwaukee	Yes	16.78	143
+White Lake High	White Lake	No	16.75	8
+West High	Green Bay Area Public	No	16.73	181
+Gresham High	Gresham	No	16.65	25
+Montello Junior/Senior High	Montello	No	16.63	51
+Wonewoc-Center High	Wonewoc-Union Center	No	16.62	21
+Tenor High	Seeds of Health Inc	Yes	16.53	49
+iForward	Grantsburg	Yes	16.51	138
+East High	Green Bay Area Public	No	16.51	269
+New Auburn Jr-Sr High	New Auburn	No	16.45	22
+Horlick High	Racine Unified	No	16.43	397
+Memorial High	Beloit	No	16.41	339
+Advanced Learning Academy of Wisconsin	Barron Area	Yes	16.33	7
+Appleton Technical Academy	Appleton Area	Yes	16.32	23
+Wabeno High	Wabeno Area	No	16.12	26
+Portage Academy of Achievement	Portage Community	No	15.86	7
+Walworth Co Educ Alt High	Elkhorn Area	Yes	15.73	14
+Park High	Racine Unified	No	15.71	291
+Innovative & Alternative High	Madison Metropolitan	No	15.67	7
+Weston High	Weston	No	15.61	18
+LaCrossroads Charter	La Crosse	Yes	15.55	13
+Milwaukee High School of the Arts	Milwaukee	No	15.47	194
+Milwaukee Academy of Science	Milwaukee Academy of Science	Yes	15.38	42
+Riverside High	Milwaukee	No	15.38	304
+Wauwatosa Virtual Academy	Wauwatosa	Yes	15.35	25
+Charles F Fernandez Center Alt Learning	Stevens Point Area Public	No	15.29	17
+Carmen Middle/High School of Science and Technology Northwest Campus	Milwaukee	Yes	15.15	88
+MacDowell Montessori School K3-12	Milwaukee	No	15.12	43
+Renaissance Charter Academy	River Falls	Yes	15.1	11
+iLEAD Individualized Leadership and Entrepreneurship Academic Discovery	Mauston	Yes	15	19
+Milwaukee Community Cyber High	Milwaukee	Yes	15	25
+Prairie Phoenix Academy	Sun Prairie Area	No	14.95	23
+McKinley Academy	Manitowoc	Yes	14.91	16
+Waukesha East Alternative School	Waukesha	Yes	14.5	15
+Reuther Central High	Kenosha	No	14.47	102
+Central High	Sheboygan Area	Yes	14.47	47
+Audubon Technology and Communication High	Milwaukee	No	14.47	77
+Alliance School of Milwaukee	Milwaukee	Yes	14.44	44
+Insight School of Wisconsin High	McFarland	Yes	14.33	30
+Sparta Alternative Independent Learning School	Sparta Area	Yes	14.2	6
+River Cities High	Wisconsin Rapids	No	14.2	15
+Menominee Indian High	Menominee Indian	No	14.17	69
+McKinley Charter School	Eau Claire Area	Yes	14.17	15
+Pathways High	Pathways High	Yes	14.13	8
+James E Dottke Alternative School	West Allis-West Milwaukee	No	14.03	47
+Groppi High	Milwaukee	No	14	18
+Robert Kupper Learning Center	Tomah Area	No	14	6
+Hillcrest School	Kenosha	No	14	10
+Hamilton High	Milwaukee	No	13.99	317
+Milwaukee Collegiate Academy	Milwaukee Collegiate Academy	Yes	13.97	76
+Escuela Verde	Escuela Verde	Yes	13.96	23
+Rock River Charter School	Janesville	Yes	13.89	36
+Bay View High	Milwaukee	No	13.77	144
+Catalyst Academy	New London	Yes	13.45	12
+Beloit Learning Academy	Beloit	No	13.36	32
+Kenosha eSchool K-12	Kenosha	Yes	13.25	6
+Marshall High	Milwaukee	No	13.2	160
+Capital High	Madison Metropolitan	No	13.19	44
+South Division High	Milwaukee	No	13.19	173
+Dr Rosa Minoka-Hill School	Green Bay Area Public	No	13.17	12
+Bradley Technology High	Milwaukee	No	13.15	192
+Vincent High	Milwaukee	No	13.12	103
+Pulaski High	Milwaukee	No	13.09	158
+South Accelerated Academy	Milwaukee	No	13	21
+Vincent Accelerated Academy	Milwaukee	No	13	7
+Project STAY-Supporting Teachers and Youth	Milwaukee	No	13	54
+Racine Alternative Learning	Racine Unified	No	13	44
+Grandview High	Milwaukee	No	12.86	55
+James Madison Academic Campus	Milwaukee	No	12.86	134
+Obama School of Career and Technical Education	Milwaukee	No	12.84	79
+NOVA Tech-Northwest Opportunities Vocational Academy Technical High	Milwaukee	Yes	12.67	7
+NOVA-Northwest Opportunities Vocational Academy	Milwaukee	No	12.58	25
+Don Smith Learning Academy	Beaver Dam Unified	No	12.57	8
+North Division High 0419	Milwaukee	No	12.45	53
+ASSATA High	Milwaukee	No	12.41	20
+WHS Information Technology	Milwaukee	No	12.4	116
+Wisconsin Conservatory of Lifelong Learning	Milwaukee	No	12.28	44
+Nekoosa Academy	Nekoosa	No	12	7
+Lad Lake Synergy School	Milwaukee	No	12	8
+Shalom High	Milwaukee	No	11.42	25
+Transition High	Milwaukee	No	11.13	30
+Banner Preparatory School of Milwaukee	Milwaukee	No	9.33	7
